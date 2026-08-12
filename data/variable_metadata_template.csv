@@ -1,0 +1,6 @@
+﻿변수명,변수 설명,변수 특성,전체 케이스 수,사용 가능 데이터 수,연관 질병 코드,Step 2 의료행위,직접입력 수가(KRW)
+Sex,성별,Demographics,1000,1000,,,0.0
+Age,나이,Demographics,1000,1000,,,0.0
+Smoking,흡연 여부,Health Behavior,1000,850,,,0.0
+TG,중성지방,Examination & Laboratory,1000,700,E78,트리글리세라이드,0.0
+HbA1c,당화혈색소,Examination & Laboratory,1000,1000,E11,헤모글로빈 A1c,0.0

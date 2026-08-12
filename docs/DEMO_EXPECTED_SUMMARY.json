@@ -1,0 +1,13 @@
+{
+  "total_value_krw": 25455441.375,
+  "variable_count": 5,
+  "total_usable_count": 4550,
+  "examination_variable_count": 2,
+  "disease_linked_count": 2,
+  "scarcity_applied_count": 2,
+  "average_effectiveness_pct": 16.8,
+  "average_accuracy_pct": 100.0,
+  "average_completeness_pct": 91.0,
+  "average_consistency_pct": 100.0,
+  "warnings": []
+}

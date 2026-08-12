@@ -1,0 +1,502 @@
+{
+  "project": "health_data_valuation_service_v2025_3",
+  "service_title": "헬스 데이터 가치 평가 서비스",
+  "build_date": "2026-08-11",
+  "version": "2025.3 · BETA",
+  "file_count_excluding_manifest": 67,
+  "total_size_bytes_excluding_manifest": 6141278,
+  "validation": {
+    "python_compile": "PASS — app.py, src, tests, scripts",
+    "pytest": "21 passed",
+    "preflight": "PASS",
+    "step2_to_step7_hash_validation": "PASS",
+    "supplement_table_regression": "PASS",
+    "production_reference_smoke": "PASS",
+    "export_and_sqlite_smoke": "PASS",
+    "static_ui_preview_validation": "PASS",
+    "streamlit_browser_runtime": "NOT RUN — Streamlit package unavailable and external package installation blocked in build container"
+  },
+  "architecture": {
+    "common_portal": true,
+    "home_title": "헬스 데이터 가치 평가 서비스",
+    "entry_flow": [
+      "서비스 홈",
+      "평가 유형 선택",
+      "정형 또는 비정형 프로파일"
+    ],
+    "structured_profile": "AVAILABLE — KR-2025",
+    "unstructured_profile": "ROADMAP — extensible shell only",
+    "operator_assurance_page": true,
+    "copyright_footer": true,
+    "github_streamlit_deployment_scaffold": true
+  },
+  "calculation_profile": {
+    "formula_basis": "Supplement Table 1·2 seven-step internal calculation sequence",
+    "operational_parameters": "User-provided KR-2025 Step 2–7 CSV files",
+    "decimal_precision": 28,
+    "intermediate_rounding": false,
+    "step2_fee_column": "fee",
+    "deprecated_step2_column_present": false,
+    "institution_effect_applied_at": "STEP3 only",
+    "production_demo_total_value_krw": 25455441.375
+  },
+  "reference_profile": {
+    "STEP2": {
+      "path": "data/step2_medical_unit_fee.csv",
+      "rows": 103,
+      "columns": [
+        "fee_name_ko",
+        "fee_name_en",
+        "procedure_group",
+        "data_variable",
+        "fee"
+      ],
+      "size_bytes": 11736,
+      "sha256": "177158ea548b54c2cbe4df6e470d792a1b987a3b6fcb569174a58e6f3a42f356"
+    },
+    "STEP3": {
+      "path": "data/step3_institue_size.csv",
+      "rows": 4,
+      "columns": [
+        "institute_size",
+        "institute_size_weigth"
+      ],
+      "size_bytes": 152,
+      "sha256": "a3a966ff999ab92aca23c8d2a5ea7e562e49a130b00a5869f188b4e757444d76"
+    },
+    "STEP4": {
+      "path": "data/step4_examination_fee_kr2025.csv",
+      "rows": 4,
+      "columns": [
+        "institute_size_examination",
+        "examination_fee"
+      ],
+      "size_bytes": 166,
+      "sha256": "684af12856957dc4d3a07c0bce67257f1dcee86dffb63c440c7807fd6f6852ee"
+    },
+    "STEP5": {
+      "path": "data/step5_data_management_cost.csv",
+      "rows": 1,
+      "columns": [
+        "data_management_cost",
+        "data_management_weigth"
+      ],
+      "size_bytes": 71,
+      "sha256": "f40858b4c0fa6298e1682064317b4376e2afbd117237490a17dbccc9959de740"
+    },
+    "STEP6": {
+      "path": "data/step6_disease_scarcity_kr2025.csv",
+      "rows": 1667,
+      "columns": [
+        "ranking",
+        "icd3",
+        "disease_name",
+        "patient_count",
+        "morbidity_pct",
+        "morbidity_group",
+        "scarcity_weight_pct"
+      ],
+      "size_bytes": 161861,
+      "sha256": "ac1f9bf50c4186a486219cc781317508654182ecad8c6bdbadf06d06dd944569"
+    },
+    "STEP7": {
+      "path": "data/step7_component_reference.csv",
+      "rows": 12,
+      "columns": [
+        "component_code",
+        "component_detail",
+        "research_score",
+        "clinical_public_health_score",
+        "policy_score",
+        "industry_ai_score",
+        "effectiveness_weight"
+      ],
+      "size_bytes": 565,
+      "sha256": "493380289808c8ad7309a3d91c236bf3ec9b1d315fa872fc0cb6f98dd0724565"
+    }
+  },
+  "source_documents": {
+    "docs/context_reference.docx": {
+      "size_bytes": 4925161,
+      "sha256": "fbe9840b69285c9a6bc1f05edfccd5235d192f5abe3cd8a7d868737ace0b2768"
+    },
+    "docs/Supplements_Table_1_reference.xlsx": {
+      "size_bytes": 16932,
+      "sha256": "04e36372a2db944a427680549cd43e9ae13cd56dffeba1d082b2559b43fe1821"
+    },
+    "docs/Supplements_Table_2_KR2022_reference.xlsx": {
+      "size_bytes": 189507,
+      "sha256": "dc78fc1ab0369c6274af17154a745aad1b7eefa2a8f15e7b2b20dd64223e006f"
+    }
+  },
+  "preflight_result": {
+    "status": "PASS",
+    "reference_hashes": {
+      "step2_medical_unit_fee.csv": "177158ea548b54c2cbe4df6e470d792a1b987a3b6fcb569174a58e6f3a42f356",
+      "step3_institue_size.csv": "a3a966ff999ab92aca23c8d2a5ea7e562e49a130b00a5869f188b4e757444d76",
+      "step4_examination_fee_kr2025.csv": "684af12856957dc4d3a07c0bce67257f1dcee86dffb63c440c7807fd6f6852ee",
+      "step5_data_management_cost.csv": "f40858b4c0fa6298e1682064317b4376e2afbd117237490a17dbccc9959de740",
+      "step6_disease_scarcity_kr2025.csv": "ac1f9bf50c4186a486219cc781317508654182ecad8c6bdbadf06d06dd944569",
+      "step7_component_reference.csv": "493380289808c8ad7309a3d91c236bf3ec9b1d315fa872fc0cb6f98dd0724565"
+    },
+    "reference_rows": {
+      "STEP2": 103,
+      "STEP3": 4,
+      "STEP4": 4,
+      "STEP5": 1,
+      "STEP6": 1667,
+      "STEP7": 12
+    },
+    "production_demo": {
+      "variable_count": 5,
+      "total_usable_count": 4550,
+      "average_completeness_pct": 91.0,
+      "total_value_krw": 25455441.375,
+      "warnings": []
+    },
+    "export_bytes": {
+      "csv": 3268,
+      "excel": 12148,
+      "html": 7229,
+      "json": 11117
+    },
+    "sqlite_save_list": "PASS"
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size_bytes": 71,
+      "sha256": "4e44fadbe2405639fa3f9af18d1c926d935fc758c41bb4feda539ff78854f31f"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "size_bytes": 484,
+      "sha256": "a252a461aa0942d4e8a7e083dfad421fcd034bd417b98d39a09f732babae8596"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 153,
+      "sha256": "2e60dd27e3f863f6b39895d62e0da10f791ddcde9493542ff50ab01f6a7ec570"
+    },
+    {
+      "path": ".streamlit/config.toml",
+      "size_bytes": 252,
+      "sha256": "a916715325d13231a9d7d64825ceccb863608a59fdfc67b8fc83f979626f20b7"
+    },
+    {
+      "path": ".streamlit/secrets.toml.example",
+      "size_bytes": 1292,
+      "sha256": "230c8e07ddfdb73f754435b906b43f1d5419d21b383a5c81be7413ac3a28e51c"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 8688,
+      "sha256": "be134c90357588c4f872f37d05e54b20a07de73559c7db4a16ac857018039b28"
+    },
+    {
+      "path": "app.py",
+      "size_bytes": 50643,
+      "sha256": "ef9f91e6a5ba0a283cb3bbafab4423103e1c2f9c0efa94c0a8e038aef28ec860"
+    },
+    {
+      "path": "assets/logo.png",
+      "size_bytes": 4931,
+      "sha256": "0041dabaf1a9fc169dc7156f52fdd5a04c7793e5aa1ebfc638e98abfcc022997"
+    },
+    {
+      "path": "assets/logo.svg",
+      "size_bytes": 879,
+      "sha256": "cbbbaebdeaa4257a384425324a696ab5977d6eb702463b73a89220c98767c53a"
+    },
+    {
+      "path": "assets/styles.css",
+      "size_bytes": 21695,
+      "sha256": "ed04745e02d8286938d2f68c5cd3278c80bb7aaa863b21fb61c7f0e9ee7d4d06"
+    },
+    {
+      "path": "data/reference_manifest.json",
+      "size_bytes": 1507,
+      "sha256": "89e45506918bcc9b3ea2a6798424da56fe98184c3069210c9fe55cfc3d1b276b"
+    },
+    {
+      "path": "data/service_identity.json",
+      "size_bytes": 976,
+      "sha256": "93974943a2737d3023f7711d28d46e87afb89c0f5e4b7236e93cab3d77ae10d5"
+    },
+    {
+      "path": "data/step2_medical_unit_fee.csv",
+      "size_bytes": 11736,
+      "sha256": "177158ea548b54c2cbe4df6e470d792a1b987a3b6fcb569174a58e6f3a42f356"
+    },
+    {
+      "path": "data/step3_institue_size.csv",
+      "size_bytes": 152,
+      "sha256": "a3a966ff999ab92aca23c8d2a5ea7e562e49a130b00a5869f188b4e757444d76"
+    },
+    {
+      "path": "data/step4_examination_fee_kr2025.csv",
+      "size_bytes": 166,
+      "sha256": "684af12856957dc4d3a07c0bce67257f1dcee86dffb63c440c7807fd6f6852ee"
+    },
+    {
+      "path": "data/step5_data_management_cost.csv",
+      "size_bytes": 71,
+      "sha256": "f40858b4c0fa6298e1682064317b4376e2afbd117237490a17dbccc9959de740"
+    },
+    {
+      "path": "data/step6_disease_scarcity_kr2025.csv",
+      "size_bytes": 161861,
+      "sha256": "ac1f9bf50c4186a486219cc781317508654182ecad8c6bdbadf06d06dd944569"
+    },
+    {
+      "path": "data/step7_component_reference.csv",
+      "size_bytes": 565,
+      "sha256": "493380289808c8ad7309a3d91c236bf3ec9b1d315fa872fc0cb6f98dd0724565"
+    },
+    {
+      "path": "data/variable_metadata_template.csv",
+      "size_bytes": 457,
+      "sha256": "7b4343978c1aa68f5c12ef19fab3611f7051993a1600e5887f73cc999188dd68"
+    },
+    {
+      "path": "data/variable_metadata_template_detailed.csv",
+      "size_bytes": 687,
+      "sha256": "2ab08fbf074f917b3873338fd50f4e2e43b87d0a0b29e541cfc6d6e33d41e071"
+    },
+    {
+      "path": "data/variable_metadata_template_simple.csv",
+      "size_bytes": 457,
+      "sha256": "7b4343978c1aa68f5c12ef19fab3611f7051993a1600e5887f73cc999188dd68"
+    },
+    {
+      "path": "docs/BUTTON_CONTENT_REVIEW.md",
+      "size_bytes": 2368,
+      "sha256": "a46193e90c4e08569e4b5f998488db959b0a84a15996f21bd70bf1aac19d5d31"
+    },
+    {
+      "path": "docs/CALCULATION_SPECIFICATION.md",
+      "size_bytes": 5066,
+      "sha256": "3ef594d340c685200c45e4356a92ec9ac131c1ccc699901cba80069519256857"
+    },
+    {
+      "path": "docs/DATABASE_SCHEMA.sql",
+      "size_bytes": 482,
+      "sha256": "d76c0f39a5f78bdf10af6eb829b59e49dcf192282f25791bfdff7f7e5c8a5d6b"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "size_bytes": 3330,
+      "sha256": "854e4e96d55403014c8ef46a14d5bb0fa056ebb4dc92650dea5b23ef674a6f2b"
+    },
+    {
+      "path": "docs/DEMO_EXPECTED_RESULT.csv",
+      "size_bytes": 3268,
+      "sha256": "4c959babbcdbaa0b32b6fbb9f9f9a7950e1ccc8eeb6137764931f40577afb52f"
+    },
+    {
+      "path": "docs/DEMO_EXPECTED_SUMMARY.json",
+      "size_bytes": 345,
+      "sha256": "34a20e09ae2f689f9308ff15b73ed3aec08e4af463f6893e24fa7510858ae871"
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "size_bytes": 4513,
+      "sha256": "e70884635acb8644915f6f3fa99256930cd9db848dc26a53fc3e13ce6aca1db5"
+    },
+    {
+      "path": "docs/FEE_DATA_METHODOLOGY.md",
+      "size_bytes": 2354,
+      "sha256": "d6470afc0fe7b2c6a86690a6ad32609c80e125969c1273dadb09c5d7579cc97b"
+    },
+    {
+      "path": "docs/FEE_UNMAPPED_VARIABLES.md",
+      "size_bytes": 1312,
+      "sha256": "5341764a3c9698878ede777b97a11f0f257afcb5fbecc077d433cd332cfa17d1"
+    },
+    {
+      "path": "docs/PREFLIGHT_RESULT.json",
+      "size_bytes": 1115,
+      "sha256": "6dc68dbc98ff28dc9be65523252c97c9dde80d276dba102480754a2124d083ec"
+    },
+    {
+      "path": "docs/SERVICE_GOVERNANCE.md",
+      "size_bytes": 5947,
+      "sha256": "a192be2094ef57bb617c31d0256d00ff27d0b5c75fd57e3144bfe6ee0e7f72bc"
+    },
+    {
+      "path": "docs/Supplements_Table_1_reference.xlsx",
+      "size_bytes": 16932,
+      "sha256": "04e36372a2db944a427680549cd43e9ae13cd56dffeba1d082b2559b43fe1821"
+    },
+    {
+      "path": "docs/Supplements_Table_2_KR2022_reference.xlsx",
+      "size_bytes": 189507,
+      "sha256": "dc78fc1ab0369c6274af17154a745aad1b7eefa2a8f15e7b2b20dd64223e006f"
+    },
+    {
+      "path": "docs/UI_HOME_PREVIEW.png",
+      "size_bytes": 178036,
+      "sha256": "1a8e01b035f7e6537a3d09208c590781432a6a6ca1867ccae2220efb863a9083"
+    },
+    {
+      "path": "docs/UI_INPUT_PREVIEW.png",
+      "size_bytes": 136722,
+      "sha256": "7b853c0d99ddf38502e083c970d4d7ac61f9b5be97171c389caebfb592c39f85"
+    },
+    {
+      "path": "docs/UI_PROFILE_SELECTION_PREVIEW.png",
+      "size_bytes": 118038,
+      "sha256": "e20ff67272b1726b57eb804fb25ba3e00917120527c8263a6571b252f5594dcb"
+    },
+    {
+      "path": "docs/UI_REDESIGN_IMPLEMENTATION.md",
+      "size_bytes": 2371,
+      "sha256": "e58922c0bde54a2d1f0461cd1b0091c7998431901f3f0676e7ae9867fac06fab"
+    },
+    {
+      "path": "docs/UI_RESULT_PREVIEW.png",
+      "size_bytes": 147523,
+      "sha256": "d1b89ef584dacfbf26c996db05f7afd37ae817f0d3da6564bd94b65537b0d0c8"
+    },
+    {
+      "path": "docs/VALIDATION_REPORT.json",
+      "size_bytes": 1992,
+      "sha256": "e4b324d415ed5275c0ede7666c55579a1062666621030f4d86cb76ca5db8c6f8"
+    },
+    {
+      "path": "docs/VALIDATION_REPORT.md",
+      "size_bytes": 9236,
+      "sha256": "588ab14de04d00f3f57d2a1fa9b0030bb787bda404d535a5aaa2a5725e4b7576"
+    },
+    {
+      "path": "docs/context_reference.docx",
+      "size_bytes": 4925161,
+      "sha256": "fbe9840b69285c9a6bc1f05edfccd5235d192f5abe3cd8a7d868737ace0b2768"
+    },
+    {
+      "path": "local_data/.gitkeep",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "pytest.ini",
+      "size_bytes": 39,
+      "sha256": "0922d82a60b616ffaf801784738325d7f1925ec773c99135f64767d14166d725"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 125,
+      "sha256": "83ba4c66f3c5faf6f27e0660fdc74b86847ce41f611b6186bbf4b5549b5460fc"
+    },
+    {
+      "path": "run_local.bat",
+      "size_bytes": 148,
+      "sha256": "5b503e015ecd0bb70f8a11ffd4ad65a0adbe024fe03b259a654ae4a2febd9933"
+    },
+    {
+      "path": "run_local.sh",
+      "size_bytes": 175,
+      "sha256": "67c5e38ffbc89b3c44784bd5b95425def4f1bb4169bb9307190da5421ea61347"
+    },
+    {
+      "path": "scripts/preflight.py",
+      "size_bytes": 6664,
+      "sha256": "d15ed0b626100a57c53eecdf582cdce82b2ec12971c470ad2c164ee62312e78f"
+    },
+    {
+      "path": "src/ts26040_app/__init__.py",
+      "size_bytes": 175,
+      "sha256": "01d8d520697dd4376086b197ec8aef2ae7e522705f3289c3b453a03ec4d27843"
+    },
+    {
+      "path": "src/ts26040_app/auth.py",
+      "size_bytes": 943,
+      "sha256": "a7a9b6d52c1c8de3f635978dee3d60e16eadcbc763733c1d5694d2ce12e74669"
+    },
+    {
+      "path": "src/ts26040_app/config.py",
+      "size_bytes": 4594,
+      "sha256": "74676515508a47dc2ade26d7859c36d38a27d5abe9b26c8a680fc334734ce04e"
+    },
+    {
+      "path": "src/ts26040_app/exports.py",
+      "size_bytes": 12983,
+      "sha256": "237bcce871bd4e0aefde7c0898a803dd79e2dff2279636f294a7f7e7fd4f7324"
+    },
+    {
+      "path": "src/ts26040_app/identity.py",
+      "size_bytes": 3436,
+      "sha256": "ebffb25586cf56599e6e757d9e376e3bf1aa276ea93836269c42d601f2c7d26d"
+    },
+    {
+      "path": "src/ts26040_app/models.py",
+      "size_bytes": 1056,
+      "sha256": "9142992ed091a38e991b8bd0864ced29257bccf2d6f40e8dd331692bb474bd08"
+    },
+    {
+      "path": "src/ts26040_app/references.py",
+      "size_bytes": 21173,
+      "sha256": "3a61cd2ffda762ff740f4a3791807fb67a608b29a845b598c78ae43d0018689f"
+    },
+    {
+      "path": "src/ts26040_app/state.py",
+      "size_bytes": 3865,
+      "sha256": "38aa5b43d20db420e8eb16fcc776c3996ccf27e22f3b658a6e422d19bbce4c8f"
+    },
+    {
+      "path": "src/ts26040_app/storage.py",
+      "size_bytes": 4364,
+      "sha256": "6021fa5f6f79ad82d647f9d427e93ce72a81d027e35b642888bfc5eafb644b40"
+    },
+    {
+      "path": "src/ts26040_app/ui.py",
+      "size_bytes": 10419,
+      "sha256": "790893e4dff0cca2fa6f986267218d843a5a0848cf110729d35d62a9f18e0f5e"
+    },
+    {
+      "path": "src/ts26040_app/valuation.py",
+      "size_bytes": 25118,
+      "sha256": "39e83e96dc81e41173956fd1f12e72b230b0dc13251dcc5970f85ae0284eb52b"
+    },
+    {
+      "path": "tests/conftest.py",
+      "size_bytes": 3669,
+      "sha256": "34ab5b3969fb549539e027a720b67359e43fc4271ddd91c3676c910252e8ad86"
+    },
+    {
+      "path": "tests/test_build_integrity.py",
+      "size_bytes": 2940,
+      "sha256": "a4f9bba12fde3c19ca12102e3d4b86eb8d63d3563fffc660390b0ade288d2875"
+    },
+    {
+      "path": "tests/test_export_identity.py",
+      "size_bytes": 1772,
+      "sha256": "b7f457f88d7a0fdf9d5895e5fcb2e500f1a0ed0b5659ae1aa9375e8fbea8a8f7"
+    },
+    {
+      "path": "tests/test_fee_catalog.py",
+      "size_bytes": 1953,
+      "sha256": "26d7a89b3ffebd14b060520f68bbe264265142c4886d34407f6a6557b9945eea"
+    },
+    {
+      "path": "tests/test_portal_architecture.py",
+      "size_bytes": 2227,
+      "sha256": "236ffdbe1e34b6720f3f5cbcc89fb76ecafd1f19ce5026ef6642057983bc6057"
+    },
+    {
+      "path": "tests/test_references.py",
+      "size_bytes": 1048,
+      "sha256": "94437c573f1325b4d5bcc23d14e8e662c3217970898599a05db5bfe1f6b0d21e"
+    },
+    {
+      "path": "tests/test_service_identity.py",
+      "size_bytes": 2064,
+      "sha256": "91404f9f6b0bb53c1ab0f2bb6a093e38d8c4184d6cc0624a3beb83af05398995"
+    },
+    {
+      "path": "tests/test_valuation.py",
+      "size_bytes": 6987,
+      "sha256": "0ea13bbf2eed61c1e6ecb9fe42c88d79f147a791b43e2c1297bd151c1615fa57"
+    }
+  ]
+}

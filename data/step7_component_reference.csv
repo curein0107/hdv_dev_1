@@ -1,0 +1,13 @@
+﻿component_code,component_detail,research_score,clinical_public_health_score,policy_score,industry_ai_score,effectiveness_weight
+1,Demographics,5,4,1,5,15%
+2,Disease & Health States,5,5,2,4,16%
+3,Health Behavior,4,4,2,4,14%
+4,Oral Disease & Oral Health States,4,4,3,4,15%
+5,Oral Behavior,3,3,2,3,11%
+6,Occupational health,4,3,2,3,12%
+7,Health & Dental Service & Factor,4,4,2,4,14%
+8,Maternal & Infant health,5,5,3,4,17%
+9,Examination & Laboratory,5,5,5,5,20%
+10,Dietary behavior,4,4,3,4,15%
+11,Nutrition intake,5,5,4,5,19%
+12,Food intake,4,4,3,4,15%

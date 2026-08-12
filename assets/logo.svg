@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">헬스 데이터 가치 평가 서비스 심볼</title>
+  <desc id="desc">정형 데이터의 수평선과 비정형 데이터의 곡선이 가치 지점에서 만나는 심볼</desc>
+  <rect x="3" y="3" width="58" height="58" rx="11" fill="#F3F0E8" stroke="#203D38" stroke-width="2"/>
+  <path d="M14 17h17M14 27h17M14 37h13M14 47h17" fill="none" stroke="#203D38" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 14c8 3 11 9 8 16-2 5-8 7-9 12-1 4 2 7 8 9" fill="none" stroke="#607370" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34 32h10" fill="none" stroke="#C9A66B" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="34" cy="32" r="5.5" fill="#A76543"/>
+  <circle cx="34" cy="32" r="2" fill="#FFFDF7"/>
+</svg>

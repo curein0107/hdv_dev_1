@@ -1,0 +1,75 @@
+{
+  "project": "health_data_valuation_service_v2025_3",
+  "version": "2025.3 · BETA",
+  "validated_at": "2026-08-11",
+  "validation_environment": {
+    "python": "3.13.5",
+    "deployment_python": "3.12",
+    "streamlit_runtime": "NOT RUN - package unavailable and external installation blocked"
+  },
+  "checks": {
+    "python_compile": "PASS",
+    "pytest": "21 passed",
+    "latest_uploaded_step2_to_step7_exact_match": "PASS",
+    "supplement_table_regression": "PASS",
+    "production_chain_smoke": "PASS",
+    "export_smoke": "PASS",
+    "sqlite_save_list_smoke": "PASS",
+    "static_ui_previews": "PASS",
+    "preflight": "PASS",
+    "python_compile_scope": "app.py src tests scripts"
+  },
+  "step2": {
+    "file": "data/step2_medical_unit_fee.csv",
+    "sha256": "177158ea548b54c2cbe4df6e470d792a1b987a3b6fcb569174a58e6f3a42f356",
+    "columns": [
+      "fee_name_ko",
+      "fee_name_en",
+      "procedure_group",
+      "data_variable",
+      "fee"
+    ],
+    "rows": 103,
+    "procedure_groups": 19,
+    "minimum_fee_krw": 850,
+    "median_fee_krw": 10740,
+    "maximum_fee_krw": 488290,
+    "hospital_base_before_addon_krw_present": false
+  },
+  "reference_rows": {
+    "STEP2": 103,
+    "STEP3": 4,
+    "STEP4": 4,
+    "STEP5": 1,
+    "STEP6": 1667,
+    "STEP7": 12
+  },
+  "production_demo": {
+    "variable_count": 5,
+    "total_usable_count": 4550,
+    "average_completeness_pct": 91.0,
+    "total_value_krw": 25455441.375,
+    "warnings": []
+  },
+  "export_bytes": {
+    "csv": 3268,
+    "excel": {
+      "status": "PASS",
+      "approximate_bytes": 12148,
+      "note": "XLSX ZIP timestamp metadata may change the exact byte size between runs."
+    },
+    "html": 7229,
+    "json": 11117
+  },
+  "github_actions": {
+    "workflow": ".github/workflows/tests.yml",
+    "python": "3.12",
+    "steps": [
+      "compileall",
+      "pytest -q (21 tests)",
+      "scripts/preflight.py"
+    ],
+    "checkout": "actions/checkout@v7",
+    "setup_python": "actions/setup-python@v7"
+  }
+}

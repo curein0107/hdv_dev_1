@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "reference_hashes": {
+    "step2_medical_unit_fee.csv": "177158ea548b54c2cbe4df6e470d792a1b987a3b6fcb569174a58e6f3a42f356",
+    "step3_institue_size.csv": "a3a966ff999ab92aca23c8d2a5ea7e562e49a130b00a5869f188b4e757444d76",
+    "step4_examination_fee_kr2025.csv": "684af12856957dc4d3a07c0bce67257f1dcee86dffb63c440c7807fd6f6852ee",
+    "step5_data_management_cost.csv": "f40858b4c0fa6298e1682064317b4376e2afbd117237490a17dbccc9959de740",
+    "step6_disease_scarcity_kr2025.csv": "ac1f9bf50c4186a486219cc781317508654182ecad8c6bdbadf06d06dd944569",
+    "step7_component_reference.csv": "493380289808c8ad7309a3d91c236bf3ec9b1d315fa872fc0cb6f98dd0724565"
+  },
+  "reference_rows": {
+    "STEP2": 103,
+    "STEP3": 4,
+    "STEP4": 4,
+    "STEP5": 1,
+    "STEP6": 1667,
+    "STEP7": 12
+  },
+  "production_demo": {
+    "variable_count": 5,
+    "total_usable_count": 4550,
+    "average_completeness_pct": 91.0,
+    "total_value_krw": 25455441.375,
+    "warnings": []
+  },
+  "export_bytes": {
+    "csv": 3268,
+    "excel": 12148,
+    "html": 7229,
+    "json": 11117
+  },
+  "sqlite_save_list": "PASS"
+}

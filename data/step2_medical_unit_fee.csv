@@ -1,0 +1,104 @@
+﻿fee_name_ko,fee_name_en,procedure_group,data_variable,fee
+직접빌리루빈,Direct Bilirubin,간·단백질검사,Direct bilirubin,1210
+총빌리루빈,Total Bilirubin,간·단백질검사,Total bilirubin,1280
+총단백,Total Protein,간·단백질검사,Total protein,1360
+알라닌아미노전이효소(ALT),Alanine Aminotransferase,간·단백질검사,ALT; GPT,1870
+아스파테이트아미노전이효소(AST),Aspartate Aminotransferase,간·단백질검사,AST; GOT,1920
+알칼리인산분해효소(ALP),Alkaline Phosphatase,간·단백질검사,ALP,1510
+알부민,Albumin,간·단백질검사,Albumin,1600
+감마글루타밀전이효소(γ-GTP),Gamma-Glutamyl Transferase,간·단백질검사,Gamma-GTP; GGT,3470
+SARS-CoV-2 항원 간이검사,SARS-CoV-2 Antigen Rapid Test,감염·선별검사,SARS-CoV-2 antigen,15130
+매독반응검사,Syphilis Screening Test,감염·선별검사,VDRL; RPR,1580
+B형간염표면항원,HBsAg,감염·선별검사,HBsAg,2720
+B형간염표면항체,HBsAb,감염·선별검사,HBsAb,3560
+C형간염항체,HCV Antibody,감염·선별검사,HCV antibody,4420
+HIV 항원·항체 동시 선별검사,HIV Antigen/Antibody Screening,감염·선별검사,HIV Ag/Ab,11060
+SARS-CoV-2 실시간 RT-PCR,SARS-CoV-2 Real-Time RT-PCR,감염·선별검사,SARS-CoV-2 RNA,53080
+포도당 정량검사,Quantitative Glucose,당뇨·내분비검사,Fasting glucose; Random glucose,1340
+프락토자민,Fructosamine,당뇨·내분비검사,Fructosamine,6700
+인슐린 관련 단백,Insulin-Related Protein,당뇨·내분비검사,Insulin; C-peptide,11650
+헤모글로빈 A1c,Hemoglobin A1c,당뇨·내분비검사,HbA1c,7350
+당화알부민,Glycated Albumin,당뇨·내분비검사,Glycated albumin,10400
+갑상선호르몬 정밀면역검사,Thyroid Hormone Immunoassay,당뇨·내분비검사,Free T3; T3; T4; Free T4,11270
+갑상선자극호르몬 정밀면역검사,Thyroid-Stimulating Hormone Immunoassay,당뇨·내분비검사,TSH,15670
+24시간 혈압측정검사,Ambulatory Blood Pressure Monitoring,디지털 생체신호·연속측정,24-hour systolic BP; Diastolic BP; Nocturnal dipping,15720
+경피적 혈액산소포화도 측정,Percutaneous Oxygen Saturation Monitoring,디지털 생체신호·연속측정,SpO2; Pulse rate; Desaturation event,8780
+전문가용 연속혈당측정검사,Professional Continuous Glucose Monitoring,디지털 생체신호·연속측정,CGM glucose; Time in range; Glycemic variability,38460
+개인용 연속혈당측정검사-정밀,"Personal Continuous Glucose Monitoring, Detailed",디지털 생체신호·연속측정,CGM glucose; Time in range; Ambulatory glucose profile,28670
+개인용 연속혈당측정검사-일반,"Personal Continuous Glucose Monitoring, General",디지털 생체신호·연속측정,CGM glucose; Summary metrics,16550
+조직병리검사 Level A,"Histopathologic Examination, Level A",병리검사,Histopathology diagnosis; Specimen site; Morphology finding,23240
+자궁질 세포병리검사,Cervicovaginal Cytopathology,병리검사,Cervical cytology result; Bethesda category,10740
+정밀안저검사,Fundus Examination,시각기능·안과검사,Fundus finding; Retinopathy grade,4860
+기본 안저촬영,Basic Fundus Photography,시각기능·안과검사,Fundus image; Diabetic retinopathy; Optic disc finding,5630
+광각 안저촬영,Wide-Field Fundus Photography,시각기능·안과검사,Wide-field retinal image; Peripheral retinal lesion,9220
+광간섭단층 혈관영상,Optical Coherence Tomography Angiography,시각기능·안과검사,Retinal vascular density; OCTA image,31890
+굴절 및 조절검사,Refraction Test,시각기능·안과검사,Spherical equivalent; Visual refraction; Astigmatism,13130
+정밀 안압측정,Detailed Tonometry,시각기능·안과검사,Intraocular pressure,4230
+안구광학단층촬영,Optical Coherence Tomography,시각기능·안과검사,Retinal thickness; Macular OCT; RNFL thickness,32630
+요침사검사-장비측정,Urine Sediment Examination,신장·요검사,Urine RBC; Urine WBC; Cast; Crystal,1300
+요검사 10종까지,Urinalysis up to 10 Items,신장·요검사,Urine protein; Glucose; Ketone; Occult blood; pH; Specific gravity,1980
+크레아티닌,Creatinine,신장·요검사,Serum creatinine; eGFR input,1690
+요소질소,Blood Urea Nitrogen,신장·요검사,BUN,1540
+요산,Uric Acid,신장·요검사,Uric acid,2180
+시스타틴 C,Cystatin C,신장·요검사,Cystatin C; eGFRcys input,6340
+전해질검사,Electrolyte Test,신장·요검사,Sodium; Potassium; Chloride; Calcium; Magnesium; Phosphorus,1660
+이온화 전해질검사,Ionized Electrolyte Test,신장·요검사,Ionized calcium; Ionized magnesium,5910
+미량알부민 정량검사,Quantitative Microalbumin,신장·요검사,Urine microalbumin; Albumin-creatinine ratio input,17940
+기초대사측정,Basal Metabolism Rate Measurement,신체기능·대사검사,Basal metabolic rate; Resting energy expenditure,10040
+도수근력검사-상지 또는 하지,"Manual Muscle Test, Upper or Lower Extremity",신체기능·재활검사,Manual muscle strength grade; Limb strength,15220
+도수근력검사-전신,"Manual Muscle Test, Total Body",신체기능·재활검사,Whole-body muscle strength grade,21580
+버그 균형검사,Berg Balance Test,신체기능·재활검사,Berg balance score; Fall risk,10790
+표준 12유도 심전도 기록 및 판독,12-Lead Electrocardiography,심혈관 기능·모니터링,ECG waveform; Heart rate; PR; QRS; QT/QTc,8560
+Master 운동 또는 약제 부하심전도,Master Exercise or Pharmacologic Stress ECG,심혈관 기능·모니터링,Stress ECG; Ischemic change; Exercise response,27200
+트레드밀 또는 자전거 부하심전도,Treadmill or Bicycle Ergometer ECG,심혈관 기능·모니터링,Stress ECG; METs; Exercise heart rate,43580
+심전도 침상감시,Bedside ECG Monitoring,심혈관 기능·모니터링,Continuous ECG; Heart rate; Arrhythmia event,16560
+홀터 심전도 48시간 이내,Holter ECG up to 48 Hours,심혈관 기능·모니터링,Holter waveform; Arrhythmia burden; HR variability,51740
+일상생활 간헐적 심전도 감시,Intermittent Ambulatory ECG Monitoring,심혈관 기능·모니터링,Event ECG; Symptom-rhythm correlation,24820
+홀터 심전도 48시간 초과 7일 이내,Holter ECG over 48 Hours up to 7 Days,심혈관 기능·모니터링,Extended ECG; Arrhythmia burden; AF burden,137910
+원격심박기술에 의한 감시,Remote Cardiac Monitoring,심혈관 기능·모니터링,Remote heart rate; Rhythm event; Alert log,38980
+트로포닌 정밀면역검사,Troponin Immunoassay,심혈관 바이오마커,Troponin I; Troponin T,10460
+CK-MB 정밀면역검사,CK-MB Immunoassay,심혈관 바이오마커,CK-MB,8030
+나트륨이뇨펩타이드 정밀면역검사,Natriuretic Peptide Immunoassay,심혈관 바이오마커,BNP; NT-proBNP,48570
+흉부 직접촬영 2매,"Chest Radiography, 2 Views",영상검사,Chest X-ray image; Cardiothoracic ratio; Lung opacity,9930
+유방촬영,Mammography,영상검사,Mammography image; BI-RADS category; Breast density,19250
+양방사선 골밀도검사-1부위,"DXA Bone Densitometry, 1 Site",영상검사,Bone mineral density; T-score; Z-score,39230
+양방사선 골밀도검사-2부위 이상,"DXA Bone Densitometry, 2 or More Sites",영상검사,Lumbar BMD; Femur BMD; T-score; Z-score,46320
+비타민 정밀면역검사,Vitamin Immunoassay,영양·골대사검사,25-hydroxy vitamin D; Vitamin B12; Folate,10770
+골대사효소 정밀면역검사,Bone Enzyme Immunoassay,영양·골대사검사,Bone-specific alkaline phosphatase,8210
+골흡수표지자 정밀면역검사,Bone Resorption Marker Immunoassay,영양·골대사검사,CTX; NTX,14020
+부갑상선표지자 정밀면역검사,Parathyroid Marker Immunoassay,영양·골대사검사,PTH,16940
+골형성표지자 정밀면역검사,Bone Formation Marker Immunoassay,영양·골대사검사,P1NP; Osteocalcin,16940
+프로트롬빈시간,Prothrombin Time,응고검사,PT; INR,2020
+활성화부분트롬보플라스틴시간,Activated Partial Thromboplastin Time,응고검사,aPTT,3270
+섬유소원,Fibrinogen,응고검사,Fibrinogen,3040
+D-이합체 정량검사,Quantitative D-Dimer,응고검사,D-dimer,12590
+트리글리세라이드,Triglyceride,지질검사,Triglyceride,3790
+총콜레스테롤,Total Cholesterol,지질검사,Total cholesterol,1580
+HDL 콜레스테롤,HDL Cholesterol,지질검사,HDL cholesterol,6430
+LDL 콜레스테롤,LDL Cholesterol,지질검사,LDL cholesterol,6450
+리포프로테인(a),Lipoprotein(a),지질검사,Lipoprotein(a),10660
+아포지단백,Apolipoprotein,지질검사,ApoA1; ApoB,7380
+표준순음청력검사,Pure Tone Audiometry,청각기능검사,Hearing threshold by frequency; Hearing loss grade,20290
+고막운동성계측,Tympanometry,청각기능검사,Tympanogram type; Middle ear pressure; Compliance,11870
+갑상선·부갑상선 초음파,Thyroid and Parathyroid Ultrasonography,초음파검사,Thyroid nodule; Gland volume; K-TIRADS finding,72770
+유방 초음파-일반,"Breast Ultrasonography, General",초음파검사,Breast lesion; BI-RADS ultrasound; Breast density,98080
+유방 초음파-정밀,"Breast Ultrasonography, Detailed",초음파검사,Detailed breast lesion; BI-RADS ultrasound,137310
+심초음파-단순,"Echocardiography, Simple",초음파검사,Ejection fraction; Chamber size; Valve finding,88590
+심초음파-일반,"Echocardiography, General",초음파검사,Ejection fraction; Wall motion; Diastolic function; Valve finding,139830
+복부 초음파-간·담낭·담도·비장·췌장 일반,"Abdominal Ultrasonography, General",초음파검사,Fatty liver; Gallstone; Organ size; Focal lesion,96580
+신장·부신·방광 초음파,"Kidney, Adrenal Gland and Bladder Ultrasonography",초음파검사,Renal size; Hydronephrosis; Bladder residual; Mass,77690
+경동맥 도플러 초음파,Carotid Artery Doppler Ultrasonography,초음파검사,Carotid IMT; Plaque; Stenosis; Flow velocity,87260
+하지 혈관 도플러 초음파,Lower Extremity Vascular Doppler Ultrasonography,초음파검사,Arterial stenosis; Venous thrombosis; Flow velocity,111330
+일반혈액검사(CBC)-혈구세포 장비측정,Complete Blood Cell Count by Analyzer,혈액·염증검사,WBC; RBC; Hemoglobin; Hematocrit; Platelet; MCV; MCH; MCHC,1050
+혈색소 검사-화학반응 육안검사,Hemoglobin Test,혈액·염증검사,Hemoglobin,850
+적혈구침강속도,Erythrocyte Sedimentation Rate,혈액·염증검사,ESR,1030
+C-반응성단백 정량검사,Quantitative C-Reactive Protein,혈액·염증검사,CRP; hs-CRP,7120
+프로칼시토닌 정량검사,Quantitative Procalcitonin,혈액·염증검사,Procalcitonin,15600
+혈액가스검사,Blood Gas,혈액·염증검사,pH; pCO2; pO2; HCO3-,4260
+혈액가스분석,Blood Gas Study,혈액·염증검사,ABGA; pH; pCO2; pO2; HCO3-; Base excess,14250
+철대사검사-화학반응 장비측정,Iron Metabolism Test by Chemistry Analyzer,혈액·염증검사,Serum iron; TIBC; UIBC,2580
+철대사검사-정밀면역검사,Iron Metabolism Test by Immunoassay,혈액·염증검사,Ferritin,9570
+기본폐기능검사,Basic Pulmonary Function Test,호흡·수면 기능검사,FVC; FEV1; FEV1/FVC,14110
+기류용적폐곡선 검사,Flow-Volume Curve Pulmonary Function Test,호흡·수면 기능검사,FVC; FEV1; PEF; Flow-volume curve,23240
+운동부하 심폐기능검사,Cardiopulmonary Exercise Test,호흡·수면 기능검사,VO2 peak; VCO2; Ventilatory threshold; METs,66530
+수면다원검사,Polysomnography,호흡·수면 기능검사,AHI; Oxygen desaturation; Sleep stage; Apnea event,488290

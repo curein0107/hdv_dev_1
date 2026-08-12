@@ -1,0 +1,16 @@
+{
+  "operator_name": "차의과학대학교 연구팀",
+  "operator_unit": "헬스 데이터 가치평가 연구개발",
+  "methodology_owner": "KR-2025 평가 프로파일 운영팀",
+  "methodology_basis": "ISO/TS 26040 개발 프레임워크 기반",
+  "assurance_status": "연구·검증용 베타",
+  "assurance_note": "운영기관이 산정 로직과 참조자료 버전을 관리합니다. ISO, 건강보험심사평가원(HIRA), KOICD가 본 서비스 또는 산출값을 공식 인증·보증하는 것은 아닙니다.",
+  "reference_sources": [
+    "건강보험심사평가원(HIRA) 수가 및 3단상병 통계",
+    "KOICD 건강보험행위분류 코드",
+    "프로젝트 내 검증된 KR-2025 참조표"
+  ],
+  "data_handling_note": "정형 데이터 평가는 환자 원자료가 아니라 데이터셋·변수 단위 메타정보를 입력하도록 설계되었습니다.",
+  "contact_email": "",
+  "copyright_holder": "차의과학대학교 연구팀"
+}

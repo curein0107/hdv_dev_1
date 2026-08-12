@@ -1,0 +1,1668 @@
+﻿ranking,icd3,disease_name,patient_count,morbidity_pct,morbidity_group,scarcity_weight_pct
+1,K05,Gingivitis and periodontal diseases,20179142,6.263536803,Group 1 (Morbidity >=1%),-80
+2,J20,Acute bronchitis,15423293,4.787337505,Group 1 (Morbidity >=1%),-80
+3,I10,Essential (primary) hypertension,7546132,2.342293617,Group 1 (Morbidity >=1%),-80
+4,J30,Vasomotor and allergic rhinitis,7146470,2.218239896,Group 1 (Morbidity >=1%),-80
+5,K02,Dental caries,6180182,1.918307399,Group 1 (Morbidity >=1%),-80
+6,M54,Dorsalgia,5932011,1.841275968,Group 1 (Morbidity >=1%),-80
+7,J06,Acute upper respiratory infections of multiple and unspecified sites,5788505,1.796732195,Group 1 (Morbidity >=1%),-80
+8,K29,Gastritis and duodenitis,5071923,1.574307588,Group 1 (Morbidity >=1%),-80
+9,A09,Other gastroenteritis and colitis of infectious and unspecified origin,4920292,1.527241843,Group 1 (Morbidity >=1%),-80
+10,K21,Gastro-oesophageal reflux disease,4560306,1.415503417,Group 1 (Morbidity >=1%),-80
+11,J02,Acute pharyngitis,4274610,1.326824354,Group 1 (Morbidity >=1%),-80
+12,J00,Acute nasopharyngitis [common cold],4235835,1.314788726,Group 1 (Morbidity >=1%),-80
+13,H10,Conjunctivitis,4189018,1.300256889,Group 1 (Morbidity >=1%),-80
+14,J03,Acute tonsillitis,4181631,1.29796399,Group 1 (Morbidity >=1%),-80
+15,J01,Acute sinusitis,4156095,1.290037703,Group 1 (Morbidity >=1%),-80
+16,L23,Allergic contact dermatitis,4152007,1.288768801,Group 1 (Morbidity >=1%),-80
+17,E11,Type 2 diabetes mellitus,3779242,1.173063818,Group 1 (Morbidity >=1%),-80
+18,E78,Disorders of lipoprotein metabolism and other lipidaemias,3495139,1.084879216,Group 1 (Morbidity >=1%),-80
+19,M17,Gonarthrosis [arthrosis of knee],3453627,1.071994033,Group 1 (Morbidity >=1%),-80
+20,M79,"Other soft tissue disorders, not elsewhere classified",3195951,0.992012282,Group 2 (Morbidity >=0.1%),-60
+21,K04,Diseases of pulp and periapical tissues,3110096,0.965363183,Group 2 (Morbidity >=0.1%),-60
+22,J10,Influenza due to identified seasonal influenza virus,2898629,0.899724548,Group 2 (Morbidity >=0.1%),-60
+23,J04,Acute laryngitis and tracheitis,2873890,0.892045647,Group 2 (Morbidity >=0.1%),-60
+24,R10,Abdominal and pelvic pain,2718472,0.84380443,Group 2 (Morbidity >=0.1%),-60
+25,H04,Disorders of lacrimal system,2638696,0.819042232,Group 2 (Morbidity >=0.1%),-60
+26,H52,Disorders of refraction and accommodation,2595833,0.805737703,Group 2 (Morbidity >=0.1%),-60
+27,M75,Shoulder lesions,2501828,0.776558872,Group 2 (Morbidity >=0.1%),-60
+28,L50,Urticaria,2250352,0.69850158,Group 2 (Morbidity >=0.1%),-60
+29,S33,"Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",2250166,0.698443846,Group 2 (Morbidity >=0.1%),-60
+30,J32,Chronic sinusitis,2180318,0.676763265,Group 2 (Morbidity >=0.1%),-60
+31,K03,Other diseases of hard tissues of teeth,2175732,0.675339787,Group 2 (Morbidity >=0.1%),-60
+32,J40,"Bronchitis, not specified as acute or chronic",2147762,0.666657994,Group 2 (Morbidity >=0.1%),-60
+33,S93,"Dislocation, sprain and strain of joints and ligaments at ankle and foot level",2103575,0.6529425,Group 2 (Morbidity >=0.1%),-60
+34,M48,Other spondylopathies,2009052,0.623602884,Group 2 (Morbidity >=0.1%),-60
+35,M51,Other intervertebral disc disorders,2000672,0.62100176,Group 2 (Morbidity >=0.1%),-60
+36,B35,Dermatophytosis,1955663,0.60703112,Group 2 (Morbidity >=0.1%),-60
+37,K59,Other functional intestinal disorders,1905230,0.591376889,Group 2 (Morbidity >=0.1%),-60
+38,M65,Synovitis and tenosynovitis,1867737,0.57973919,Group 2 (Morbidity >=0.1%),-60
+39,K00,Disorders of tooth development and eruption,1837224,0.570268059,Group 2 (Morbidity >=0.1%),-60
+40,K63,Other diseases of intestine,1754841,0.544696657,Group 2 (Morbidity >=0.1%),-60
+41,M25,"Other joint disorders, not elsewhere classified",1702163,0.528345585,Group 2 (Morbidity >=0.1%),-60
+42,N40,Hyperplasia of prostate,1697180,0.526798879,Group 2 (Morbidity >=0.1%),-60
+43,N30,Cystitis,1678773,0.521085409,Group 2 (Morbidity >=0.1%),-60
+44,L30,Other dermatitis,1612746,0.500590854,Group 2 (Morbidity >=0.1%),-60
+45,H35,Other retinal disorders,1589146,0.493265494,Group 2 (Morbidity >=0.1%),-60
+46,H60,Otitis externa,1579852,0.490380669,Group 2 (Morbidity >=0.1%),-60
+47,S63,"Dislocation, sprain and strain of joints and ligaments at wrist and hand level",1576641,0.489383985,Group 2 (Morbidity >=0.1%),-60
+48,H00,Hordeolum and chalazion,1547615,0.480374414,Group 2 (Morbidity >=0.1%),-60
+49,K08,Other disorders of teeth and supporting structures,1526556,0.473837772,Group 2 (Morbidity >=0.1%),-60
+50,M77,Other enthesopathies,1495482,0.464192509,Group 2 (Morbidity >=0.1%),-60
+51,H25,Senile cataract,1492548,0.463281805,Group 2 (Morbidity >=0.1%),-60
+52,Z46,Fitting and adjustment of other devices,1392801,0.432320677,Group 2 (Morbidity >=0.1%),-60
+53,L02,"Cutaneous abscess, furuncle and carbuncle",1368216,0.424689576,Group 2 (Morbidity >=0.1%),-60
+54,H16,Keratitis,1351131,0.419386451,Group 2 (Morbidity >=0.1%),-60
+55,K07,Dentofacial anomalies [including malocclusion],1337417,0.415129672,Group 2 (Morbidity >=0.1%),-60
+56,K01,Embedded and impacted teeth,1328223,0.412275886,Group 2 (Morbidity >=0.1%),-60
+57,M81,Osteoporosis without pathological fracture,1321482,0.410183502,Group 2 (Morbidity >=0.1%),-60
+58,J34,Other disorders of nose and nasal sinuses,1314677,0.408071254,Group 2 (Morbidity >=0.1%),-60
+59,K58,Irritable bowel syndrome,1305284,0.405155698,Group 2 (Morbidity >=0.1%),-60
+60,J11,"Influenza, virus not identified",1280415,0.397436446,Group 2 (Morbidity >=0.1%),-60
+61,H40,Glaucoma,1276876,0.396337952,Group 2 (Morbidity >=0.1%),-60
+62,L24,Irritant contact dermatitis,1257005,0.390170062,Group 2 (Morbidity >=0.1%),-60
+63,L03,Cellulitis,1234687,0.383242631,Group 2 (Morbidity >=0.1%),-60
+64,M19,Other arthrosis,1229968,0.381777869,Group 2 (Morbidity >=0.1%),-60
+65,H81,Disorders of vestibular function,1222793,0.379550774,Group 2 (Morbidity >=0.1%),-60
+66,M47,Spondylosis,1200144,0.372520601,Group 2 (Morbidity >=0.1%),-60
+67,N76,Other inflammation of vagina and vulva,1183320,0.367298489,Group 2 (Morbidity >=0.1%),-60
+68,K52,Other noninfective gastroenteritis and colitis,1102758,0.342292319,Group 2 (Morbidity >=0.1%),-60
+69,H66,Suppurative and unspecified otitis media,1079550,0.335088635,Group 2 (Morbidity >=0.1%),-60
+70,R51,Headache,1079150,0.334964477,Group 2 (Morbidity >=0.1%),-60
+71,F32,Depressive episode,1075264,0.333758276,Group 2 (Morbidity >=0.1%),-60
+72,R42,Dizziness and giddiness,1049164,0.325656925,Group 2 (Morbidity >=0.1%),-60
+73,N72,Inflammatory disease of cervix uteri,1047152,0.325032407,Group 2 (Morbidity >=0.1%),-60
+74,M13,Other arthritis,1025791,0.318402025,Group 2 (Morbidity >=0.1%),-60
+75,G47,Sleep disorders,1003924,0.311614583,Group 2 (Morbidity >=0.1%),-60
+76,L20,Atopic dermatitis,995392,0.308966279,Group 2 (Morbidity >=0.1%),-60
+77,M50,Cervical disc disorders,990422,0.307423608,Group 2 (Morbidity >=0.1%),-60
+78,R07,Pain in throat and chest,980772,0.304428281,Group 2 (Morbidity >=0.1%),-60
+79,S83,"Dislocation, sprain and strain of joints and ligaments of knee",975872,0.302907338,Group 2 (Morbidity >=0.1%),-60
+80,J18,"Pneumonia, organism unspecified",961154,0.298338921,Group 2 (Morbidity >=0.1%),-60
+81,S13,"Dislocation, sprain and strain of joints and ligaments at neck level",896046,0.27812962,Group 2 (Morbidity >=0.1%),-60
+82,S02,Fracture of skull and facial bones,881871,0.273729748,Group 2 (Morbidity >=0.1%),-60
+83,F41,Other anxiety disorders,854412,0.265206569,Group 2 (Morbidity >=0.1%),-60
+84,J45,Asthma,851441,0.26428438,Group 2 (Morbidity >=0.1%),-60
+85,R50,Fever of other and unknown origin,851028,0.264156187,Group 2 (Morbidity >=0.1%),-60
+86,B00,Herpesviral [herpes simplex] infections,848107,0.263249518,Group 2 (Morbidity >=0.1%),-60
+87,K12,Stomatitis and related lesions,805616,0.250060457,Group 2 (Morbidity >=0.1%),-60
+88,S61,Open wound of wrist and hand,799054,0.248023634,Group 2 (Morbidity >=0.1%),-60
+89,H61,Other disorders of external ear,797944,0.247679094,Group 2 (Morbidity >=0.1%),-60
+90,B02,Zoster [herpes zoster],795489,0.24691707,Group 2 (Morbidity >=0.1%),-60
+91,J21,Acute bronchiolitis,787528,0.244446003,Group 2 (Morbidity >=0.1%),-60
+92,K76,Other diseases of liver,778314,0.241586009,Group 2 (Morbidity >=0.1%),-60
+93,K30,Functional dyspepsia,773460,0.240079344,Group 2 (Morbidity >=0.1%),-60
+94,I20,Angina pectoris,764782,0.237385722,Group 2 (Morbidity >=0.1%),-60
+95,L21,Seborrhoeic dermatitis,761777,0.236452981,Group 2 (Morbidity >=0.1%),-60
+96,N95,Menopausal and other perimenopausal disorders,750876,0.233069348,Group 2 (Morbidity >=0.1%),-60
+97,T85,"Complications of other internal prosthetic devices, implants and grafts",750205,0.232861071,Group 2 (Morbidity >=0.1%),-60
+98,K64,Haemorrhoids and perianal venous thrombosis,739628,0.229578007,Group 2 (Morbidity >=0.1%),-60
+99,U07,Emergency use of U07,734573,0.228008952,Group 2 (Morbidity >=0.1%),-60
+100,F00,Dementia in Alzheimer disease,733356,0.227631199,Group 2 (Morbidity >=0.1%),-60
+101,D25,Leiomyoma of uterus,698294,0.216748074,Group 2 (Morbidity >=0.1%),-60
+102,J38,"Diseases of vocal cords and larynx, not elsewhere classified",690881,0.214447104,Group 2 (Morbidity >=0.1%),-60
+103,J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",686611,0.213121711,Group 2 (Morbidity >=0.1%),-60
+104,S43,"Dislocation, sprain and strain of joints and ligaments of shoulder girdle",682761,0.211926684,Group 2 (Morbidity >=0.1%),-60
+105,N93,Other abnormal uterine and vaginal bleeding,682362,0.211802836,Group 2 (Morbidity >=0.1%),-60
+106,B37,Candidiasis,669842,0.207916671,Group 2 (Morbidity >=0.1%),-60
+107,E03,Other hypothyroidism,665935,0.206703951,Group 2 (Morbidity >=0.1%),-60
+108,H01,Other inflammation of eyelid,663209,0.20585781,Group 2 (Morbidity >=0.1%),-60
+109,N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",643438,0.199720959,Group 2 (Morbidity >=0.1%),-60
+110,S23,"Dislocation, sprain and strain of joints and ligaments of thorax",631820,0.196114772,Group 2 (Morbidity >=0.1%),-60
+111,L08,Other local infections of skin and subcutaneous tissue,623330,0.193479504,Group 2 (Morbidity >=0.1%),-60
+112,H11,Other disorders of conjunctiva,604442,0.187616734,Group 2 (Morbidity >=0.1%),-60
+113,A04,Other bacterial intestinal infections,600091,0.186266198,Group 2 (Morbidity >=0.1%),-60
+114,I63,Cerebral infarction,599700,0.186144833,Group 2 (Morbidity >=0.1%),-60
+115,G43,Migraine,585317,0.181680399,Group 2 (Morbidity >=0.1%),-60
+116,D12,"Benign neoplasm of colon, rectum, anus and anal canal",576828,0.179045442,Group 2 (Morbidity >=0.1%),-60
+117,M10,Gout,565598,0.175559689,Group 2 (Morbidity >=0.1%),-60
+118,N63,Unspecified lump in breast,564279,0.175150276,Group 2 (Morbidity >=0.1%),-60
+119,R11,Nausea and vomiting,562737,0.174671644,Group 2 (Morbidity >=0.1%),-60
+120,N64,Other disorders of breast,556928,0.17286855,Group 2 (Morbidity >=0.1%),-60
+121,E04,Other nontoxic goitre,547745,0.170018178,Group 2 (Morbidity >=0.1%),-60
+122,K25,Gastric ulcer,545457,0.169307991,Group 2 (Morbidity >=0.1%),-60
+123,H90,Conductive and sensorineural hearing loss,540643,0.167813742,Group 2 (Morbidity >=0.1%),-60
+124,L25,Unspecified contact dermatitis,540514,0.167773701,Group 2 (Morbidity >=0.1%),-60
+125,T14,Injury of unspecified body region,535884,0.166336565,Group 2 (Morbidity >=0.1%),-60
+126,R73,Elevated blood glucose level,527518,0.163739787,Group 2 (Morbidity >=0.1%),-60
+127,J36,Peritonsillar abscess,523269,0.162420912,Group 2 (Morbidity >=0.1%),-60
+128,L04,Acute lymphadenitis,522541,0.162194943,Group 2 (Morbidity >=0.1%),-60
+129,D23,Other benign neoplasms of skin,518404,0.160910832,Group 2 (Morbidity >=0.1%),-60
+130,H65,Nonsuppurative otitis media,516216,0.160231684,Group 2 (Morbidity >=0.1%),-60
+131,Z29,Need for other prophylactic measures,514701,0.159761434,Group 2 (Morbidity >=0.1%),-60
+132,G44,Other headache syndromes,514286,0.159632619,Group 2 (Morbidity >=0.1%),-60
+133,J22,Unspecified acute lower respiratory infection,509488,0.158143336,Group 2 (Morbidity >=0.1%),-60
+134,S22,"Fracture of rib(s), sternum and thoracic spine",508172,0.157734854,Group 2 (Morbidity >=0.1%),-60
+135,N91,"Absent, scanty and rare menstruation",506855,0.157326062,Group 2 (Morbidity >=0.1%),-60
+136,S01,Open wound of head,501147,0.155554318,Group 2 (Morbidity >=0.1%),-60
+137,N34,Urethritis and urethral syndrome,495635,0.153843412,Group 2 (Morbidity >=0.1%),-60
+138,Z34,Supervision of normal pregnancy,484655,0.150435258,Group 2 (Morbidity >=0.1%),-60
+139,S92,"Fracture of foot, except ankle",480012,0.148994086,Group 2 (Morbidity >=0.1%),-60
+140,B07,Viral warts,468488,0.145417076,Group 2 (Morbidity >=0.1%),-60
+141,H36,Retinal disorders in diseases classified elsewhere,467489,0.14510699,Group 2 (Morbidity >=0.1%),-60
+142,C73,Malignant neoplasm of thyroid gland,465056,0.144351795,Group 2 (Morbidity >=0.1%),-60
+143,E14,Unspecified diabetes mellitus,464784,0.144267367,Group 2 (Morbidity >=0.1%),-60
+144,N39,Other disorders of urinary system,458373,0.142277415,Group 2 (Morbidity >=0.1%),-60
+145,N92,"Excessive, frequent and irregular menstruation",456051,0.141556674,Group 2 (Morbidity >=0.1%),-60
+146,L28,Lichen simplex chronicus and prurigo,453543,0.140778199,Group 2 (Morbidity >=0.1%),-60
+147,D24,Benign neoplasm of breast,451731,0.140215761,Group 2 (Morbidity >=0.1%),-60
+148,K75,Other inflammatory liver diseases,450786,0.139922436,Group 2 (Morbidity >=0.1%),-60
+149,H26,Other cataract,446470,0.138582764,Group 2 (Morbidity >=0.1%),-60
+150,I67,Other cerebrovascular diseases,445341,0.138232326,Group 2 (Morbidity >=0.1%),-60
+151,J35,Chronic diseases of tonsils and adenoids,444958,0.138113444,Group 2 (Morbidity >=0.1%),-60
+152,R05,Cough,440391,0.136695863,Group 2 (Morbidity >=0.1%),-60
+153,B18,Chronic viral hepatitis,438512,0.136112628,Group 2 (Morbidity >=0.1%),-60
+154,L29,Pruritus,432060,0.134109949,Group 2 (Morbidity >=0.1%),-60
+155,F51,Nonorganic sleep disorders,420607,0.130554977,Group 2 (Morbidity >=0.1%),-60
+156,M62,Other disorders of muscle,420546,0.130536043,Group 2 (Morbidity >=0.1%),-60
+157,J39,Other diseases of upper respiratory tract,411744,0.127803932,Group 2 (Morbidity >=0.1%),-60
+158,S62,Fracture at wrist and hand level,407925,0.126618528,Group 2 (Morbidity >=0.1%),-60
+159,H93,"Other disorders of ear, not elsewhere classified",406551,0.126192043,Group 2 (Morbidity >=0.1%),-60
+160,N18,Chronic kidney disease,404545,0.125569387,Group 2 (Morbidity >=0.1%),-60
+161,S80,Superficial injury of lower leg,404357,0.125511033,Group 2 (Morbidity >=0.1%),-60
+162,S60,Superficial injury of wrist and hand,401770,0.124708037,Group 2 (Morbidity >=0.1%),-60
+163,R94,Abnormal results of function studies,396496,0.123071005,Group 2 (Morbidity >=0.1%),-60
+164,M72,Fibroblastic disorders,391826,0.121621453,Group 2 (Morbidity >=0.1%),-60
+165,T15,Foreign body on external eye,386877,0.1200853,Group 2 (Morbidity >=0.1%),-60
+166,B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",385078,0.119526897,Group 2 (Morbidity >=0.1%),-60
+167,J37,Chronic laryngitis and laryngotracheitis,380108,0.117984226,Group 2 (Morbidity >=0.1%),-60
+168,S90,Superficial injury of ankle and foot,377085,0.117045897,Group 2 (Morbidity >=0.1%),-60
+169,S00,Superficial injury of head,371410,0.115284396,Group 2 (Morbidity >=0.1%),-60
+170,A08,Viral and other specified intestinal infections,369594,0.114720716,Group 2 (Morbidity >=0.1%),-60
+171,N20,Calculus of kidney and ureter,365182,0.113351246,Group 2 (Morbidity >=0.1%),-60
+172,K80,Cholelithiasis,364771,0.113223673,Group 2 (Morbidity >=0.1%),-60
+173,M76,"Enthesopathies of lower limb, excluding foot",360849,0.112006298,Group 2 (Morbidity >=0.1%),-60
+174,M53,"Other dorsopathies, not elsewhere classified",359396,0.111555292,Group 2 (Morbidity >=0.1%),-60
+175,Z96,Presence of other functional implants,347294,0.107798872,Group 2 (Morbidity >=0.1%),-60
+176,D50,Iron deficiency anaemia,345840,0.107347556,Group 2 (Morbidity >=0.1%),-60
+177,N94,Pain and other conditions associated with female genital organs and menstrual cycle,341457,0.105987087,Group 2 (Morbidity >=0.1%),-60
+178,L72,Follicular cysts of skin and subcutaneous tissue,341066,0.105865722,Group 2 (Morbidity >=0.1%),-60
+179,C50,Malignant neoplasm of breast,335700,0.104200134,Group 2 (Morbidity >=0.1%),-60
+180,R91,Abnormal findings on diagnostic imaging of lung,334261,0.103753474,Group 2 (Morbidity >=0.1%),-60
+181,H91,Other hearing loss,333584,0.103543335,Group 2 (Morbidity >=0.1%),-60
+182,S52,Fracture of forearm,332271,0.103135784,Group 2 (Morbidity >=0.1%),-60
+183,I48,Atrial fibrillation and flutter,331796,0.102988346,Group 2 (Morbidity >=0.1%),-60
+184,F06,Other mental disorders due to brain damage and dysfunction and to physical disease,330651,0.102632942,Group 2 (Morbidity >=0.1%),-60
+185,F90,Hyperkinetic disorders,328860,0.102077022,Group 2 (Morbidity >=0.1%),-60
+186,H19,Disorders of sclera and cornea in diseases classified elsewhere,327974,0.10180201,Group 2 (Morbidity >=0.1%),-60
+187,N60,Benign mammary dysplasia,327606,0.101687784,Group 2 (Morbidity >=0.1%),-60
+188,S82,"Fracture of lower leg, including ankle",324754,0.100802533,Group 2 (Morbidity >=0.1%),-60
+189,S53,"Dislocation, sprain and strain of joints and ligaments of elbow",323697,0.100474444,Group 2 (Morbidity >=0.1%),-60
+190,L85,Other epidermal thickening,323394,0.100380394,Group 2 (Morbidity >=0.1%),-60
+191,R00,Abnormalities of heart beat,319890,0.099292764,Group 3 (Morbidity >=0.01%),-40
+192,I25,Chronic ischaemic heart disease,319426,0.09914874,Group 3 (Morbidity >=0.01%),-40
+193,H43,Disorders of vitreous body,317875,0.098667315,Group 3 (Morbidity >=0.01%),-40
+194,M23,Internal derangement of knee,311477,0.096681398,Group 3 (Morbidity >=0.01%),-40
+195,S06,Intracranial injury,304894,0.094638057,Group 3 (Morbidity >=0.01%),-40
+196,L84,Corns and callosities,299656,0.0930122,Group 3 (Morbidity >=0.01%),-40
+197,S32,Fracture of lumbar spine and pelvis,297916,0.09247211,Group 3 (Morbidity >=0.01%),-40
+198,R31,Unspecified haematuria,297285,0.092276249,Group 3 (Morbidity >=0.01%),-40
+199,H02,Other disorders of eyelid,294027,0.091264977,Group 3 (Morbidity >=0.01%),-40
+200,I11,Hypertensive heart disease,291168,0.090377553,Group 3 (Morbidity >=0.01%),-40
+201,E55,Vitamin D deficiency,281983,0.087526561,Group 3 (Morbidity >=0.01%),-40
+202,R52,"Pain, not elsewhere classified",279844,0.086862622,Group 3 (Morbidity >=0.01%),-40
+203,I83,Varicose veins of lower extremities,279427,0.086733187,Group 3 (Morbidity >=0.01%),-40
+204,L01,Impetigo,276577,0.085848557,Group 3 (Morbidity >=0.01%),-40
+205,J98,Other respiratory disorders,274390,0.085169719,Group 3 (Morbidity >=0.01%),-40
+206,T16,Foreign body in ear,274277,0.085134645,Group 3 (Morbidity >=0.01%),-40
+207,Z71,"Persons encountering health services for other counselling and medical advice, not elsewhere classified",270892,0.084083952,Group 3 (Morbidity >=0.01%),-40
+208,M43,Other deforming dorsopathies,269348,0.0836047,Group 3 (Morbidity >=0.01%),-40
+209,Z03,"Medical observation and evaluation for suspected diseases and conditions, ruled out",264878,0.082217227,Group 3 (Morbidity >=0.01%),-40
+210,I73,Other peripheral vascular diseases,264837,0.082204501,Group 3 (Morbidity >=0.01%),-40
+211,L60,Nail disorders,260318,0.080801819,Group 3 (Morbidity >=0.01%),-40
+212,L73,Other follicular disorders,260173,0.080756811,Group 3 (Morbidity >=0.01%),-40
+213,R68,Other general symptoms and signs,258972,0.080384025,Group 3 (Morbidity >=0.01%),-40
+214,E05,Thyrotoxicosis [hyperthyroidism],256045,0.079475494,Group 3 (Morbidity >=0.01%),-40
+215,J15,"Bacterial pneumonia, not elsewhere classified",254551,0.079011762,Group 3 (Morbidity >=0.01%),-40
+216,M67,Other disorders of synovium and tendon,252824,0.078475707,Group 3 (Morbidity >=0.01%),-40
+217,R06,Abnormalities of breathing,249742,0.077519064,Group 3 (Morbidity >=0.01%),-40
+218,Z00,General examination and investigation of persons without complaint and reported diagnosis,248704,0.077196873,Group 3 (Morbidity >=0.01%),-40
+219,G31,"Other degenerative diseases of nervous system, not elsewhere classified",247756,0.076902617,Group 3 (Morbidity >=0.01%),-40
+220,N41,Inflammatory diseases of prostate,246789,0.076602463,Group 3 (Morbidity >=0.01%),-40
+221,J42,Unspecified chronic bronchitis,246658,0.076561801,Group 3 (Morbidity >=0.01%),-40
+222,F43,"Reaction to severe stress, and adjustment disorders",243239,0.075500555,Group 3 (Morbidity >=0.01%),-40
+223,J41,Simple and mucopurulent chronic bronchitis,234251,0.072710711,Group 3 (Morbidity >=0.01%),-40
+224,N97,Female infertility,232002,0.072012629,Group 3 (Morbidity >=0.01%),-40
+225,D13,Benign neoplasm of other and ill-defined parts of digestive system,231419,0.071831668,Group 3 (Morbidity >=0.01%),-40
+226,N80,Endometriosis,229692,0.071295613,Group 3 (Morbidity >=0.01%),-40
+227,G56,Mononeuropathies of upper limb,228317,0.070868818,Group 3 (Morbidity >=0.01%),-40
+228,M15,Polyarthrosis,222946,0.069201677,Group 3 (Morbidity >=0.01%),-40
+229,R04,Haemorrhage from respiratory passages,222925,0.069195159,Group 3 (Morbidity >=0.01%),-40
+230,N86,Erosion and ectropion of cervix uteri,221939,0.068889108,Group 3 (Morbidity >=0.01%),-40
+231,K82,Other diseases of gallbladder,221359,0.068709078,Group 3 (Morbidity >=0.01%),-40
+232,R60,"Oedema, not elsewhere classified",218188,0.06772481,Group 3 (Morbidity >=0.01%),-40
+233,L91,Hypertrophic disorders of skin,217199,0.067417828,Group 3 (Morbidity >=0.01%),-40
+234,S20,Superficial injury of thorax,212281,0.065891298,Group 3 (Morbidity >=0.01%),-40
+235,Z98,Other postsurgical states,209803,0.065122135,Group 3 (Morbidity >=0.01%),-40
+236,S91,Open wound of ankle and foot,209171,0.064925964,Group 3 (Morbidity >=0.01%),-40
+237,I50,Heart failure,208766,0.064800254,Group 3 (Morbidity >=0.01%),-40
+238,K31,Other diseases of stomach and duodenum,205088,0.063658615,Group 3 (Morbidity >=0.01%),-40
+239,N84,Polyp of female genital tract,202998,0.063009886,Group 3 (Morbidity >=0.01%),-40
+240,T78,"Adverse effects, not elsewhere classified",202276,0.06278578,Group 3 (Morbidity >=0.01%),-40
+241,J44,Other chronic obstructive pulmonary disease,200858,0.062345638,Group 3 (Morbidity >=0.01%),-40
+242,K26,Duodenal ulcer,196760,0.061073632,Group 3 (Morbidity >=0.01%),-40
+243,R19,Other symptoms and signs involving the digestive system and abdomen,195631,0.060723195,Group 3 (Morbidity >=0.01%),-40
+244,S81,Open wound of lower leg,193740,0.060136235,Group 3 (Morbidity >=0.01%),-40
+245,C16,Malignant neoplasm of stomach,193413,0.060034735,Group 3 (Morbidity >=0.01%),-40
+246,E07,Other disorders of thyroid,191827,0.059542446,Group 3 (Morbidity >=0.01%),-40
+247,T23,Burn and corrosion of wrist and hand,190269,0.059058848,Group 3 (Morbidity >=0.01%),-40
+248,D17,Benign lipomatous neoplasm,188476,0.058502307,Group 3 (Morbidity >=0.01%),-40
+249,K92,Other diseases of digestive system,187369,0.058158698,Group 3 (Morbidity >=0.01%),-40
+250,E30,"Disorders of puberty, not elsewhere classified",187279,0.058130762,Group 3 (Morbidity >=0.01%),-40
+251,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",185246,0.057499726,Group 3 (Morbidity >=0.01%),-40
+252,D27,Benign neoplasm of ovary,184614,0.057303555,Group 3 (Morbidity >=0.01%),-40
+253,C61,Malignant neoplasm of prostate,184118,0.057149599,Group 3 (Morbidity >=0.01%),-40
+254,C34,Malignant neoplasm of bronchus and lung,184068,0.057134079,Group 3 (Morbidity >=0.01%),-40
+255,I49,Other cardiac arrhythmias,182839,0.056752602,Group 3 (Morbidity >=0.01%),-40
+256,D34,Benign neoplasm of thyroid gland,181030,0.056191094,Group 3 (Morbidity >=0.01%),-40
+257,K86,Other diseases of pancreas,179213,0.055627104,Group 3 (Morbidity >=0.01%),-40
+258,H68,Eustachian salpingitis and obstruction,178253,0.055329123,Group 3 (Morbidity >=0.01%),-40
+259,I87,Other disorders of veins,174650,0.054210764,Group 3 (Morbidity >=0.01%),-40
+260,N10,Acute tubulo-interstitial nephritis,174602,0.054195865,Group 3 (Morbidity >=0.01%),-40
+261,E86,Volume depletion,173730,0.053925199,Group 3 (Morbidity >=0.01%),-40
+262,D64,Other anaemias,173661,0.053903782,Group 3 (Morbidity >=0.01%),-40
+263,L63,Alopecia areata,173579,0.053878329,Group 3 (Morbidity >=0.01%),-40
+264,Z39,Postpartum care and examination,172272,0.053472641,Group 3 (Morbidity >=0.01%),-40
+265,R92,Abnormal findings on diagnostic imaging of breast,171958,0.053375176,Group 3 (Morbidity >=0.01%),-40
+266,K60,Fissure and fistula of anal and rectal regions,171271,0.053161934,Group 3 (Morbidity >=0.01%),-40
+267,R22,"Localized swelling, mass and lump of skin and subcutaneous tissue",171006,0.053079679,Group 3 (Morbidity >=0.01%),-40
+268,S73,"Dislocation, sprain and strain of joint and ligaments of hip",170328,0.05286923,Group 3 (Morbidity >=0.01%),-40
+269,M24,Other specific joint derangements,169781,0.052699443,Group 3 (Morbidity >=0.01%),-40
+270,H50,Other strabismus,168364,0.052259611,Group 3 (Morbidity >=0.01%),-40
+271,I21,Acute myocardial infarction,167390,0.051957285,Group 3 (Morbidity >=0.01%),-40
+272,H33,Retinal detachments and breaks,166800,0.051774151,Group 3 (Morbidity >=0.01%),-40
+273,Z01,Other special examinations and investigations of persons without complaint or reported diagnosis,166091,0.05155408,Group 3 (Morbidity >=0.01%),-40
+274,S46,Injury of muscle and tendon at shoulder and upper arm level,162244,0.050359984,Group 3 (Morbidity >=0.01%),-40
+275,S42,Fracture of shoulder and upper arm,161826,0.050230238,Group 3 (Morbidity >=0.01%),-40
+276,Z31,Procreative management,161452,0.05011415,Group 3 (Morbidity >=0.01%),-40
+277,G40,Epilepsy,161059,0.049992164,Group 3 (Morbidity >=0.01%),-40
+278,N87,Dysplasia of cervix uteri,158255,0.049121812,Group 3 (Morbidity >=0.01%),-40
+279,R03,"Abnormal blood-pressure reading, without diagnosis",157132,0.048773236,Group 3 (Morbidity >=0.01%),-40
+280,R55,Syncope and collapse,156706,0.048641008,Group 3 (Morbidity >=0.01%),-40
+281,M05,Seropositive rheumatoid arthritis,154857,0.048067084,Group 3 (Morbidity >=0.01%),-40
+282,L40,Psoriasis,154272,0.047885502,Group 3 (Morbidity >=0.01%),-40
+283,B30,Viral conjunctivitis,153684,0.047702989,Group 3 (Morbidity >=0.01%),-40
+284,K06,Other disorders of gingiva and edentulous alveolar ridge,151911,0.047152656,Group 3 (Morbidity >=0.01%),-40
+285,A60,Anogenital herpesviral [herpes simplex] infection,151741,0.047099888,Group 3 (Morbidity >=0.01%),-40
+286,F31,Bipolar affective disorder,150952,0.046854986,Group 3 (Morbidity >=0.01%),-40
+287,K27,"Peptic ulcer, site unspecified",150520,0.046720894,Group 3 (Morbidity >=0.01%),-40
+288,G53,Cranial nerve disorders in diseases classified elsewhere,149388,0.046369525,Group 3 (Morbidity >=0.01%),-40
+289,M71,Other bursopathies,148740,0.046168388,Group 3 (Morbidity >=0.01%),-40
+290,G25,Other extrapyramidal and movement disorders,148107,0.045971907,Group 3 (Morbidity >=0.01%),-40
+291,A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",147531,0.045793119,Group 3 (Morbidity >=0.01%),-40
+292,S72,Fracture of femur,146882,0.045591671,Group 3 (Morbidity >=0.01%),-40
+293,G20,Parkinson disease,146865,0.045586395,Group 3 (Morbidity >=0.01%),-40
+294,K35,Acute appendicitis,145845,0.04526979,Group 3 (Morbidity >=0.01%),-40
+295,M70,"Soft tissue disorders related to use, overuse and pressure",142337,0.044180919,Group 3 (Morbidity >=0.01%),-40
+296,N83,"Noninflammatory disorders of ovary, fallopian tube and broad ligament",141452,0.043906218,Group 3 (Morbidity >=0.01%),-40
+297,I70,Atherosclerosis,140377,0.043572542,Group 3 (Morbidity >=0.01%),-40
+298,N46,Male infertility,136560,0.042387758,Group 3 (Morbidity >=0.01%),-40
+299,D21,Other benign neoplasms of connective and other soft tissue,134584,0.041774414,Group 3 (Morbidity >=0.01%),-40
+300,S50,Superficial injury of forearm,134549,0.04176355,Group 3 (Morbidity >=0.01%),-40
+301,S05,Injury of eye and orbit,134316,0.041691228,Group 3 (Morbidity >=0.01%),-40
+302,Z48,Other surgical follow-up care,133941,0.041574829,Group 3 (Morbidity >=0.01%),-40
+303,G45,Transient cerebral ischaemic attacks and related syndromes,131890,0.040938206,Group 3 (Morbidity >=0.01%),-40
+304,E06,Thyroiditis,131666,0.040868677,Group 3 (Morbidity >=0.01%),-40
+305,Z51,Other medical care,129800,0.040289477,Group 3 (Morbidity >=0.01%),-40
+306,K73,"Chronic hepatitis, not elsewhere classified",129750,0.040273957,Group 3 (Morbidity >=0.01%),-40
+307,R62,Lack of expected normal physiological development,129689,0.040255023,Group 3 (Morbidity >=0.01%),-40
+308,K62,Other diseases of anus and rectum,128178,0.039786014,Group 3 (Morbidity >=0.01%),-40
+309,R87,Abnormal findings in specimens from female genital organs,126759,0.039345561,Group 3 (Morbidity >=0.01%),-40
+310,R93,Abnormal findings on diagnostic imaging of other body structures,126461,0.039253063,Group 3 (Morbidity >=0.01%),-40
+311,M99,"Biomechanical lesions, not elsewhere classified",126126,0.03914908,Group 3 (Morbidity >=0.01%),-40
+312,S03,"Dislocation, sprain and strain of joints and ligaments of head",125875,0.03907117,Group 3 (Morbidity >=0.01%),-40
+313,T17,Foreign body in respiratory tract,121908,0.037839827,Group 3 (Morbidity >=0.01%),-40
+314,R25,Abnormal involuntary movements,121606,0.037746087,Group 3 (Morbidity >=0.01%),-40
+315,K11,Diseases of salivary glands,119905,0.037218103,Group 3 (Morbidity >=0.01%),-40
+316,A49,Bacterial infection of unspecified site,117893,0.036593585,Group 3 (Morbidity >=0.01%),-40
+317,R63,Symptoms and signs concerning food and fluid intake,117728,0.036542369,Group 3 (Morbidity >=0.01%),-40
+318,S86,Injury of muscle and tendon at lower leg level,116067,0.036026801,Group 3 (Morbidity >=0.01%),-40
+319,N73,Other female pelvic inflammatory diseases,114756,0.035619871,Group 3 (Morbidity >=0.01%),-40
+320,R12,Heartburn,114467,0.035530166,Group 3 (Morbidity >=0.01%),-40
+321,F20,Schizophrenia,113919,0.035360069,Group 3 (Morbidity >=0.01%),-40
+322,G51,Facial nerve disorders,112903,0.035044706,Group 3 (Morbidity >=0.01%),-40
+323,K74,Fibrosis and cirrhosis of liver,112486,0.03491527,Group 3 (Morbidity >=0.01%),-40
+324,S30,"Superficial injury of abdomen, lower back and pelvis",112135,0.034806321,Group 3 (Morbidity >=0.01%),-40
+325,H57,Other disorders of eye and adnexa,112011,0.034767832,Group 3 (Morbidity >=0.01%),-40
+326,C18,Malignant neoplasm of colon,111686,0.034666953,Group 3 (Morbidity >=0.01%),-40
+327,H53,Visual disturbances,111606,0.034642121,Group 3 (Morbidity >=0.01%),-40
+328,N48,Other disorders of penis,111021,0.034460539,Group 3 (Morbidity >=0.01%),-40
+329,C22,Malignant neoplasm of liver and intrahepatic bile ducts,109217,0.033900584,Group 3 (Morbidity >=0.01%),-40
+330,S70,Superficial injury of hip and thigh,108409,0.033649784,Group 3 (Morbidity >=0.01%),-40
+331,D18,"Haemangioma and lymphangioma, any site",107599,0.033398362,Group 3 (Morbidity >=0.01%),-40
+332,E28,Ovarian dysfunction,106828,0.033159047,Group 3 (Morbidity >=0.01%),-40
+333,M85,Other disorders of bone density and structure,105620,0.032784088,Group 3 (Morbidity >=0.01%),-40
+334,R80,Isolated proteinuria,104407,0.032407576,Group 3 (Morbidity >=0.01%),-40
+335,K61,Abscess of anal and rectal regions,104396,0.032404162,Group 3 (Morbidity >=0.01%),-40
+336,T00,Superficial injuries involving multiple body regions,104070,0.032302973,Group 3 (Morbidity >=0.01%),-40
+337,M06,Other rheumatoid arthritis,103556,0.032143429,Group 3 (Morbidity >=0.01%),-40
+338,R09,Other symptoms and signs involving the circulatory and respiratory systems,103306,0.03206583,Group 3 (Morbidity >=0.01%),-40
+339,N28,"Other disorders of kidney and ureter, not elsewhere classified",99771,0.030968578,Group 3 (Morbidity >=0.01%),-40
+340,T30,"Burn and corrosion, body region unspecified",99570,0.030906188,Group 3 (Morbidity >=0.01%),-40
+341,N32,Other disorders of bladder,97702,0.030326367,Group 3 (Morbidity >=0.01%),-40
+342,K70,Alcoholic liver disease,97548,0.030278566,Group 3 (Morbidity >=0.01%),-40
+343,M16,Coxarthrosis [arthrosis of hip],97033,0.030118712,Group 3 (Morbidity >=0.01%),-40
+344,B34,Viral infection of unspecified site,95709,0.029707747,Group 3 (Morbidity >=0.01%),-40
+345,L70,Acne,95707,0.029707126,Group 3 (Morbidity >=0.01%),-40
+346,S66,Injury of muscle and tendon at wrist and hand level,95634,0.029684467,Group 3 (Morbidity >=0.01%),-40
+347,G57,Mononeuropathies of lower limb,95585,0.029669258,Group 3 (Morbidity >=0.01%),-40
+348,T22,"Burn and corrosion of shoulder and upper limb, except wrist and hand",92689,0.028770349,Group 3 (Morbidity >=0.01%),-40
+349,M96,"Postprocedural musculoskeletal disorders, not elsewhere classified",91781,0.028488509,Group 3 (Morbidity >=0.01%),-40
+350,R35,Polyuria,91032,0.028256022,Group 3 (Morbidity >=0.01%),-40
+351,D35,Benign neoplasm of other and unspecified endocrine glands,90272,0.028020121,Group 3 (Morbidity >=0.01%),-40
+352,H34,Retinal vascular occlusions,89718,0.027848161,Group 3 (Morbidity >=0.01%),-40
+353,J47,Bronchiectasis,89119,0.027662233,Group 3 (Morbidity >=0.01%),-40
+354,K14,Diseases of tongue,88346,0.027422297,Group 3 (Morbidity >=0.01%),-40
+355,M22,Disorders of patella,88234,0.027387532,Group 3 (Morbidity >=0.01%),-40
+356,F45,Somatoform disorders,87696,0.027220539,Group 3 (Morbidity >=0.01%),-40
+357,G50,Disorders of trigeminal nerve,86853,0.026958875,Group 3 (Morbidity >=0.01%),-40
+358,F34,Persistent mood [affective] disorders,86237,0.02676767,Group 3 (Morbidity >=0.01%),-40
+359,K40,Inguinal hernia,85353,0.02649328,Group 3 (Morbidity >=0.01%),-40
+360,J05,Acute obstructive laryngitis [croup] and epiglottitis,84289,0.026163018,Group 3 (Morbidity >=0.01%),-40
+361,K57,Diverticular disease of intestine,84082,0.026098766,Group 3 (Morbidity >=0.01%),-40
+362,S51,Open wound of forearm,83880,0.026036066,Group 3 (Morbidity >=0.01%),-40
+363,H92,Otalgia and effusion of ear,83828,0.026019925,Group 3 (Morbidity >=0.01%),-40
+364,F33,Recurrent depressive disorder,83417,0.025892352,Group 3 (Morbidity >=0.01%),-40
+365,Z47,Other orthopaedic follow-up care,82560,0.025626342,Group 3 (Morbidity >=0.01%),-40
+366,H69,Other disorders of Eustachian tube,81645,0.025342329,Group 3 (Morbidity >=0.01%),-40
+367,C20,Malignant neoplasm of rectum,81303,0.025236174,Group 3 (Morbidity >=0.01%),-40
+368,E87,"Other disorders of fluid, electrolyte and acid-base balance",80963,0.025130639,Group 3 (Morbidity >=0.01%),-40
+369,E22,Hyperfunction of pituitary gland,79938,0.024812482,Group 3 (Morbidity >=0.01%),-40
+370,H73,Other disorders of tympanic membrane,79628,0.024716259,Group 3 (Morbidity >=0.01%),-40
+371,M20,Acquired deformities of fingers and toes,79621,0.024714087,Group 3 (Morbidity >=0.01%),-40
+372,G30,Alzheimer disease,79228,0.024592101,Group 3 (Morbidity >=0.01%),-40
+373,M41,Scoliosis,78855,0.024476323,Group 3 (Morbidity >=0.01%),-40
+374,H20,Iridocyclitis,78188,0.024269288,Group 3 (Morbidity >=0.01%),-40
+375,B36,Other superficial mycoses,77566,0.024076222,Group 3 (Morbidity >=0.01%),-40
+376,R20,Disturbances of skin sensation,77297,0.023992725,Group 3 (Morbidity >=0.01%),-40
+377,K81,Cholecystitis,76889,0.023866083,Group 3 (Morbidity >=0.01%),-40
+378,J33,Nasal polyp,76649,0.023791588,Group 3 (Morbidity >=0.01%),-40
+379,J12,"Viral pneumonia, not elsewhere classified",76565,0.023765515,Group 3 (Morbidity >=0.01%),-40
+380,R79,Other abnormal findings of blood chemistry,76310,0.023686364,Group 3 (Morbidity >=0.01%),-40
+381,M35,Other systemic involvement of connective tissue,75709,0.023499815,Group 3 (Morbidity >=0.01%),-40
+382,S40,Superficial injury of shoulder and upper arm,75491,0.023432149,Group 3 (Morbidity >=0.01%),-40
+383,S76,Injury of muscle and tendon at hip and thigh level,75462,0.023423147,Group 3 (Morbidity >=0.01%),-40
+384,F48,Other neurotic disorders,75274,0.023364793,Group 3 (Morbidity >=0.01%),-40
+385,M60,Myositis,75235,0.023352687,Group 3 (Morbidity >=0.01%),-40
+386,F03,Unspecified dementia,74418,0.023099093,Group 3 (Morbidity >=0.01%),-40
+387,D05,Carcinoma in situ of breast,74076,0.022992938,Group 3 (Morbidity >=0.01%),-40
+388,R21,Rash and other nonspecific skin eruption,73274,0.022744,Group 3 (Morbidity >=0.01%),-40
+389,I88,Nonspecific lymphadenitis,72981,0.022653053,Group 3 (Morbidity >=0.01%),-40
+390,A41,Other sepsis,72762,0.022585076,Group 3 (Morbidity >=0.01%),-40
+391,K13,Other diseases of lip and oral mucosa,71621,0.022230914,Group 3 (Morbidity >=0.01%),-40
+392,K56,Paralytic ileus and intestinal obstruction without hernia,70893,0.022004945,Group 3 (Morbidity >=0.01%),-40
+393,E13,Other specified diabetes mellitus,70529,0.021891961,Group 3 (Morbidity >=0.01%),-40
+394,R41,Other symptoms and signs involving cognitive functions and awareness,70212,0.021793565,Group 3 (Morbidity >=0.01%),-40
+395,K51,Ulcerative colitis,69813,0.021669717,Group 3 (Morbidity >=0.01%),-40
+396,I47,Paroxysmal tachycardia,67993,0.021104795,Group 3 (Morbidity >=0.01%),-40
+397,L80,Vitiligo,67890,0.021072824,Group 3 (Morbidity >=0.01%),-40
+398,R56,"Convulsions, not elsewhere classified",67852,0.021061029,Group 3 (Morbidity >=0.01%),-40
+399,D69,Purpura and other haemorrhagic conditions,67581,0.020976912,Group 3 (Morbidity >=0.01%),-40
+400,Z32,Pregnancy examination and test,67518,0.020957357,Group 3 (Morbidity >=0.01%),-40
+401,I61,Intracerebral haemorrhage,67026,0.020804642,Group 3 (Morbidity >=0.01%),-40
+402,N45,Orchitis and epididymitis,66898,0.020764911,Group 3 (Morbidity >=0.01%),-40
+403,Q21,Congenital malformations of cardiac septa,66393,0.020608161,Group 3 (Morbidity >=0.01%),-40
+404,F10,Mental and behavioural disorders due to use of alcohol,66239,0.02056036,Group 3 (Morbidity >=0.01%),-40
+405,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",65434,0.02031049,Group 3 (Morbidity >=0.01%),-40
+406,T63,Toxic effect of contact with venomous animals,65382,0.02029435,Group 3 (Morbidity >=0.01%),-40
+407,I42,Cardiomyopathy,65240,0.020250273,Group 3 (Morbidity >=0.01%),-40
+408,T24,"Burn and corrosion of hip and lower limb, except ankle and foot",65015,0.020180434,Group 3 (Morbidity >=0.01%),-40
+409,J84,Other interstitial pulmonary diseases,64898,0.020144118,Group 3 (Morbidity >=0.01%),-40
+410,C67,Malignant neoplasm of bladder,64376,0.019982091,Group 3 (Morbidity >=0.01%),-40
+411,O34,Maternal care for known or suspected abnormality of pelvic organs,64333,0.019968744,Group 3 (Morbidity >=0.01%),-40
+412,H18,Other disorders of cornea,63999,0.019865071,Group 3 (Morbidity >=0.01%),-40
+413,E88,Other metabolic disorders,62949,0.019539155,Group 3 (Morbidity >=0.01%),-40
+414,M21,Other acquired deformities of limbs,62914,0.019528291,Group 3 (Morbidity >=0.01%),-40
+415,J09,Influenza due to identified zoonotic or pandemic influenza virus,62855,0.019509977,Group 3 (Morbidity >=0.01%),-40
+416,G62,Other polyneuropathies,62038,0.019256383,Group 3 (Morbidity >=0.01%),-40
+417,O82,Single delivery by caesarean section,61786,0.019178164,Group 3 (Morbidity >=0.01%),-40
+418,E89,"Postprocedural endocrine and metabolic disorders, not elsewhere classified",61658,0.019138433,Group 3 (Morbidity >=0.01%),-40
+419,F40,Phobic anxiety disorders,61398,0.01905773,Group 3 (Morbidity >=0.01%),-40
+420,E34,Other endocrine disorders,60473,0.018770613,Group 3 (Morbidity >=0.01%),-40
+421,M94,Other disorders of cartilage,60359,0.018735228,Group 3 (Morbidity >=0.01%),-40
+422,Z38,Liveborn infants according to place of birth,60291,0.018714121,Group 3 (Morbidity >=0.01%),-40
+423,Z04,Examination and observation for other reasons,59712,0.018534401,Group 3 (Morbidity >=0.01%),-40
+424,M45,Ankylosing spondylitis,59561,0.018487531,Group 3 (Morbidity >=0.01%),-40
+425,G90,Disorders of autonomic nervous system,59394,0.018435695,Group 3 (Morbidity >=0.01%),-40
+426,H15,Disorders of sclera,59026,0.018321469,Group 3 (Morbidity >=0.01%),-40
+427,N85,"Other noninflammatory disorders of uterus, except cervix",58915,0.018287015,Group 3 (Morbidity >=0.01%),-40
+428,L81,Other disorders of pigmentation,58687,0.018216244,Group 3 (Morbidity >=0.01%),-40
+429,D06,Carcinoma in situ of cervix uteri,58358,0.018114124,Group 3 (Morbidity >=0.01%),-40
+430,N17,Acute renal failure,58343,0.018109468,Group 3 (Morbidity >=0.01%),-40
+431,C64,"Malignant neoplasm of kidney, except renal pelvis",58321,0.018102639,Group 3 (Morbidity >=0.01%),-40
+432,Z35,Supervision of high-risk pregnancy,57788,0.017937198,Group 3 (Morbidity >=0.01%),-40
+433,E10,Type 1 diabetes mellitus,57690,0.017906779,Group 3 (Morbidity >=0.01%),-40
+434,K83,Other diseases of biliary tract,57130,0.017732957,Group 3 (Morbidity >=0.01%),-40
+435,Z94,Transplanted organ and tissue status,57053,0.017709056,Group 3 (Morbidity >=0.01%),-40
+436,N71,"Inflammatory disease of uterus, except cervix",56647,0.017583035,Group 3 (Morbidity >=0.01%),-40
+437,O33,Maternal care for known or suspected disproportion,56498,0.017536786,Group 3 (Morbidity >=0.01%),-40
+438,B88,Other infestations,56110,0.017416352,Group 3 (Morbidity >=0.01%),-40
+439,N77,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,56022,0.017389038,Group 3 (Morbidity >=0.01%),-40
+440,I35,Nonrheumatic aortic valve disorders,55748,0.017303989,Group 3 (Morbidity >=0.01%),-40
+441,G81,Hemiplegia,54635,0.016958518,Group 3 (Morbidity >=0.01%),-40
+442,D32,Benign neoplasm of meninges,54304,0.016855776,Group 3 (Morbidity >=0.01%),-40
+443,K85,Acute pancreatitis,54114,0.016796801,Group 3 (Morbidity >=0.01%),-40
+444,Z13,Special screening examination for other diseases and disorders,53170,0.016503787,Group 3 (Morbidity >=0.01%),-40
+445,M46,Other inflammatory spondylopathies,53035,0.016461883,Group 3 (Morbidity >=0.01%),-40
+446,K10,Other diseases of jaws,52751,0.01637373,Group 3 (Morbidity >=0.01%),-40
+447,M80,Osteoporosis with pathological fracture,52665,0.016347036,Group 3 (Morbidity >=0.01%),-40
+448,I71,Aortic aneurysm and dissection,52360,0.016252365,Group 3 (Morbidity >=0.01%),-40
+449,O80,Single spontaneous delivery,52095,0.01617011,Group 3 (Morbidity >=0.01%),-40
+450,A59,Trichomoniasis,51992,0.016138139,Group 3 (Morbidity >=0.01%),-40
+451,O02,Other abnormal products of conception,51593,0.016014291,Group 3 (Morbidity >=0.01%),-40
+452,T20,Burn and corrosion of head and neck,51068,0.015851333,Group 3 (Morbidity >=0.01%),-40
+453,L98,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",50253,0.01559836,Group 3 (Morbidity >=0.01%),-40
+454,N13,Obstructive and reflux uropathy,48958,0.015196396,Group 3 (Morbidity >=0.01%),-40
+455,E83,Disorders of mineral metabolism,48401,0.015023505,Group 3 (Morbidity >=0.01%),-40
+456,R59,Enlarged lymph nodes,48386,0.015018849,Group 3 (Morbidity >=0.01%),-40
+457,I51,Complications and ill-defined descriptions of heart disease,48214,0.014965461,Group 3 (Morbidity >=0.01%),-40
+458,G63,Polyneuropathy in diseases classified elsewhere,48106,0.014931938,Group 3 (Morbidity >=0.01%),-40
+459,I95,Hypotension,47842,0.014849994,Group 3 (Morbidity >=0.01%),-40
+460,L71,Rosacea,47783,0.01483168,Group 3 (Morbidity >=0.01%),-40
+461,G58,Other mononeuropathies,47650,0.014790397,Group 3 (Morbidity >=0.01%),-40
+462,E23,Hypofunction and other disorders of pituitary gland,46989,0.014585225,Group 3 (Morbidity >=0.01%),-40
+463,B86,Scabies,46791,0.014523767,Group 3 (Morbidity >=0.01%),-40
+464,Z11,Special screening examination for infectious and parasitic diseases,46610,0.014467585,Group 3 (Morbidity >=0.01%),-40
+465,O24,Diabetes mellitus in pregnancy,46196,0.014339081,Group 3 (Morbidity >=0.01%),-40
+466,C25,Malignant neoplasm of pancreas,46150,0.014324802,Group 3 (Morbidity >=0.01%),-40
+467,R39,Other symptoms and signs involving the urinary system,46076,0.014301833,Group 3 (Morbidity >=0.01%),-40
+468,K20,Oesophagitis,45673,0.014176743,Group 3 (Morbidity >=0.01%),-40
+469,F42,Obsessive-compulsive disorder,45640,0.0141665,Group 3 (Morbidity >=0.01%),-40
+470,E63,Other nutritional deficiencies,45607,0.014156257,Group 3 (Morbidity >=0.01%),-40
+471,N62,Hypertrophy of breast,45498,0.014122424,Group 3 (Morbidity >=0.01%),-40
+472,N02,Recurrent and persistent haematuria,44458,0.013799611,Group 3 (Morbidity >=0.01%),-40
+473,Z20,Contact with and exposure to communicable diseases,44449,0.013796818,Group 3 (Morbidity >=0.01%),-40
+474,R26,Abnormalities of gait and mobility,44315,0.013755225,Group 3 (Morbidity >=0.01%),-40
+475,M87,Osteonecrosis,44234,0.013730083,Group 3 (Morbidity >=0.01%),-40
+476,T25,Burn and corrosion of ankle and foot,43673,0.01355595,Group 3 (Morbidity >=0.01%),-40
+477,I69,Sequelae of cerebrovascular disease,43059,0.013365367,Group 3 (Morbidity >=0.01%),-40
+478,D10,Benign neoplasm of mouth and pharynx,42950,0.013331533,Group 3 (Morbidity >=0.01%),-40
+479,L27,Dermatitis due to substances taken internally,42696,0.013252693,Group 3 (Morbidity >=0.01%),-40
+480,I60,Subarachnoid haemorrhage,42483,0.013186578,Group 3 (Morbidity >=0.01%),-40
+481,E50,Vitamin A deficiency,42461,0.013179749,Group 3 (Morbidity >=0.01%),-40
+482,O20,Haemorrhage in early pregnancy,42410,0.013163919,Group 3 (Morbidity >=0.01%),-40
+483,Z95,Presence of cardiac and vascular implants and grafts,42400,0.013160815,Group 3 (Morbidity >=0.01%),-40
+484,Z22,Carrier of infectious disease,41570,0.012903186,Group 3 (Morbidity >=0.01%),-40
+485,K50,Crohn disease [regional enteritis],41515,0.012886114,Group 3 (Morbidity >=0.01%),-40
+486,I89,Other noninfective disorders of lymphatic vessels and lymph nodes,41359,0.012837692,Group 3 (Morbidity >=0.01%),-40
+487,H62,Disorders of external ear in diseases classified elsewhere,40975,0.0127185,Group 3 (Morbidity >=0.01%),-40
+488,G24,Dystonia,40970,0.012716948,Group 3 (Morbidity >=0.01%),-40
+489,R30,Pain associated with micturition,40661,0.012621036,Group 3 (Morbidity >=0.01%),-40
+490,Q38,"Other congenital malformations of tongue, mouth and pharynx",40627,0.012610482,Group 3 (Morbidity >=0.01%),-40
+491,L90,Atrophic disorders of skin,40505,0.012572614,Group 3 (Morbidity >=0.01%),-40
+492,S09,Other and unspecified injuries of head,40457,0.012557715,Group 3 (Morbidity >=0.01%),-40
+493,G93,Other disorders of brain,40297,0.012508051,Group 3 (Morbidity >=0.01%),-40
+494,O60,Preterm labour and delivery,39953,0.012401275,Group 3 (Morbidity >=0.01%),-40
+495,N81,Female genital prolapse,39780,0.012347576,Group 3 (Morbidity >=0.01%),-40
+496,K71,Toxic liver disease,39536,0.012271839,Group 3 (Morbidity >=0.01%),-40
+497,Z97,Presence of other devices,39000,0.012105467,Group 3 (Morbidity >=0.01%),-40
+498,F84,Pervasive developmental disorders,38896,0.012073186,Group 3 (Morbidity >=0.01%),-40
+499,R43,Disturbances of smell and taste,38802,0.012044008,Group 3 (Morbidity >=0.01%),-40
+500,D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,38667,0.012002105,Group 3 (Morbidity >=0.01%),-40
+501,Z26,Need for immunization against other single infectious diseases,38208,0.011859633,Group 3 (Morbidity >=0.01%),-40
+502,S31,"Open wound of abdomen, lower back and pelvis",37859,0.011751304,Group 3 (Morbidity >=0.01%),-40
+503,D30,Benign neoplasm of urinary organs,37467,0.011629629,Group 3 (Morbidity >=0.01%),-40
+504,M12,Other specific arthropathies,37354,0.011594554,Group 3 (Morbidity >=0.01%),-40
+505,S96,Injury of muscle and tendon at ankle and foot level,36834,0.011433148,Group 3 (Morbidity >=0.01%),-40
+506,D22,Melanocytic naevi,36795,0.011421042,Group 3 (Morbidity >=0.01%),-40
+507,R53,Malaise and fatigue,35993,0.011172104,Group 3 (Morbidity >=0.01%),-40
+508,G54,Nerve root and plexus disorders,35885,0.011138582,Group 3 (Morbidity >=0.01%),-40
+509,C56,Malignant neoplasm of ovary,35816,0.011117164,Group 3 (Morbidity >=0.01%),-40
+510,D01,Carcinoma in situ of other and unspecified digestive organs,35700,0.011081158,Group 3 (Morbidity >=0.01%),-40
+511,R47,"Speech disturbances, not elsewhere classified",35383,0.010982762,Group 3 (Morbidity >=0.01%),-40
+512,P07,"Disorders related to short gestation and low birth weight, not elsewhere classified",35304,0.010958241,Group 3 (Morbidity >=0.01%),-40
+513,I80,Phlebitis and thrombophlebitis,35058,0.010881884,Group 3 (Morbidity >=0.01%),-40
+514,M49,Spondylopathies in diseases classified elsewhere,34832,0.010811734,Group 3 (Morbidity >=0.01%),-40
+515,R82,Other abnormal findings in urine,34751,0.010786592,Group 3 (Morbidity >=0.01%),-40
+516,P59,Neonatal jaundice from other and unspecified causes,34750,0.010786281,Group 3 (Morbidity >=0.01%),-40
+517,L82,Seborrhoeic keratosis,34727,0.010779142,Group 3 (Morbidity >=0.01%),-40
+518,A64,Unspecified sexually transmitted disease,34716,0.010775728,Group 3 (Morbidity >=0.01%),-40
+519,L05,Pilonidal cyst,34590,0.010736618,Group 3 (Morbidity >=0.01%),-40
+520,A31,Infection due to other mycobacteria,34371,0.010668641,Group 3 (Morbidity >=0.01%),-40
+521,O21,Excessive vomiting in pregnancy,34362,0.010665848,Group 3 (Morbidity >=0.01%),-40
+522,D36,Benign neoplasm of other and unspecified sites,34184,0.010610597,Group 3 (Morbidity >=0.01%),-40
+523,G64,Other disorders of peripheral nervous system,34043,0.010566831,Group 3 (Morbidity >=0.01%),-40
+524,Z54,Convalescence,34036,0.010564658,Group 3 (Morbidity >=0.01%),-40
+525,E66,Obesity,33937,0.010533929,Group 3 (Morbidity >=0.01%),-40
+526,M32,Systemic lupus erythematosus,33846,0.010505683,Group 3 (Morbidity >=0.01%),-40
+527,O99,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",33581,0.010423428,Group 3 (Morbidity >=0.01%),-40
+528,C54,Malignant neoplasm of corpus uteri,33418,0.010372833,Group 3 (Morbidity >=0.01%),-40
+529,B17,Other acute viral hepatitis,33265,0.010325342,Group 3 (Morbidity >=0.01%),-40
+530,M40,Kyphosis and lordosis,33137,0.010285612,Group 3 (Morbidity >=0.01%),-40
+531,T21,Burn and corrosion of trunk,33021,0.010249606,Group 3 (Morbidity >=0.01%),-40
+532,H47,Other disorders of optic [2nd] nerve and visual pathways,32966,0.010232534,Group 3 (Morbidity >=0.01%),-40
+533,N21,Calculus of lower urinary tract,32823,0.010188147,Group 3 (Morbidity >=0.01%),-40
+534,S67,Crushing injury of wrist and hand,32820,0.010187216,Group 3 (Morbidity >=0.01%),-40
+535,C44,Other malignant neoplasms of skin,32573,0.010110548,Group 3 (Morbidity >=0.01%),-40
+536,T81,"Complications of procedures, not elsewhere classified",32399,0.010056539,Group 3 (Morbidity >=0.01%),-40
+537,F39,Unspecified mood [affective] disorder,32276,0.01001836,Group 3 (Morbidity >=0.01%),-40
+538,T79,"Certain early complications of trauma, not elsewhere classified",32229,0.010003772,Group 3 (Morbidity >=0.01%),-40
+539,D16,Benign neoplasm of bone and articular cartilage,32112,0.009967455,Group 4 (Morbidity >=0.001%),-20
+540,I44,Atrioventricular and left bundle-branch block,31684,0.009834605,Group 4 (Morbidity >=0.001%),-20
+541,B01,Varicella [chickenpox],31649,0.009823742,Group 4 (Morbidity >=0.001%),-20
+542,E27,Other disorders of adrenal gland,31335,0.009726277,Group 4 (Morbidity >=0.001%),-20
+543,D14,Benign neoplasm of middle ear and respiratory system,31333,0.009725656,Group 4 (Morbidity >=0.001%),-20
+544,L57,Skin changes due to chronic exposure to nonionizing radiation,31287,0.009711378,Group 4 (Morbidity >=0.001%),-20
+545,D33,Benign neoplasm of brain and other parts of central nervous system,30551,0.009482926,Group 4 (Morbidity >=0.001%),-20
+546,J43,Emphysema,30364,0.009424882,Group 4 (Morbidity >=0.001%),-20
+547,L42,Pityriasis rosea,30232,0.00938391,Group 4 (Morbidity >=0.001%),-20
+548,L89,Decubitus ulcer and pressure area,30181,0.009368079,Group 4 (Morbidity >=0.001%),-20
+549,T67,Effects of heat and light,30119,0.009348835,Group 4 (Morbidity >=0.001%),-20
+550,M82,Osteoporosis in diseases classified elsewhere,30102,0.009343558,Group 4 (Morbidity >=0.001%),-20
+551,R13,Dysphagia,29763,0.009238334,Group 4 (Morbidity >=0.001%),-20
+552,L65,Other nonscarring hair loss,29570,0.009178427,Group 4 (Morbidity >=0.001%),-20
+553,C53,Malignant neoplasm of cervix uteri,29479,0.009150181,Group 4 (Morbidity >=0.001%),-20
+554,M92,Other juvenile osteochondrosis,29422,0.009132488,Group 4 (Morbidity >=0.001%),-20
+555,N19,Unspecified kidney failure,28741,0.008921108,Group 4 (Morbidity >=0.001%),-20
+556,G55,Nerve root and plexus compressions in diseases classified elsewhere,28701,0.008908692,Group 4 (Morbidity >=0.001%),-20
+557,M00,Pyogenic arthritis,28274,0.008776153,Group 4 (Morbidity >=0.001%),-20
+558,T31,Burns classified according to extent of body surface involved,28128,0.008730835,Group 4 (Morbidity >=0.001%),-20
+559,C79,Secondary malignant neoplasm of other and unspecified sites,27281,0.008467929,Group 4 (Morbidity >=0.001%),-20
+560,L53,Other erythematous conditions,27230,0.008452099,Group 4 (Morbidity >=0.001%),-20
+561,C24,Malignant neoplasm of other and unspecified parts of biliary tract,27102,0.008412368,Group 4 (Morbidity >=0.001%),-20
+562,I86,Varicose veins of other sites,27026,0.008388778,Group 4 (Morbidity >=0.001%),-20
+563,F95,Tic disorders,26851,0.008334459,Group 4 (Morbidity >=0.001%),-20
+564,R23,Other skin changes,26750,0.008303109,Group 4 (Morbidity >=0.001%),-20
+565,Z09,Follow-up examination after treatment for conditions other than malignant neoplasms,26613,0.008260584,Group 4 (Morbidity >=0.001%),-20
+566,R14,Flatulence and related conditions,26098,0.00810073,Group 4 (Morbidity >=0.001%),-20
+567,R32,Unspecified urinary incontinence,25965,0.008059447,Group 4 (Morbidity >=0.001%),-20
+568,R49,Voice disturbances,25941,0.008051998,Group 4 (Morbidity >=0.001%),-20
+569,D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",25920,0.00804548,Group 4 (Morbidity >=0.001%),-20
+570,Z30,Contraceptive management,25898,0.008038651,Group 4 (Morbidity >=0.001%),-20
+571,I46,Cardiac arrest,25729,0.007986194,Group 4 (Morbidity >=0.001%),-20
+572,Z08,Follow-up examination after treatment for malignant neoplasms,25549,0.007930322,Group 4 (Morbidity >=0.001%),-20
+573,E79,Disorders of purine and pyrimidine metabolism,25501,0.007915423,Group 4 (Morbidity >=0.001%),-20
+574,G95,Other diseases of spinal cord,25158,0.007808957,Group 4 (Morbidity >=0.001%),-20
+575,J90,"Pleural effusion, not elsewhere classified",24884,0.007723909,Group 4 (Morbidity >=0.001%),-20
+576,H44,Disorders of globe,24882,0.007723288,Group 4 (Morbidity >=0.001%),-20
+577,J93,Pneumothorax,24816,0.007702802,Group 4 (Morbidity >=0.001%),-20
+578,C83,Non-follicular lymphoma,24629,0.007644758,Group 4 (Morbidity >=0.001%),-20
+579,D44,Neoplasm of uncertain or unknown behaviour of endocrine glands,24609,0.00763855,Group 4 (Morbidity >=0.001%),-20
+580,I34,Nonrheumatic mitral valve disorders,24133,0.007490801,Group 4 (Morbidity >=0.001%),-20
+581,L64,Androgenic alopecia,24124,0.007488007,Group 4 (Morbidity >=0.001%),-20
+582,C92,Myeloid leukaemia,24123,0.007487697,Group 4 (Morbidity >=0.001%),-20
+583,R29,Other symptoms and signs involving the nervous and musculoskeletal systems,24080,0.00747435,Group 4 (Morbidity >=0.001%),-20
+584,S71,Open wound of hip and thigh,23926,0.007426549,Group 4 (Morbidity >=0.001%),-20
+585,T18,Foreign body in alimentary tract,23906,0.007420341,Group 4 (Morbidity >=0.001%),-20
+586,D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,23346,0.007246519,Group 4 (Morbidity >=0.001%),-20
+587,E16,Other disorders of pancreatic internal secretion,23323,0.00723938,Group 4 (Morbidity >=0.001%),-20
+588,I26,Pulmonary embolism,23315,0.007236896,Group 4 (Morbidity >=0.001%),-20
+589,H31,Other disorders of choroid,23083,0.007164884,Group 4 (Morbidity >=0.001%),-20
+590,A56,Other sexually transmitted chlamydial diseases,23081,0.007164264,Group 4 (Morbidity >=0.001%),-20
+591,K22,Other diseases of oesophagus,22821,0.007083561,Group 4 (Morbidity >=0.001%),-20
+592,H27,Other disorders of lens,22680,0.007039795,Group 4 (Morbidity >=0.001%),-20
+593,Z25,Need for immunization against other single viral diseases,22632,0.007024896,Group 4 (Morbidity >=0.001%),-20
+594,R33,Retention of urine,22497,0.006982992,Group 4 (Morbidity >=0.001%),-20
+595,D70,Agranulocytosis,22399,0.006952573,Group 4 (Morbidity >=0.001%),-20
+596,G46,Vascular syndromes of brain in cerebrovascular diseases,22368,0.006942951,Group 4 (Morbidity >=0.001%),-20
+597,S56,Injury of muscle and tendon at forearm level,22353,0.006938295,Group 4 (Morbidity >=0.001%),-20
+598,N75,Diseases of Bartholin gland,22280,0.006915636,Group 4 (Morbidity >=0.001%),-20
+599,B09,Unspecified viral infection characterized by skin and mucous membrane lesions,22270,0.006912532,Group 4 (Morbidity >=0.001%),-20
+600,H17,Corneal scars and opacities,22088,0.00685604,Group 4 (Morbidity >=0.001%),-20
+601,R76,Other abnormal immunological findings in serum,22042,0.006841762,Group 4 (Morbidity >=0.001%),-20
+602,D29,Benign neoplasm of male genital organs,21867,0.006787442,Group 4 (Morbidity >=0.001%),-20
+603,F01,Vascular dementia,21834,0.006777199,Group 4 (Morbidity >=0.001%),-20
+604,Q61,Cystic kidney disease,21518,0.006679114,Group 4 (Morbidity >=0.001%),-20
+605,D72,Other disorders of white blood cells,21474,0.006665456,Group 4 (Morbidity >=0.001%),-20
+606,H06,Disorders of lacrimal system and orbit in diseases classified elsewhere,21442,0.006655524,Group 4 (Morbidity >=0.001%),-20
+607,Q67,"Congenital musculoskeletal deformities of head, face, spine and chest",21413,0.006646522,Group 4 (Morbidity >=0.001%),-20
+608,S41,Open wound of shoulder and upper arm,21293,0.006609275,Group 4 (Morbidity >=0.001%),-20
+609,R81,Glycosuria,20855,0.006473321,Group 4 (Morbidity >=0.001%),-20
+610,L74,Eccrine sweat disorders,20854,0.00647301,Group 4 (Morbidity >=0.001%),-20
+611,I64,"Stroke, not specified as haemorrhage or infarction",20801,0.006456559,Group 4 (Morbidity >=0.001%),-20
+612,R74,Abnormal serum enzyme levels,20755,0.006442281,Group 4 (Morbidity >=0.001%),-20
+613,Q10,"Congenital malformations of eyelid, lacrimal apparatus and orbit",20643,0.006407517,Group 4 (Morbidity >=0.001%),-20
+614,M84,Disorders of continuity of bone,20635,0.006405034,Group 4 (Morbidity >=0.001%),-20
+615,D11,Benign neoplasm of major salivary glands,20321,0.006307569,Group 4 (Morbidity >=0.001%),-20
+616,L92,Granulomatous disorders of skin and subcutaneous tissue,20286,0.006296705,Group 4 (Morbidity >=0.001%),-20
+617,Q82,Other congenital malformations of skin,20238,0.006281806,Group 4 (Morbidity >=0.001%),-20
+618,T88,"Other complications of surgical and medical care, not elsewhere classified",20215,0.006274667,Group 4 (Morbidity >=0.001%),-20
+619,G82,Paraplegia and tetraplegia,20201,0.006270321,Group 4 (Morbidity >=0.001%),-20
+620,J69,Pneumonitis due to solids and liquids,19837,0.006157337,Group 4 (Morbidity >=0.001%),-20
+621,L56,Other acute skin changes due to ultraviolet radiation,19630,0.006093085,Group 4 (Morbidity >=0.001%),-20
+622,C78,Secondary malignant neoplasm of respiratory and digestive organs,19615,0.006088429,Group 4 (Morbidity >=0.001%),-20
+623,K09,"Cysts of oral region, not elsewhere classified",19595,0.006082221,Group 4 (Morbidity >=0.001%),-20
+624,J46,Status asthmaticus,19592,0.00608129,Group 4 (Morbidity >=0.001%),-20
+625,A05,"Other bacterial foodborne intoxications, not elsewhere classified",19552,0.006068874,Group 4 (Morbidity >=0.001%),-20
+626,P22,Respiratory distress of newborn,19507,0.006054906,Group 4 (Morbidity >=0.001%),-20
+627,Z52,Donors of organs and tissues,19121,0.005935093,Group 4 (Morbidity >=0.001%),-20
+628,F29,Unspecified nonorganic psychosis,18894,0.005864633,Group 4 (Morbidity >=0.001%),-20
+629,R17,"Hyperbilirubinaemia, with or without jaundice, not elsewhere classified",18813,0.005839491,Group 4 (Morbidity >=0.001%),-20
+630,I15,Secondary hypertension,18692,0.005801933,Group 4 (Morbidity >=0.001%),-20
+631,R15,Faecal incontinence,18587,0.005769341,Group 4 (Morbidity >=0.001%),-20
+632,H49,Paralytic strabismus,18362,0.005699502,Group 4 (Morbidity >=0.001%),-20
+633,C15,Malignant neoplasm of oesophagus,18100,0.005618178,Group 4 (Morbidity >=0.001%),-20
+634,I99,Other and unspecified disorders of circulatory system,18079,0.00561166,Group 4 (Morbidity >=0.001%),-20
+635,I72,Other aneurysm and dissection,18045,0.005601106,Group 4 (Morbidity >=0.001%),-20
+636,N43,Hydrocele and spermatocele,18003,0.00558807,Group 4 (Morbidity >=0.001%),-20
+637,R61,Hyperhidrosis,17966,0.005576585,Group 4 (Morbidity >=0.001%),-20
+638,R01,Cardiac murmurs and other cardiac sounds,17911,0.005559513,Group 4 (Morbidity >=0.001%),-20
+639,H72,Perforation of tympanic membrane,17746,0.005508298,Group 4 (Morbidity >=0.001%),-20
+640,N42,Other disorders of prostate,17533,0.005442183,Group 4 (Morbidity >=0.001%),-20
+641,K55,Vascular disorders of intestine,17384,0.005395934,Group 4 (Morbidity >=0.001%),-20
+642,C90,Multiple myeloma and malignant plasma cell neoplasms,17166,0.005328268,Group 4 (Morbidity >=0.001%),-20
+643,C19,Malignant neoplasm of rectosigmoid junction,17010,0.005279846,Group 4 (Morbidity >=0.001%),-20
+644,A69,Other spirochaetal infections,16788,0.005210938,Group 4 (Morbidity >=0.001%),-20
+645,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",16688,0.005179898,Group 4 (Morbidity >=0.001%),-20
+646,M86,Osteomyelitis,16592,0.0051501,Group 4 (Morbidity >=0.001%),-20
+647,O30,Multiple gestation,16547,0.005136132,Group 4 (Morbidity >=0.001%),-20
+648,M83,Adult osteomalacia,16486,0.005117198,Group 4 (Morbidity >=0.001%),-20
+649,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",16444,0.005104161,Group 4 (Morbidity >=0.001%),-20
+650,J96,"Respiratory failure, not elsewhere classified",16369,0.005080882,Group 4 (Morbidity >=0.001%),-20
+651,G91,Hydrocephalus,16362,0.005078709,Group 4 (Morbidity >=0.001%),-20
+652,C71,Malignant neoplasm of brain,16320,0.005065672,Group 4 (Morbidity >=0.001%),-20
+653,N61,Inflammatory disorders of breast,16261,0.005047359,Group 4 (Morbidity >=0.001%),-20
+654,H71,Cholesteatoma of middle ear,16168,0.005018492,Group 4 (Morbidity >=0.001%),-20
+655,R89,"Abnormal findings in specimens from other organs, systems and tissues",16125,0.005005145,Group 4 (Morbidity >=0.001%),-20
+656,L43,Lichen planus,16041,0.004979072,Group 4 (Morbidity >=0.001%),-20
+657,I12,Hypertensive renal disease,15972,0.004957654,Group 4 (Morbidity >=0.001%),-20
+658,H05,Disorders of orbit,15909,0.004938099,Group 4 (Morbidity >=0.001%),-20
+659,D39,Neoplasm of uncertain or unknown behaviour of female genital organs,15732,0.004883159,Group 4 (Morbidity >=0.001%),-20
+660,D43,Neoplasm of uncertain or unknown behaviour of brain and central nervous system,15672,0.004864535,Group 4 (Morbidity >=0.001%),-20
+661,I77,Other disorders of arteries and arterioles,15572,0.004833496,Group 4 (Morbidity >=0.001%),-20
+662,D31,Benign neoplasm of eye and adnexa,15517,0.004816424,Group 4 (Morbidity >=0.001%),-20
+663,L13,Other bullous disorders,15464,0.004799973,Group 4 (Morbidity >=0.001%),-20
+664,B24,Unspecified human immunodeficiency virus [HIV] disease,15401,0.004780418,Group 4 (Morbidity >=0.001%),-20
+665,K65,Peritonitis,15252,0.004734169,Group 4 (Morbidity >=0.001%),-20
+666,F50,Eating disorders,15138,0.004698784,Group 4 (Morbidity >=0.001%),-20
+667,E56,Other vitamin deficiencies,15094,0.004685126,Group 4 (Morbidity >=0.001%),-20
+668,L51,Erythema multiforme,15046,0.004670227,Group 4 (Morbidity >=0.001%),-20
+669,S68,Traumatic amputation of wrist and hand,14932,0.004634842,Group 4 (Morbidity >=0.001%),-20
+670,L22,Diaper [napkin] dermatitis,14912,0.004628634,Group 4 (Morbidity >=0.001%),-20
+671,M89,Other disorders of bone,14806,0.004595732,Group 4 (Morbidity >=0.001%),-20
+672,K37,Unspecified appendicitis,14717,0.004568107,Group 4 (Morbidity >=0.001%),-20
+673,L55,Sunburn,14665,0.004551966,Group 4 (Morbidity >=0.001%),-20
+674,H67,Otitis media in diseases classified elsewhere,14652,0.004547931,Group 4 (Morbidity >=0.001%),-20
+675,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",14642,0.004544827,Group 4 (Morbidity >=0.001%),-20
+676,C77,Secondary and unspecified malignant neoplasm of lymph nodes,14584,0.004526824,Group 4 (Morbidity >=0.001%),-20
+677,Q66,Congenital deformities of feet,14579,0.004525272,Group 4 (Morbidity >=0.001%),-20
+678,D00,"Carcinoma in situ of oral cavity, oesophagus and stomach",14573,0.004523409,Group 4 (Morbidity >=0.001%),-20
+679,M30,Polyarteritis nodosa and related conditions,14502,0.004501371,Group 4 (Morbidity >=0.001%),-20
+680,I05,Rheumatic mitral valve diseases,14361,0.004457605,Group 4 (Morbidity >=0.001%),-20
+681,R45,Symptoms and signs involving emotional state,14347,0.00445326,Group 4 (Morbidity >=0.001%),-20
+682,T84,"Complications of internal orthopaedic prosthetic devices, implants and grafts",14249,0.004422841,Group 4 (Morbidity >=0.001%),-20
+683,N04,Nephrotic syndrome,14183,0.004402355,Group 4 (Morbidity >=0.001%),-20
+684,R57,"Shock, not elsewhere classified",14126,0.004384662,Group 4 (Morbidity >=0.001%),-20
+685,T01,Open wounds involving multiple body regions,14103,0.004377523,Group 4 (Morbidity >=0.001%),-20
+686,Z12,Special screening examination for neoplasms,14039,0.004357658,Group 4 (Morbidity >=0.001%),-20
+687,S21,Open wound of thorax,13963,0.004334068,Group 4 (Morbidity >=0.001%),-20
+688,M93,Other osteochondropathies,13900,0.004314513,Group 4 (Morbidity >=0.001%),-20
+689,R90,Abnormal findings on diagnostic imaging of central nervous system,13870,0.004305201,Group 4 (Morbidity >=0.001%),-20
+690,F25,Schizoaffective disorders,13821,0.004289991,Group 4 (Morbidity >=0.001%),-20
+691,D28,Benign neoplasm of other and unspecified female genital organs,13747,0.004267022,Group 4 (Morbidity >=0.001%),-20
+692,F70,Mild mental retardation,13715,0.004257089,Group 4 (Morbidity >=0.001%),-20
+693,D09,Carcinoma in situ of other and unspecified sites,13689,0.004249019,Group 4 (Morbidity >=0.001%),-20
+694,C23,Malignant neoplasm of gallbladder,13612,0.004225118,Group 4 (Morbidity >=0.001%),-20
+695,P38,Omphalitis of newborn with or without mild haemorrhage,13603,0.004222325,Group 4 (Morbidity >=0.001%),-20
+696,T09,"Other injuries of spine and trunk, level unspecified",13587,0.004217358,Group 4 (Morbidity >=0.001%),-20
+697,A02,Other salmonella infections,13513,0.004194389,Group 4 (Morbidity >=0.001%),-20
+698,D75,Other diseases of blood and blood-forming organs,13420,0.004165522,Group 4 (Morbidity >=0.001%),-20
+699,N05,Unspecified nephritic syndrome,13355,0.004145346,Group 4 (Morbidity >=0.001%),-20
+700,I13,Hypertensive heart and renal disease,13351,0.004144105,Group 4 (Morbidity >=0.001%),-20
+701,N03,Chronic nephritic syndrome,13255,0.004114307,Group 4 (Morbidity >=0.001%),-20
+702,N50,Other disorders of male genital organs,13239,0.00410934,Group 4 (Morbidity >=0.001%),-20
+703,H54,Visual impairment including blindness (binocular or monocular),13049,0.004050365,Group 4 (Morbidity >=0.001%),-20
+704,O47,False labour,12982,0.004029568,Group 4 (Morbidity >=0.001%),-20
+705,J13,Pneumonia due to Streptococcus pneumoniae,12967,0.004024913,Group 4 (Morbidity >=0.001%),-20
+706,C49,Malignant neoplasm of other connective and soft tissue,12877,0.003996977,Group 4 (Morbidity >=0.001%),-20
+707,Q44,"Congenital malformations of gallbladder, bile ducts and liver",12870,0.003994804,Group 4 (Morbidity >=0.001%),-20
+708,Q18,Other congenital malformations of face and neck,12864,0.003992942,Group 4 (Morbidity >=0.001%),-20
+709,O65,Obstructed labour due to maternal pelvic abnormality,12831,0.003982699,Group 4 (Morbidity >=0.001%),-20
+710,N74,Female pelvic inflammatory disorders in diseases classified elsewhere,12795,0.003971524,Group 4 (Morbidity >=0.001%),-20
+711,K91,"Postprocedural disorders of digestive system, not elsewhere classified",12760,0.00396066,Group 4 (Morbidity >=0.001%),-20
+712,G52,Disorders of other cranial nerves,12742,0.003955073,Group 4 (Morbidity >=0.001%),-20
+713,A38,Scarlet fever,12670,0.003932725,Group 4 (Morbidity >=0.001%),-20
+714,Q85,"Phakomatoses, not elsewhere classified",12565,0.003900133,Group 4 (Morbidity >=0.001%),-20
+715,S69,Other and unspecified injuries of wrist and hand,12409,0.003851711,Group 4 (Morbidity >=0.001%),-20
+716,H83,Other diseases of inner ear,12389,0.003845503,Group 4 (Morbidity >=0.001%),-20
+717,I62,Other nontraumatic intracranial haemorrhage,12319,0.003823776,Group 4 (Morbidity >=0.001%),-20
+718,G05,"Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",12295,0.003816326,Group 4 (Morbidity >=0.001%),-20
+719,C85,Other and unspecified types of non-Hodgkin lymphoma,12288,0.003814153,Group 4 (Morbidity >=0.001%),-20
+720,N47,"Redundant prepuce, phimosis and paraphimosis",12149,0.003771008,Group 4 (Morbidity >=0.001%),-20
+721,N70,Salpingitis and oophoritis,12142,0.003768835,Group 4 (Morbidity >=0.001%),-20
+722,G70,Myasthenia gravis and other myoneural disorders,12035,0.003735623,Group 4 (Morbidity >=0.001%),-20
+723,N49,"Inflammatory disorders of male genital organs, not elsewhere classified",11898,0.003693099,Group 4 (Morbidity >=0.001%),-20
+724,G22,Parkinsonism in diseases classified elsewhere,11887,0.003689684,Group 4 (Morbidity >=0.001%),-20
+725,K42,Umbilical hernia,11731,0.003641262,Group 4 (Morbidity >=0.001%),-20
+726,C88,Malignant immunoproliferative diseases,11722,0.003638469,Group 4 (Morbidity >=0.001%),-20
+727,K43,Ventral hernia,11719,0.003637538,Group 4 (Morbidity >=0.001%),-20
+728,D61,Other aplastic anaemias,11706,0.003633502,Group 4 (Morbidity >=0.001%),-20
+729,Q28,Other congenital malformations of circulatory system,11687,0.003627605,Group 4 (Morbidity >=0.001%),-20
+730,F38,Other mood [affective] disorders,11678,0.003624811,Group 4 (Morbidity >=0.001%),-20
+731,O00,Ectopic pregnancy,11637,0.003612085,Group 4 (Morbidity >=0.001%),-20
+732,O32,Maternal care for known or suspected malpresentation of fetus,11623,0.00360774,Group 4 (Morbidity >=0.001%),-20
+733,L66,Cicatricial alopecia [scarring hair loss],11575,0.00359284,Group 4 (Morbidity >=0.001%),-20
+734,F05,"Delirium, not induced by alcohol and other psychoactive substances",11556,0.003586943,Group 4 (Morbidity >=0.001%),-20
+735,I78,Diseases of capillaries,11499,0.00356925,Group 4 (Morbidity >=0.001%),-20
+736,A48,"Other bacterial diseases, not elsewhere classified",11463,0.003558076,Group 4 (Morbidity >=0.001%),-20
+737,D46,Myelodysplastic syndromes,11390,0.003535417,Group 4 (Morbidity >=0.001%),-20
+738,M66,Spontaneous rupture of synovium and tendon,11368,0.003528588,Group 4 (Morbidity >=0.001%),-20
+739,D38,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,11346,0.00352176,Group 4 (Morbidity >=0.001%),-20
+740,D41,Neoplasm of uncertain or unknown behaviour of urinary organs,11340,0.003519897,Group 4 (Morbidity >=0.001%),-20
+741,G80,Cerebral palsy,11290,0.003504377,Group 4 (Morbidity >=0.001%),-20
+742,I31,Other diseases of pericardium,11263,0.003495997,Group 4 (Morbidity >=0.001%),-20
+743,I45,Other conduction disorders,11148,0.003460301,Group 4 (Morbidity >=0.001%),-20
+744,Q65,Congenital deformities of hip,11116,0.003450368,Group 4 (Morbidity >=0.001%),-20
+745,Q62,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,11095,0.00344385,Group 4 (Morbidity >=0.001%),-20
+746,C91,Lymphoid leukaemia,11088,0.003441677,Group 4 (Morbidity >=0.001%),-20
+747,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",10879,0.003376804,Group 4 (Morbidity >=0.001%),-20
+748,Z50,Care involving use of rehabilitation procedures,10864,0.003372149,Group 4 (Morbidity >=0.001%),-20
+749,G21,Secondary parkinsonism,10841,0.003365009,Group 4 (Morbidity >=0.001%),-20
+750,Q25,Congenital malformations of great arteries,10643,0.003303551,Group 4 (Morbidity >=0.001%),-20
+751,Z62,Other problems related to upbringing,10627,0.003298585,Group 4 (Morbidity >=0.001%),-20
+752,J82,"Pulmonary eosinophilia, not elsewhere classified",10620,0.003296412,Group 4 (Morbidity >=0.001%),-20
+753,O86,Other puerperal infections,10614,0.003294549,Group 4 (Morbidity >=0.001%),-20
+754,H30,Chorioretinal inflammation,10594,0.003288341,Group 4 (Morbidity >=0.001%),-20
+755,F63,Habit and impulse disorders,10520,0.003265372,Group 4 (Morbidity >=0.001%),-20
+756,Q68,Other congenital musculoskeletal deformities,10465,0.0032483,Group 4 (Morbidity >=0.001%),-20
+757,T69,Other effects of reduced temperature,10345,0.003211053,Group 4 (Morbidity >=0.001%),-20
+758,S97,Crushing injury of ankle and foot,10344,0.003210742,Group 4 (Morbidity >=0.001%),-20
+759,S64,Injury of nerves at wrist and hand level,10303,0.003198016,Group 4 (Morbidity >=0.001%),-20
+760,Z85,Personal history of malignant neoplasm,10285,0.003192429,Group 4 (Morbidity >=0.001%),-20
+761,Q23,Congenital malformations of aortic and mitral valves,10281,0.003191187,Group 4 (Morbidity >=0.001%),-20
+762,F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,10272,0.003188394,Group 4 (Morbidity >=0.001%),-20
+763,O03,Spontaneous abortion,10232,0.003175978,Group 4 (Morbidity >=0.001%),-20
+764,H03,Disorders of eyelid in diseases classified elsewhere,10155,0.003152077,Group 4 (Morbidity >=0.001%),-20
+765,C32,Malignant neoplasm of larynx,10133,0.003145249,Group 4 (Morbidity >=0.001%),-20
+766,Q55,Other congenital malformations of male genital organs,10051,0.003119796,Group 4 (Morbidity >=0.001%),-20
+767,E61,Deficiency of other nutrient elements,9999,0.003103655,Group 4 (Morbidity >=0.001%),-20
+768,E53,Deficiency of other B group vitamins,9996,0.003102724,Group 4 (Morbidity >=0.001%),-20
+769,F80,Specific developmental disorders of speech and language,9919,0.003078824,Group 4 (Morbidity >=0.001%),-20
+770,Q53,Undescended testicle,9880,0.003066718,Group 4 (Morbidity >=0.001%),-20
+771,E21,Hyperparathyroidism and other disorders of parathyroid gland,9868,0.003062994,Group 4 (Morbidity >=0.001%),-20
+772,T13,"Other injuries of lower limb, level unspecified",9859,0.0030602,Group 4 (Morbidity >=0.001%),-20
+773,Q83,Congenital malformations of breast,9850,0.003057406,Group 4 (Morbidity >=0.001%),-20
+774,G83,Other paralytic syndromes,9829,0.003050888,Group 4 (Morbidity >=0.001%),-20
+775,O81,Single delivery by forceps and vacuum extractor,9755,0.003027919,Group 4 (Morbidity >=0.001%),-20
+776,D68,Other coagulation defects,9717,0.003016124,Group 4 (Morbidity >=0.001%),-20
+777,Q87,Other specified congenital malformation syndromes affecting multiple systems,9552,0.002964908,Group 4 (Morbidity >=0.001%),-20
+778,A53,Other and unspecified syphilis,9533,0.002959011,Group 4 (Morbidity >=0.001%),-20
+779,B49,Unspecified mycosis,9373,0.002909347,Group 4 (Morbidity >=0.001%),-20
+780,T19,Foreign body in genitourinary tract,9244,0.002869306,Group 4 (Morbidity >=0.001%),-20
+781,R72,"Abnormality of white blood cells, not elsewhere classified",9195,0.002854097,Group 4 (Morbidity >=0.001%),-20
+782,O83,Other assisted single delivery,9191,0.002852855,Group 4 (Morbidity >=0.001%),-20
+783,O42,Premature rupture of membranes,9172,0.002846957,Group 4 (Morbidity >=0.001%),-20
+784,S14,Injury of nerves and spinal cord at neck level,9054,0.002810331,Group 4 (Morbidity >=0.001%),-20
+785,H46,Optic neuritis,9025,0.002801329,Group 4 (Morbidity >=0.001%),-20
+786,Z90,"Acquired absence of organs, not elsewhere classified",8816,0.002736456,Group 4 (Morbidity >=0.001%),-20
+787,E29,Testicular dysfunction,8783,0.002726213,Group 4 (Morbidity >=0.001%),-20
+788,H82,Vertiginous syndromes in diseases classified elsewhere,8759,0.002718764,Group 4 (Morbidity >=0.001%),-20
+789,C37,Malignant neoplasm of thymus,8719,0.002706348,Group 4 (Morbidity >=0.001%),-20
+790,N96,Habitual aborter,8638,0.002681206,Group 4 (Morbidity >=0.001%),-20
+791,K87,"Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",8596,0.002668169,Group 4 (Morbidity >=0.001%),-20
+792,O26,Maternal care for other conditions predominantly related to pregnancy,8578,0.002662582,Group 4 (Morbidity >=0.001%),-20
+793,A75,Typhus fever,8577,0.002662272,Group 4 (Morbidity >=0.001%),-20
+794,L44,Other papulosquamous disorders,8529,0.002647372,Group 4 (Morbidity >=0.001%),-20
+795,S99,Other and unspecified injuries of ankle and foot,8471,0.002629369,Group 4 (Morbidity >=0.001%),-20
+796,D07,Carcinoma in situ of other and unspecified genital organs,8466,0.002627818,Group 4 (Morbidity >=0.001%),-20
+797,E58,Dietary calcium deficiency,8460,0.002625955,Group 4 (Morbidity >=0.001%),-20
+798,G41,Status epilepticus,8343,0.002589639,Group 4 (Morbidity >=0.001%),-20
+799,R44,Other symptoms and signs involving general sensations and perceptions,8336,0.002587466,Group 4 (Morbidity >=0.001%),-20
+800,C17,Malignant neoplasm of small intestine,8280,0.002570084,Group 4 (Morbidity >=0.001%),-20
+801,F93,Emotional disorders with onset specific to childhood,8251,0.002561082,Group 4 (Morbidity >=0.001%),-20
+802,L95,"Vasculitis limited to skin, not elsewhere classified",8201,0.002545562,Group 4 (Morbidity >=0.001%),-20
+803,T75,Effects of other external causes,8190,0.002542148,Group 4 (Morbidity >=0.001%),-20
+804,P83,Other conditions of integument specific to fetus and newborn,8170,0.00253594,Group 4 (Morbidity >=0.001%),-20
+805,K66,Other disorders of peritoneum,8103,0.002515144,Group 4 (Morbidity >=0.001%),-20
+806,T82,"Complications of cardiac and vascular prosthetic devices, implants and grafts",8087,0.002510177,Group 4 (Morbidity >=0.001%),-20
+807,C82,Follicular lymphoma,8072,0.002505521,Group 4 (Morbidity >=0.001%),-20
+808,F22,Persistent delusional disorders,8025,0.002490933,Group 4 (Morbidity >=0.001%),-20
+809,K72,"Hepatic failure, not elsewhere classified",7936,0.002463307,Group 4 (Morbidity >=0.001%),-20
+810,C66,Malignant neoplasm of ureter,7905,0.002453685,Group 4 (Morbidity >=0.001%),-20
+811,M02,Reactive arthropathies,7859,0.002439407,Group 4 (Morbidity >=0.001%),-20
+812,O36,Maternal care for other known or suspected fetal problems,7818,0.002426681,Group 4 (Morbidity >=0.001%),-20
+813,E46,Unspecified protein-energy malnutrition,7782,0.002415506,Group 4 (Morbidity >=0.001%),-20
+814,O90,"Complications of the puerperium, not elsewhere classified",7710,0.002393158,Group 4 (Morbidity >=0.001%),-20
+815,M07,Psoriatic and enteropathic arthropathies,7661,0.002377948,Group 4 (Morbidity >=0.001%),-20
+816,R77,Other abnormalities of plasma proteins,7616,0.00236398,Group 4 (Morbidity >=0.001%),-20
+817,G12,Spinal muscular atrophy and related syndromes,7503,0.002328906,Group 4 (Morbidity >=0.001%),-20
+818,T50,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",7451,0.002312765,Group 4 (Morbidity >=0.001%),-20
+819,I74,Arterial embolism and thrombosis,7448,0.002311834,Group 4 (Morbidity >=0.001%),-20
+820,H74,Other disorders of middle ear and mastoid,7381,0.002291037,Group 4 (Morbidity >=0.001%),-20
+821,G61,Inflammatory polyneuropathy,7348,0.002280794,Group 4 (Morbidity >=0.001%),-20
+822,H42,Glaucoma in diseases classified elsewhere,7270,0.002256583,Group 4 (Morbidity >=0.001%),-20
+823,D15,Benign neoplasm of other and unspecified intrathoracic organs,7257,0.002252548,Group 4 (Morbidity >=0.001%),-20
+824,G71,Primary disorders of muscles,7223,0.002241995,Group 4 (Morbidity >=0.001%),-20
+825,Z33,"Pregnant state, incidental",7213,0.002238891,Group 4 (Morbidity >=0.001%),-20
+826,B26,Mumps,7172,0.002226164,Group 4 (Morbidity >=0.001%),-20
+827,T26,Burn and corrosion confined to eye and adnexa,7171,0.002225854,Group 4 (Morbidity >=0.001%),-20
+828,E41,Nutritional marasmus,7154,0.002220577,Group 4 (Morbidity >=0.001%),-20
+829,E02,Subclinical iodine-deficiency hypothyroidism,7152,0.002219956,Group 4 (Morbidity >=0.001%),-20
+830,G11,Hereditary ataxia,7142,0.002216852,Group 4 (Morbidity >=0.001%),-20
+831,L75,Apocrine sweat disorders,7124,0.002211265,Group 4 (Morbidity >=0.001%),-20
+832,O91,Infections of breast associated with childbirth,7121,0.002210334,Group 4 (Morbidity >=0.001%),-20
+833,C02,Malignant neoplasm of other and unspecified parts of tongue,7102,0.002204437,Group 4 (Morbidity >=0.001%),-20
+834,P92,Feeding problems of newborn,7003,0.002173707,Group 4 (Morbidity >=0.001%),-20
+835,P05,Slow fetal growth and fetal malnutrition,6994,0.002170914,Group 4 (Morbidity >=0.001%),-20
+836,Z93,Artificial opening status,6980,0.002166568,Group 4 (Morbidity >=0.001%),-20
+837,R40,"Somnolence, stupor and coma",6947,0.002156325,Group 4 (Morbidity >=0.001%),-20
+838,O23,Infections of genitourinary tract in pregnancy,6934,0.00215229,Group 4 (Morbidity >=0.001%),-20
+839,S11,Open wound of neck,6928,0.002150428,Group 4 (Morbidity >=0.001%),-20
+840,H13,Disorders of conjunctiva in diseases classified elsewhere,6831,0.002120319,Group 4 (Morbidity >=0.001%),-20
+841,D04,Carcinoma in situ of skin,6827,0.002119077,Group 4 (Morbidity >=0.001%),-20
+842,R84,Abnormal findings in specimens from respiratory organs and thorax,6813,0.002114732,Group 4 (Morbidity >=0.001%),-20
+843,N90,Other noninflammatory disorders of vulva and perineum,6808,0.00211318,Group 4 (Morbidity >=0.001%),-20
+844,F07,"Personality and behavioural disorders due to brain disease, damage and dysfunction",6795,0.002109145,Group 4 (Morbidity >=0.001%),-20
+845,S65,Injury of blood vessels at wrist and hand level,6787,0.002106662,Group 4 (Morbidity >=0.001%),-20
+846,N89,Other noninflammatory disorders of vagina,6782,0.00210511,Group 4 (Morbidity >=0.001%),-20
+847,M34,Systemic sclerosis,6770,0.002101385,Group 4 (Morbidity >=0.001%),-20
+848,M61,Calcification and ossification of muscle,6707,0.00208183,Group 4 (Morbidity >=0.001%),-20
+849,S89,Other and unspecified injuries of lower leg,6662,0.002067862,Group 4 (Morbidity >=0.001%),-20
+850,C43,Malignant melanoma of skin,6657,0.00206631,Group 4 (Morbidity >=0.001%),-20
+851,M18,Arthrosis of first carpometacarpal joint,6639,0.002060723,Group 4 (Morbidity >=0.001%),-20
+852,G23,Other degenerative diseases of basal ganglia,6637,0.002060102,Group 4 (Morbidity >=0.001%),-20
+853,S54,Injury of nerves at forearm level,6625,0.002056377,Group 4 (Morbidity >=0.001%),-20
+854,O44,Placenta praevia,6585,0.002043962,Group 4 (Morbidity >=0.001%),-20
+855,Q27,Other congenital malformations of peripheral vascular system,6584,0.002043651,Group 4 (Morbidity >=0.001%),-20
+856,C65,Malignant neoplasm of renal pelvis,6567,0.002038374,Group 4 (Morbidity >=0.001%),-20
+857,M31,Other necrotizing vasculopathies,6567,0.002038374,Group 4 (Morbidity >=0.001%),-20
+858,Q74,Other congenital malformations of limb(s),6547,0.002032166,Group 4 (Morbidity >=0.001%),-20
+859,A54,Gonococcal infection,6491,0.002014784,Group 4 (Morbidity >=0.001%),-20
+860,J81,Pulmonary oedema,6463,0.002006093,Group 4 (Morbidity >=0.001%),-20
+861,H21,Other disorders of iris and ciliary body,6392,0.001984055,Group 4 (Morbidity >=0.001%),-20
+862,P39,Other infections specific to the perinatal period,6214,0.001928804,Group 4 (Morbidity >=0.001%),-20
+863,O28,Abnormal findings on antenatal screening of mother,6180,0.001918251,Group 4 (Morbidity >=0.001%),-20
+864,F79,Unspecified mental retardation,6107,0.001895592,Group 4 (Morbidity >=0.001%),-20
+865,R69,Unknown and unspecified causes of morbidity,6083,0.001888142,Group 4 (Morbidity >=0.001%),-20
+866,B90,Sequelae of tuberculosis,6054,0.001879141,Group 4 (Morbidity >=0.001%),-20
+867,N36,Other disorders of urethra,6034,0.001872933,Group 4 (Morbidity >=0.001%),-20
+868,T70,Effects of air pressure and water pressure,5991,0.001859586,Group 4 (Morbidity >=0.001%),-20
+869,Q89,"Other congenital malformations, not elsewhere classified",5986,0.001858034,Group 4 (Morbidity >=0.001%),-20
+870,F71,Moderate mental retardation,5895,0.001829788,Group 4 (Morbidity >=0.001%),-20
+871,S10,Superficial injury of neck,5888,0.001827615,Group 4 (Morbidity >=0.001%),-20
+872,E26,Hyperaldosteronism,5887,0.001827305,Group 4 (Morbidity >=0.001%),-20
+873,G04,"Encephalitis, myelitis and encephalomyelitis",5862,0.001819545,Group 4 (Morbidity >=0.001%),-20
+874,Q24,Other congenital malformations of heart,5842,0.001813337,Group 4 (Morbidity >=0.001%),-20
+875,G37,Other demyelinating diseases of central nervous system,5841,0.001813026,Group 4 (Morbidity >=0.001%),-20
+876,D45,Polycythaemia vera,5700,0.001769261,Group 4 (Morbidity >=0.001%),-20
+877,B33,"Other viral diseases, not elsewhere classified",5694,0.001767398,Group 4 (Morbidity >=0.001%),-20
+878,R18,Ascites,5694,0.001767398,Group 4 (Morbidity >=0.001%),-20
+879,M42,Spinal osteochondrosis,5683,0.001763984,Group 4 (Morbidity >=0.001%),-20
+880,M95,Other acquired deformities of musculoskeletal system and connective tissue,5677,0.001762121,Group 4 (Morbidity >=0.001%),-20
+881,S12,Fracture of neck,5639,0.001750326,Group 4 (Morbidity >=0.001%),-20
+882,N35,Urethral stricture,5635,0.001749085,Group 4 (Morbidity >=0.001%),-20
+883,R54,Senility,5634,0.001748774,Group 4 (Morbidity >=0.001%),-20
+884,B85,Pediculosis and phthiriasis,5522,0.00171401,Group 4 (Morbidity >=0.001%),-20
+885,K36,Other appendicitis,5500,0.001707181,Group 4 (Morbidity >=0.001%),-20
+886,O12,Gestational [pregnancy-induced] oedema and proteinuria without hypertension,5483,0.001701904,Group 4 (Morbidity >=0.001%),-20
+887,R86,Abnormal findings in specimens from male genital organs,5410,0.001679246,Group 4 (Morbidity >=0.001%),-20
+888,I27,Other pulmonary heart diseases,5380,0.001669934,Group 4 (Morbidity >=0.001%),-20
+889,J14,Pneumonia due to Haemophilus influenzae,5369,0.001666519,Group 4 (Morbidity >=0.001%),-20
+890,M33,Dermatopolymyositis,5311,0.001648516,Group 4 (Morbidity >=0.001%),-20
+891,S87,Crushing injury of lower leg,5291,0.001642308,Group 4 (Morbidity >=0.001%),-20
+892,Z53,"Persons encountering health services for specific procedures, not carried out",5280,0.001638894,Group 4 (Morbidity >=0.001%),-20
+893,D53,Other nutritional anaemias,5262,0.001633307,Group 4 (Morbidity >=0.001%),-20
+894,T73,Effects of other deprivation,5234,0.001624616,Group 4 (Morbidity >=0.001%),-20
+895,O92,Other disorders of breast and lactation associated with childbirth,5173,0.001605682,Group 4 (Morbidity >=0.001%),-20
+896,M08,Juvenile arthritis,5087,0.001578987,Group 4 (Morbidity >=0.001%),-20
+897,N06,Isolated proteinuria with specified morphological lesion,5083,0.001577746,Group 4 (Morbidity >=0.001%),-20
+898,O13,Gestational [pregnancy-induced] hypertension,5074,0.001574952,Group 4 (Morbidity >=0.001%),-20
+899,T83,"Complications of genitourinary prosthetic devices, implants and grafts",5063,0.001571538,Group 4 (Morbidity >=0.001%),-20
+900,S27,Injury of other and unspecified intrathoracic organs,5053,0.001568434,Group 4 (Morbidity >=0.001%),-20
+901,R27,Other lack of coordination,5005,0.001553535,Group 4 (Morbidity >=0.001%),-20
+902,N00,Acute nephritic syndrome,5004,0.001553225,Group 4 (Morbidity >=0.001%),-20
+903,J85,Abscess of lung and mediastinum,5003,0.001552914,Group 4 (Morbidity >=0.001%),-20
+904,C09,Malignant neoplasm of tonsil,4993,0.00154981,Group 4 (Morbidity >=0.001%),-20
+905,N08,Glomerular disorders in diseases classified elsewhere,4968,0.00154205,Group 4 (Morbidity >=0.001%),-20
+906,E24,Cushing syndrome,4941,0.00153367,Group 4 (Morbidity >=0.001%),-20
+907,F23,Acute and transient psychotic disorders,4912,0.001524668,Group 4 (Morbidity >=0.001%),-20
+908,A37,Whooping cough,4905,0.001522495,Group 4 (Morbidity >=0.001%),-20
+909,F52,"Sexual dysfunction, not caused by organic disorder or disease",4889,0.001517529,Group 4 (Morbidity >=0.001%),-20
+910,O35,Maternal care for known or suspected fetal abnormality and damage,4830,0.001499216,Group 4 (Morbidity >=0.001%),-20
+911,T29,Burns and corrosions of multiple body regions,4815,0.00149456,Group 4 (Morbidity >=0.001%),-20
+912,J64,Unspecified pneumoconiosis,4805,0.001491456,Group 4 (Morbidity >=0.001%),-20
+913,N23,Unspecified renal colic,4751,0.001474694,Group 4 (Morbidity >=0.001%),-20
+914,C80,"Malignant neoplasm, without specification of site",4748,0.001473763,Group 4 (Morbidity >=0.001%),-20
+915,F02,Dementia in other diseases classified elsewhere,4742,0.001471901,Group 4 (Morbidity >=0.001%),-20
+916,I68,Cerebrovascular disorders in diseases classified elsewhere,4742,0.001471901,Group 4 (Morbidity >=0.001%),-20
+917,L41,Parapsoriasis,4719,0.001464761,Group 4 (Morbidity >=0.001%),-20
+918,O68,Labour and delivery complicated by fetal stress [distress],4608,0.001430307,Group 4 (Morbidity >=0.001%),-20
+919,T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",4600,0.001427824,Group 4 (Morbidity >=0.001%),-20
+920,C48,Malignant neoplasm of retroperitoneum and peritoneum,4599,0.001427514,Group 4 (Morbidity >=0.001%),-20
+921,D89,"Other disorders involving the immune mechanism, not elsewhere classified",4599,0.001427514,Group 4 (Morbidity >=0.001%),-20
+922,O46,"Antepartum haemorrhage, not elsewhere classified",4582,0.001422237,Group 4 (Morbidity >=0.001%),-20
+923,N11,Chronic tubulo-interstitial nephritis,4574,0.001419754,Group 4 (Morbidity >=0.001%),-20
+924,D51,Vitamin B 12 deficiency anaemia,4560,0.001415408,Group 4 (Morbidity >=0.001%),-20
+925,F91,Conduct disorders,4534,0.001407338,Group 4 (Morbidity >=0.001%),-20
+926,N88,Other noninflammatory disorders of cervix uteri,4521,0.001403303,Group 4 (Morbidity >=0.001%),-20
+927,Q75,Other congenital malformations of skull and face bones,4519,0.001402682,Group 4 (Morbidity >=0.001%),-20
+928,I07,Rheumatic tricuspid valve diseases,4508,0.001399268,Group 4 (Morbidity >=0.001%),-20
+929,G99,Other disorders of nervous system in diseases classified elsewhere,4503,0.001397716,Group 4 (Morbidity >=0.001%),-20
+930,T93,Sequelae of injuries of lower limb,4489,0.00139337,Group 4 (Morbidity >=0.001%),-20
+931,Q20,Congenital malformations of cardiac chambers and connections,4470,0.001387473,Group 4 (Morbidity >=0.001%),-20
+932,T58,Toxic effect of carbon monoxide,4467,0.001386542,Group 4 (Morbidity >=0.001%),-20
+933,N98,Complications associated with artificial fertilization,4464,0.00138561,Group 4 (Morbidity >=0.001%),-20
+934,T33,Superficial frostbite,4401,0.001366055,Group 4 (Morbidity >=0.001%),-20
+935,D26,Other benign neoplasms of uterus,4375,0.001357985,Group 4 (Morbidity >=0.001%),-20
+936,Q17,Other congenital malformations of ear,4366,0.001355191,Group 4 (Morbidity >=0.001%),-20
+937,K93,Disorders of other digestive organs in diseases classified elsewhere,4343,0.001348052,Group 4 (Morbidity >=0.001%),-20
+938,T11,"Other injuries of upper limb, level unspecified",4328,0.001343396,Group 4 (Morbidity >=0.001%),-20
+939,I82,Other venous embolism and thrombosis,4305,0.001336257,Group 4 (Morbidity >=0.001%),-20
+940,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,4296,0.001333464,Group 4 (Morbidity >=0.001%),-20
+941,N51,Disorders of male genital organs in diseases classified elsewhere,4275,0.001326945,Group 4 (Morbidity >=0.001%),-20
+942,P28,Other respiratory conditions originating in the perinatal period,4268,0.001324773,Group 4 (Morbidity >=0.001%),-20
+943,G03,Meningitis due to other and unspecified causes,4262,0.00132291,Group 4 (Morbidity >=0.001%),-20
+944,Z45,Adjustment and management of implanted device,4262,0.00132291,Group 4 (Morbidity >=0.001%),-20
+945,A18,Tuberculosis of other organs,4260,0.001322289,Group 4 (Morbidity >=0.001%),-20
+946,Q22,Congenital malformations of pulmonary and tricuspid valves,4242,0.001316702,Group 4 (Morbidity >=0.001%),-20
+947,J86,Pyothorax,4161,0.00129156,Group 4 (Morbidity >=0.001%),-20
+948,Q76,Congenital malformations of spine and bony thorax,4144,0.001286283,Group 4 (Morbidity >=0.001%),-20
+949,T08,"Fracture of spine, level unspecified",4124,0.001280076,Group 4 (Morbidity >=0.001%),-20
+950,Z43,Attention to artificial openings,4111,0.00127604,Group 4 (Morbidity >=0.001%),-20
+951,D86,Sarcoidosis,4109,0.00127542,Group 4 (Morbidity >=0.001%),-20
+952,O72,Postpartum haemorrhage,4056,0.001258969,Group 4 (Morbidity >=0.001%),-20
+953,K38,Other diseases of appendix,4048,0.001256485,Group 4 (Morbidity >=0.001%),-20
+954,T91,Sequelae of injuries of neck and trunk,4023,0.001248725,Group 4 (Morbidity >=0.001%),-20
+955,E80,Disorders of porphyrin and bilirubin metabolism,4022,0.001248415,Group 4 (Morbidity >=0.001%),-20
+956,I79,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",4003,0.001242518,Group 4 (Morbidity >=0.001%),-20
+957,K77,Liver disorders in diseases classified elsewhere,4003,0.001242518,Group 4 (Morbidity >=0.001%),-20
+958,O14,Pre-eclampsia,3973,0.001233206,Group 4 (Morbidity >=0.001%),-20
+959,C11,Malignant neoplasm of nasopharynx,3969,0.001231964,Group 4 (Morbidity >=0.001%),-20
+960,C06,Malignant neoplasm of other and unspecified parts of mouth,3900,0.001210547,Group 4 (Morbidity >=0.001%),-20
+961,L83,Acanthosis nigricans,3895,0.001208995,Group 4 (Morbidity >=0.001%),-20
+962,J17,Pneumonia in diseases classified elsewhere,3891,0.001207753,Group 4 (Morbidity >=0.001%),-20
+963,R58,"Haemorrhage, not elsewhere classified",3872,0.001201856,Group 4 (Morbidity >=0.001%),-20
+964,K44,Diaphragmatic hernia,3814,0.001183853,Group 4 (Morbidity >=0.001%),-20
+965,D73,Diseases of spleen,3811,0.001182921,Group 4 (Morbidity >=0.001%),-20
+966,S04,Injury of cranial nerves,3794,0.001177645,Group 4 (Morbidity >=0.001%),-20
+967,D52,Folate deficiency anaemia,3764,0.001168333,Group 4 (Morbidity >=0.001%),-20
+968,B44,Aspergillosis,3755,0.001165539,Group 4 (Morbidity >=0.001%),-20
+969,O61,Failed induction of labour,3753,0.001164918,Group 4 (Morbidity >=0.001%),-20
+970,N15,Other renal tubulo-interstitial diseases,3747,0.001163056,Group 4 (Morbidity >=0.001%),-20
+971,I08,Multiple valve diseases,3737,0.001159952,Group 4 (Morbidity >=0.001%),-20
+972,L52,Erythema nodosum,3725,0.001156227,Group 4 (Morbidity >=0.001%),-20
+973,C74,Malignant neoplasm of adrenal gland,3703,0.001149399,Group 4 (Morbidity >=0.001%),-20
+974,F60,Specific personality disorders,3667,0.001138224,Group 4 (Morbidity >=0.001%),-20
+975,Z49,Care involving dialysis,3661,0.001136362,Group 4 (Morbidity >=0.001%),-20
+976,S07,Crushing injury of head,3660,0.001136052,Group 4 (Morbidity >=0.001%),-20
+977,Q05,Spina bifida,3644,0.001131085,Group 4 (Morbidity >=0.001%),-20
+978,G96,Other disorders of central nervous system,3635,0.001128292,Group 4 (Morbidity >=0.001%),-20
+979,I85,Oesophageal varices,3633,0.001127671,Group 4 (Morbidity >=0.001%),-20
+980,D42,Neoplasm of uncertain or unknown behaviour of meninges,3622,0.001124256,Group 4 (Morbidity >=0.001%),-20
+981,I24,Other acute ischaemic heart diseases,3594,0.001115565,Group 4 (Morbidity >=0.001%),-20
+982,S49,Other and unspecified injuries of shoulder and upper arm,3593,0.001115255,Group 4 (Morbidity >=0.001%),-20
+983,A51,Early syphilis,3588,0.001113703,Group 4 (Morbidity >=0.001%),-20
+984,K28,Gastrojejunal ulcer,3552,0.001102529,Group 4 (Morbidity >=0.001%),-20
+985,Q51,Congenital malformations of uterus and cervix,3543,0.001099735,Group 4 (Morbidity >=0.001%),-20
+986,C84,Mature T/NK-cell lymphomas,3528,0.001095079,Group 4 (Morbidity >=0.001%),-20
+987,F92,Mixed disorders of conduct and emotions,3501,0.001086698,Group 4 (Morbidity >=0.001%),-20
+988,F99,"Mental disorder, not otherwise specified",3475,0.001078628,Group 4 (Morbidity >=0.001%),-20
+989,C07,Malignant neoplasm of parotid gland,3434,0.001065902,Group 4 (Morbidity >=0.001%),-20
+990,D63,Anaemia in chronic diseases classified elsewhere,3417,0.001060625,Group 4 (Morbidity >=0.001%),-20
+991,G35,Multiple sclerosis,3410,0.001058452,Group 4 (Morbidity >=0.001%),-20
+992,G72,Other myopathies,3407,0.001057521,Group 4 (Morbidity >=0.001%),-20
+993,A74,Other diseases caused by chlamydiae,3394,0.001053486,Group 4 (Morbidity >=0.001%),-20
+994,J94,Other pleural conditions,3374,0.001047278,Group 4 (Morbidity >=0.001%),-20
+995,B27,Infectious mononucleosis,3330,0.001033621,Group 4 (Morbidity >=0.001%),-20
+996,O41,Other disorders of amniotic fluid and membranes,3326,0.001032379,Group 4 (Morbidity >=0.001%),-20
+997,S36,Injury of intra-abdominal organs,3263,0.001012824,Group 4 (Morbidity >=0.001%),-20
+998,K46,Unspecified abdominal hernia,3253,0.00100972,Group 4 (Morbidity >=0.001%),-20
+999,R99,Other ill-defined and unspecified causes of mortality,3248,0.001008168,Group 4 (Morbidity >=0.001%),-20
+1000,I33,Acute and subacute endocarditis,3247,0.001007858,Group 4 (Morbidity >=0.001%),-20
+1001,L26,Exfoliative dermatitis,3216,0.000998235,Group 5 (Morbidity <0.001%),0
+1002,G36,Other acute disseminated demyelination,3209,0.000996063,Group 5 (Morbidity <0.001%),0
+1003,S39,"Other and unspecified injuries of abdomen, lower back and pelvis",3208,0.000995752,Group 5 (Morbidity <0.001%),0
+1004,F28,Other nonorganic psychotic disorders,3201,0.000993579,Group 5 (Morbidity <0.001%),0
+1005,H28,Cataract and other disorders of lens in diseases classified elsewhere,3196,0.000992027,Group 5 (Morbidity <0.001%),0
+1006,B83,Other helminthiases,3188,0.000989544,Group 5 (Morbidity <0.001%),0
+1007,L12,Pemphigoid,3187,0.000989234,Group 5 (Morbidity <0.001%),0
+1008,F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,3140,0.000974645,Group 5 (Morbidity <0.001%),0
+1009,H51,Other disorders of binocular movement,3133,0.000972473,Group 5 (Morbidity <0.001%),0
+1010,S37,Injury of urinary and pelvic organs,3116,0.000967196,Group 5 (Morbidity <0.001%),0
+1011,A52,Late syphilis,3112,0.000965954,Group 5 (Morbidity <0.001%),0
+1012,O66,Other obstructed labour,3071,0.000953228,Group 5 (Morbidity <0.001%),0
+1013,H55,Nystagmus and other irregular eye movements,3047,0.000945778,Group 5 (Morbidity <0.001%),0
+1014,C62,Malignant neoplasm of testis,3043,0.000944537,Group 5 (Morbidity <0.001%),0
+1015,Z75,Problems related to medical facilities and other health care,3041,0.000943916,Group 5 (Morbidity <0.001%),0
+1016,I36,Nonrheumatic tricuspid valve disorders,3040,0.000943606,Group 5 (Morbidity <0.001%),0
+1017,N44,Torsion of testis,2989,0.000927775,Group 5 (Morbidity <0.001%),0
+1018,G60,Hereditary and idiopathic neuropathy,2986,0.000926844,Group 5 (Morbidity <0.001%),0
+1019,C81,Hodgkin lymphoma,2985,0.000926534,Group 5 (Morbidity <0.001%),0
+1020,A87,Viral meningitis,2984,0.000926223,Group 5 (Morbidity <0.001%),0
+1021,O22,Venous complications and haemorrhoids in pregnancy,2976,0.00092374,Group 5 (Morbidity <0.001%),0
+1022,Z27,Need for immunization against combinations of infectious diseases,2957,0.000917843,Group 5 (Morbidity <0.001%),0
+1023,C13,Malignant neoplasm of hypopharynx,2956,0.000917532,Group 5 (Morbidity <0.001%),0
+1024,A06,Amoebiasis,2937,0.000911635,Group 5 (Morbidity <0.001%),0
+1025,S84,Injury of nerves at lower leg level,2927,0.000908531,Group 5 (Morbidity <0.001%),0
+1026,F30,Manic episode,2912,0.000903875,Group 5 (Morbidity <0.001%),0
+1027,G59,Mononeuropathy in diseases classified elsewhere,2910,0.000903254,Group 5 (Morbidity <0.001%),0
+1028,Q04,Other congenital malformations of brain,2905,0.000901702,Group 5 (Morbidity <0.001%),0
+1029,P96,Other conditions originating in the perinatal period,2894,0.000898288,Group 5 (Morbidity <0.001%),0
+1030,Z36,Antenatal screening,2888,0.000896425,Group 5 (Morbidity <0.001%),0
+1031,Q54,Hypospadias,2879,0.000893632,Group 5 (Morbidity <0.001%),0
+1032,C21,Malignant neoplasm of anus and anal canal,2873,0.000891769,Group 5 (Morbidity <0.001%),0
+1033,N37,Urethral disorders in diseases classified elsewhere,2859,0.000887424,Group 5 (Morbidity <0.001%),0
+1034,Z73,Problems related to life-management difficulty,2853,0.000885561,Group 5 (Morbidity <0.001%),0
+1035,F64,Gender identity disorders,2827,0.000877491,Group 5 (Morbidity <0.001%),0
+1036,G06,Intracranial and intraspinal abscess and granuloma,2825,0.00087687,Group 5 (Morbidity <0.001%),0
+1037,Q93,"Monosomies and deletions from the autosomes, not elsewhere classified",2808,0.000871594,Group 5 (Morbidity <0.001%),0
+1038,M11,Other crystal arthropathies,2794,0.000867248,Group 5 (Morbidity <0.001%),0
+1039,E32,Diseases of thymus,2786,0.000864765,Group 5 (Morbidity <0.001%),0
+1040,B66,Other fluke infections,2759,0.000856384,Group 5 (Morbidity <0.001%),0
+1041,Q35,Cleft palate,2757,0.000855763,Group 5 (Morbidity <0.001%),0
+1042,L93,Lupus erythematosus,2715,0.000842727,Group 5 (Morbidity <0.001%),0
+1043,Q96,Turner syndrome,2703,0.000839002,Group 5 (Morbidity <0.001%),0
+1044,R16,"Hepatomegaly and splenomegaly, not elsewhere classified",2694,0.000836208,Group 5 (Morbidity <0.001%),0
+1045,E20,Hypoparathyroidism,2686,0.000833725,Group 5 (Morbidity <0.001%),0
+1046,S44,Injury of nerves at shoulder and upper arm level,2643,0.000820378,Group 5 (Morbidity <0.001%),0
+1047,D59,Acquired haemolytic anaemia,2631,0.000816653,Group 5 (Morbidity <0.001%),0
+1048,B43,Chromomycosis and phaeomycotic abscess,2618,0.000812618,Group 5 (Morbidity <0.001%),0
+1049,I97,"Postprocedural disorders of circulatory system, not elsewhere classified",2618,0.000812618,Group 5 (Morbidity <0.001%),0
+1050,S29,Other and unspecified injuries of thorax,2594,0.000805169,Group 5 (Morbidity <0.001%),0
+1051,A46,Erysipelas,2591,0.000804238,Group 5 (Morbidity <0.001%),0
+1052,Z02,Examination and encounter for administrative purposes,2589,0.000803617,Group 5 (Morbidity <0.001%),0
+1053,Z86,Personal history of certain other diseases,2579,0.000800513,Group 5 (Morbidity <0.001%),0
+1054,L11,Other acantholytic disorders,2569,0.000797409,Group 5 (Morbidity <0.001%),0
+1055,M14,Arthropathies in other diseases classified elsewhere,2554,0.000792753,Group 5 (Morbidity <0.001%),0
+1056,Q69,Polydactyly,2552,0.000792132,Group 5 (Morbidity <0.001%),0
+1057,O63,Long labour,2546,0.00079027,Group 5 (Morbidity <0.001%),0
+1058,D84,Other immunodeficiencies,2519,0.000781889,Group 5 (Morbidity <0.001%),0
+1059,C86,Other specified types of T/NK-cell lymphoma,2472,0.0007673,Group 5 (Morbidity <0.001%),0
+1060,Q78,Other osteochondrodysplasias,2468,0.000766059,Group 5 (Morbidity <0.001%),0
+1061,Q06,Other congenital malformations of spinal cord,2465,0.000765128,Group 5 (Morbidity <0.001%),0
+1062,C08,Malignant neoplasm of other and unspecified major salivary glands,2464,0.000764817,Group 5 (Morbidity <0.001%),0
+1063,Z42,Follow-up care involving plastic surgery,2451,0.000760782,Group 5 (Morbidity <0.001%),0
+1064,L94,Other localized connective tissue disorders,2444,0.000758609,Group 5 (Morbidity <0.001%),0
+1065,U09,Post COVID-19 condition,2440,0.000757368,Group 5 (Morbidity <0.001%),0
+1066,T03,"Dislocations, sprains and strains involving multiple body regions",2411,0.000748366,Group 5 (Morbidity <0.001%),0
+1067,C75,Malignant neoplasm of other endocrine glands and related structures,2399,0.000744641,Group 5 (Morbidity <0.001%),0
+1068,S59,Other and unspecified injuries of forearm,2390,0.000741848,Group 5 (Morbidity <0.001%),0
+1069,T65,Toxic effect of other and unspecified substances,2386,0.000740606,Group 5 (Morbidity <0.001%),0
+1070,F72,Severe mental retardation,2374,0.000736881,Group 5 (Morbidity <0.001%),0
+1071,Q43,Other congenital malformations of intestine,2374,0.000736881,Group 5 (Morbidity <0.001%),0
+1072,H70,Mastoiditis and related conditions,2353,0.000730363,Group 5 (Morbidity <0.001%),0
+1073,L10,Pemphigus,2322,0.000720741,Group 5 (Morbidity <0.001%),0
+1074,Q90,Down syndrome,2321,0.00072043,Group 5 (Morbidity <0.001%),0
+1075,T60,Toxic effect of pesticides,2295,0.00071236,Group 5 (Morbidity <0.001%),0
+1076,E64,Sequelae of malnutrition and other nutritional deficiencies,2290,0.000710808,Group 5 (Morbidity <0.001%),0
+1077,B19,Unspecified viral hepatitis,2283,0.000708635,Group 5 (Morbidity <0.001%),0
+1078,F13,Mental and behavioural disorders due to use of sedatives or hypnotics,2280,0.000707704,Group 5 (Morbidity <0.001%),0
+1079,G98,"Other disorders of nervous system, not elsewhere classified",2265,0.000703048,Group 5 (Morbidity <0.001%),0
+1080,Z80,Family history of malignant neoplasm,2262,0.000702117,Group 5 (Morbidity <0.001%),0
+1081,S79,Other and unspecified injuries of hip and thigh,2235,0.000693736,Group 5 (Morbidity <0.001%),0
+1082,F94,Disorders of social functioning with onset specific to childhood and adolescence,2220,0.00068908,Group 5 (Morbidity <0.001%),0
+1083,Z76,Persons encountering health services in other circumstances,2200,0.000682872,Group 5 (Morbidity <0.001%),0
+1084,C55,"Malignant neoplasm of uterus, part unspecified",2198,0.000682252,Group 5 (Morbidity <0.001%),0
+1085,D40,Neoplasm of uncertain or unknown behaviour of male genital organs,2197,0.000681941,Group 5 (Morbidity <0.001%),0
+1086,Q52,Other congenital malformations of female genitalia,2195,0.000681321,Group 5 (Morbidity <0.001%),0
+1087,Q33,Congenital malformations of lung,2182,0.000677285,Group 5 (Morbidity <0.001%),0
+1088,I98,Other disorders of circulatory system in diseases classified elsewhere,2168,0.00067294,Group 5 (Morbidity <0.001%),0
+1089,K90,Intestinal malabsorption,2157,0.000669525,Group 5 (Morbidity <0.001%),0
+1090,E44,Protein-energy malnutrition of moderate and mild degree,2142,0.000664869,Group 5 (Morbidity <0.001%),0
+1091,Q36,Cleft lip,2083,0.000646556,Group 5 (Morbidity <0.001%),0
+1092,N99,"Postprocedural disorders of genitourinary system, not elsewhere classified",2079,0.000645315,Group 5 (Morbidity <0.001%),0
+1093,C10,Malignant neoplasm of oropharynx,2075,0.000644073,Group 5 (Morbidity <0.001%),0
+1094,C30,Malignant neoplasm of nasal cavity and middle ear,2055,0.000637865,Group 5 (Morbidity <0.001%),0
+1095,C76,Malignant neoplasm of other and ill-defined sites,2055,0.000637865,Group 5 (Morbidity <0.001%),0
+1096,E85,Amyloidosis,2055,0.000637865,Group 5 (Morbidity <0.001%),0
+1097,L86,Keratoderma in diseases classified elsewhere,2055,0.000637865,Group 5 (Morbidity <0.001%),0
+1098,O84,Multiple delivery,2046,0.000635071,Group 5 (Morbidity <0.001%),0
+1099,B48,"Other mycoses, not elsewhere classified",2042,0.00063383,Group 5 (Morbidity <0.001%),0
+1100,Q63,Other congenital malformations of kidney,2018,0.00062638,Group 5 (Morbidity <0.001%),0
+1101,E73,Lactose intolerance,2014,0.000625139,Group 5 (Morbidity <0.001%),0
+1102,C57,Malignant neoplasm of other and unspecified female genital organs,2001,0.000621104,Group 5 (Morbidity <0.001%),0
+1103,R46,Symptoms and signs involving appearance and behaviour,1987,0.000616758,Group 5 (Morbidity <0.001%),0
+1104,T92,Sequelae of injuries of upper limb,1980,0.000614585,Group 5 (Morbidity <0.001%),0
+1105,O08,Complications following abortion and ectopic and molar pregnancy,1971,0.000611792,Group 5 (Morbidity <0.001%),0
+1106,H95,"Postprocedural disorders of ear and mastoid process, not elsewhere classified",1956,0.000607136,Group 5 (Morbidity <0.001%),0
+1107,Q79,"Congenital malformations of the musculoskeletal system, not elsewhere classified",1949,0.000604963,Group 5 (Morbidity <0.001%),0
+1108,S34,"Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level",1945,0.000603721,Group 5 (Morbidity <0.001%),0
+1109,Z10,Routine general health check-up of defined subpopulation,1915,0.000594409,Group 5 (Morbidity <0.001%),0
+1110,F17,Mental and behavioural disorders due to use of tobacco,1894,0.000587891,Group 5 (Morbidity <0.001%),0
+1111,Z70,"Counselling related to sexual attitude, behaviour and orientation",1879,0.000583235,Group 5 (Morbidity <0.001%),0
+1112,P24,Neonatal aspiration syndromes,1878,0.000582925,Group 5 (Morbidity <0.001%),0
+1113,D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,1871,0.000580752,Group 5 (Morbidity <0.001%),0
+1114,I30,Acute pericarditis,1859,0.000577027,Group 5 (Morbidity <0.001%),0
+1115,Z23,Need for immunization against single bacterial diseases,1857,0.000576406,Group 5 (Morbidity <0.001%),0
+1116,R02,"Gangrene, not elsewhere classified",1855,0.000575786,Group 5 (Morbidity <0.001%),0
+1117,O06,Unspecified abortion,1854,0.000575475,Group 5 (Morbidity <0.001%),0
+1118,C40,Malignant neoplasm of bone and articular cartilage of limbs,1848,0.000573613,Group 5 (Morbidity <0.001%),0
+1119,P70,Transitory disorders of carbohydrate metabolism specific to fetus and newborn,1848,0.000573613,Group 5 (Morbidity <0.001%),0
+1120,P03,Fetus and newborn affected by other complications of labour and delivery,1847,0.000573302,Group 5 (Morbidity <0.001%),0
+1121,U11,Need for immunization against COVID-19,1844,0.000572371,Group 5 (Morbidity <0.001%),0
+1122,S74,Injury of nerves at hip and thigh level,1825,0.000566474,Group 5 (Morbidity <0.001%),0
+1123,C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",1810,0.000561818,Group 5 (Morbidity <0.001%),0
+1124,E75,Disorders of sphingolipid metabolism and other lipid storage disorders,1810,0.000561818,Group 5 (Morbidity <0.001%),0
+1125,I06,Rheumatic aortic valve diseases,1809,0.000561507,Group 5 (Morbidity <0.001%),0
+1126,D66,Hereditary factor VIII deficiency,1808,0.000561197,Group 5 (Morbidity <0.001%),0
+1127,D03,Melanoma in situ,1803,0.000559645,Group 5 (Morbidity <0.001%),0
+1128,O16,Unspecified maternal hypertension,1794,0.000556851,Group 5 (Morbidity <0.001%),0
+1129,B99,Other and unspecified infectious diseases,1772,0.000550023,Group 5 (Morbidity <0.001%),0
+1130,F78,Other mental retardation,1753,0.000544125,Group 5 (Morbidity <0.001%),0
+1131,H22,Disorders of iris and ciliary body in diseases classified elsewhere,1751,0.000543504,Group 5 (Morbidity <0.001%),0
+1132,C03,Malignant neoplasm of gum,1750,0.000543194,Group 5 (Morbidity <0.001%),0
+1133,T74,Maltreatment syndromes,1747,0.000542263,Group 5 (Morbidity <0.001%),0
+1134,S94,Injury of nerves at ankle and foot level,1739,0.00053978,Group 5 (Morbidity <0.001%),0
+1135,C69,Malignant neoplasm of eye and adnexa,1730,0.000536986,Group 5 (Morbidity <0.001%),0
+1136,A88,"Other viral infections of central nervous system, not elsewhere classified",1719,0.000533572,Group 5 (Morbidity <0.001%),0
+1137,Q60,Renal agenesis and other reduction defects of kidney,1716,0.000532641,Group 5 (Morbidity <0.001%),0
+1138,M91,Juvenile osteochondrosis of hip and pelvis,1708,0.000530157,Group 5 (Morbidity <0.001%),0
+1139,C95,Leukaemia of unspecified cell type,1706,0.000529537,Group 5 (Morbidity <0.001%),0
+1140,Q16,Congenital malformations of ear causing impairment of hearing,1706,0.000529537,Group 5 (Morbidity <0.001%),0
+1141,Q14,Congenital malformations of posterior segment of eye,1694,0.000525812,Group 5 (Morbidity <0.001%),0
+1142,P12,Birth injury to scalp,1685,0.000523018,Group 5 (Morbidity <0.001%),0
+1143,J80,Adult respiratory distress syndrome,1682,0.000522087,Group 5 (Morbidity <0.001%),0
+1144,P00,Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy,1679,0.000521156,Group 5 (Morbidity <0.001%),0
+1145,E35,Disorders of endocrine glands in diseases classified elsewhere,1667,0.000517431,Group 5 (Morbidity <0.001%),0
+1146,S57,Crushing injury of forearm,1667,0.000517431,Group 5 (Morbidity <0.001%),0
+1147,G14,Postpolio syndrome,1659,0.000514948,Group 5 (Morbidity <0.001%),0
+1148,D02,Carcinoma in situ of middle ear and respiratory system,1655,0.000513706,Group 5 (Morbidity <0.001%),0
+1149,D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,1653,0.000513086,Group 5 (Morbidity <0.001%),0
+1150,Q37,Cleft palate with cleft lip,1653,0.000513086,Group 5 (Morbidity <0.001%),0
+1151,T86,Failure and rejection of transplanted organs and tissues,1635,0.000507498,Group 5 (Morbidity <0.001%),0
+1152,E51,Thiamine deficiency,1625,0.000504394,Group 5 (Morbidity <0.001%),0
+1153,C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",1611,0.000500049,Group 5 (Morbidity <0.001%),0
+1154,I81,Portal vein thrombosis,1611,0.000500049,Group 5 (Morbidity <0.001%),0
+1155,K41,Femoral hernia,1601,0.000496945,Group 5 (Morbidity <0.001%),0
+1156,Q99,"Other chromosome abnormalities, not elsewhere classified",1598,0.000496014,Group 5 (Morbidity <0.001%),0
+1157,F44,Dissociative [conversion] disorders,1582,0.000491047,Group 5 (Morbidity <0.001%),0
+1158,Q07,Other congenital malformations of nervous system,1555,0.000482667,Group 5 (Morbidity <0.001%),0
+1159,Z72,Problems related to lifestyle,1552,0.000481736,Group 5 (Morbidity <0.001%),0
+1160,T35,Frostbite involving multiple body regions and unspecified frostbite,1544,0.000479252,Group 5 (Morbidity <0.001%),0
+1161,Z63,"Other problems related to primary support group, including family circumstances",1536,0.000476769,Group 5 (Morbidity <0.001%),0
+1162,Q70,Syndactyly,1526,0.000473665,Group 5 (Morbidity <0.001%),0
+1163,B25,Cytomegaloviral disease,1525,0.000473355,Group 5 (Morbidity <0.001%),0
+1164,L97,"Ulcer of lower limb, not elsewhere classified",1514,0.00046994,Group 5 (Morbidity <0.001%),0
+1165,C31,Malignant neoplasm of accessory sinuses,1507,0.000467768,Group 5 (Morbidity <0.001%),0
+1166,T80,"Complications following infusion, transfusion and therapeutic injection",1494,0.000463733,Group 5 (Morbidity <0.001%),0
+1167,Z41,Procedures for purposes other than remedying health state,1491,0.000462801,Group 5 (Morbidity <0.001%),0
+1168,E25,Adrenogenital disorders,1447,0.000449144,Group 5 (Morbidity <0.001%),0
+1169,C38,"Malignant neoplasm of heart, mediastinum and pleura",1445,0.000448523,Group 5 (Morbidity <0.001%),0
+1170,T43,"Poisoning by psychotropic drugs, not elsewhere classified",1435,0.000445419,Group 5 (Morbidity <0.001%),0
+1171,P01,Fetus and newborn affected by maternal complications of pregnancy,1431,0.000444178,Group 5 (Morbidity <0.001%),0
+1172,H59,"Postprocedural disorders of eye and adnexa, not elsewhere classified",1429,0.000443557,Group 5 (Morbidity <0.001%),0
+1173,E12,Malnutrition-related diabetes mellitus,1425,0.000442315,Group 5 (Morbidity <0.001%),0
+1174,C01,Malignant neoplasm of base of tongue,1419,0.000440453,Group 5 (Morbidity <0.001%),0
+1175,J61,Pneumoconiosis due to asbestos and other mineral fibres,1405,0.000436107,Group 5 (Morbidity <0.001%),0
+1176,P78,Other perinatal digestive system disorders,1403,0.000435486,Group 5 (Morbidity <0.001%),0
+1177,M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere,1401,0.000434866,Group 5 (Morbidity <0.001%),0
+1178,S24,Injury of nerves and spinal cord at thorax level,1396,0.000433314,Group 5 (Morbidity <0.001%),0
+1179,Q26,Congenital malformations of great veins,1394,0.000432693,Group 5 (Morbidity <0.001%),0
+1180,B15,Acute hepatitis A,1392,0.000432072,Group 5 (Morbidity <0.001%),0
+1181,D58,Other hereditary haemolytic anaemias,1391,0.000431762,Group 5 (Morbidity <0.001%),0
+1182,S88,Traumatic amputation of lower leg,1370,0.000425243,Group 5 (Morbidity <0.001%),0
+1183,Q42,"Congenital absence, atresia and stenosis of large intestine",1365,0.000423691,Group 5 (Morbidity <0.001%),0
+1184,P91,Other disturbances of cerebral status of newborn,1332,0.000413448,Group 5 (Morbidity <0.001%),0
+1185,Q40,Other congenital malformations of upper alimentary tract,1302,0.000404136,Group 5 (Morbidity <0.001%),0
+1186,J68,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",1295,0.000401964,Group 5 (Morbidity <0.001%),0
+1187,P13,Birth injury to skeleton,1294,0.000401653,Group 5 (Morbidity <0.001%),0
+1188,I40,Acute myocarditis,1291,0.000400722,Group 5 (Morbidity <0.001%),0
+1189,P72,Other transitory neonatal endocrine disorders,1238,0.000384271,Group 5 (Morbidity <0.001%),0
+1190,O05,Other abortion,1229,0.000381477,Group 5 (Morbidity <0.001%),0
+1191,D80,Immunodeficiency with predominantly antibody defects,1221,0.000378994,Group 5 (Morbidity <0.001%),0
+1192,E72,Other disorders of amino-acid metabolism,1212,0.000376201,Group 5 (Morbidity <0.001%),0
+1193,T51,Toxic effect of alcohol,1208,0.000374959,Group 5 (Morbidity <0.001%),0
+1194,E74,Other disorders of carbohydrate metabolism,1204,0.000373717,Group 5 (Morbidity <0.001%),0
+1195,D62,Acute posthaemorrhagic anaemia,1201,0.000372786,Group 5 (Morbidity <0.001%),0
+1196,B16,Acute hepatitis B,1199,0.000372166,Group 5 (Morbidity <0.001%),0
+1197,R36,Urethral discharge,1199,0.000372166,Group 5 (Morbidity <0.001%),0
+1198,H58,Other disorders of eye and adnexa in diseases classified elsewhere,1196,0.000371234,Group 5 (Morbidity <0.001%),0
+1199,P36,Bacterial sepsis of newborn,1193,0.000370303,Group 5 (Morbidity <0.001%),0
+1200,J70,Respiratory conditions due to other external agents,1190,0.000369372,Group 5 (Morbidity <0.001%),0
+1201,I38,"Endocarditis, valve unspecified",1187,0.000368441,Group 5 (Morbidity <0.001%),0
+1202,C51,Malignant neoplasm of vulva,1182,0.000366889,Group 5 (Morbidity <0.001%),0
+1203,P23,Congenital pneumonia,1178,0.000365647,Group 5 (Morbidity <0.001%),0
+1204,L54,Erythema in diseases classified elsewhere,1176,0.000365026,Group 5 (Morbidity <0.001%),0
+1205,I00,Rheumatic fever without mention of heart involvement,1174,0.000364406,Group 5 (Morbidity <0.001%),0
+1206,F81,Specific developmental disorders of scholastic skills,1169,0.000362854,Group 5 (Morbidity <0.001%),0
+1207,Q98,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified",1162,0.000360681,Group 5 (Morbidity <0.001%),0
+1208,Q64,Other congenital malformations of urinary system,1159,0.00035975,Group 5 (Morbidity <0.001%),0
+1209,H32,Chorioretinal disorders in diseases classified elsewhere,1146,0.000355714,Group 5 (Morbidity <0.001%),0
+1210,C26,Malignant neoplasm of other and ill-defined digestive organs,1141,0.000354163,Group 5 (Morbidity <0.001%),0
+1211,T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",1140,0.000353852,Group 5 (Morbidity <0.001%),0
+1212,T56,Toxic effect of metals,1132,0.000351369,Group 5 (Morbidity <0.001%),0
+1213,J91,Pleural effusion in conditions classified elsewhere,1122,0.000348265,Group 5 (Morbidity <0.001%),0
+1214,N26,Unspecified contracted kidney,1121,0.000347955,Group 5 (Morbidity <0.001%),0
+1215,Z92,Personal history of medical treatment,1114,0.000345782,Group 5 (Morbidity <0.001%),0
+1216,G32,Other degenerative disorders of nervous system in diseases classified elsewhere,1111,0.000344851,Group 5 (Morbidity <0.001%),0
+1217,E54,Ascorbic acid deficiency,1106,0.000343299,Group 5 (Morbidity <0.001%),0
+1218,F89,Unspecified disorder of psychological development,1105,0.000342988,Group 5 (Morbidity <0.001%),0
+1219,H48,Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere,1099,0.000341126,Group 5 (Morbidity <0.001%),0
+1220,R85,Abnormal findings in specimens from digestive organs and abdominal cavity,1094,0.000339574,Group 5 (Morbidity <0.001%),0
+1221,L99,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,1085,0.00033678,Group 5 (Morbidity <0.001%),0
+1222,I37,Pulmonary valve disorders,1083,0.00033616,Group 5 (Morbidity <0.001%),0
+1223,F21,Schizotypal disorder,1079,0.000334918,Group 5 (Morbidity <0.001%),0
+1224,O10,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",1075,0.000333676,Group 5 (Morbidity <0.001%),0
+1225,Q77,Osteochondrodysplasia with defects of growth of tubular bones and spine,1073,0.000333056,Group 5 (Morbidity <0.001%),0
+1226,Z24,Need for immunization against certain single viral diseases,1058,0.0003284,Group 5 (Morbidity <0.001%),0
+1227,F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,1057,0.000328089,Group 5 (Morbidity <0.001%),0
+1228,Q12,Congenital lens malformations,1049,0.000325606,Group 5 (Morbidity <0.001%),0
+1229,N82,Fistulae involving female genital tract,1034,0.00032095,Group 5 (Morbidity <0.001%),0
+1230,F09,Unspecified organic or symptomatic mental disorder,1030,0.000319708,Group 5 (Morbidity <0.001%),0
+1231,I28,Other diseases of pulmonary vessels,1020,0.000316605,Group 5 (Morbidity <0.001%),0
+1232,Z83,Family history of other specific disorders,1018,0.000315984,Group 5 (Morbidity <0.001%),0
+1233,O40,Polyhydramnios,1010,0.000313501,Group 5 (Morbidity <0.001%),0
+1234,Z40,Prophylactic surgery,1006,0.000312259,Group 5 (Morbidity <0.001%),0
+1235,C05,Malignant neoplasm of palate,996,0.000309155,Group 5 (Morbidity <0.001%),0
+1236,L59,Other disorders of skin and subcutaneous tissue related to radiation,991,0.000307603,Group 5 (Morbidity <0.001%),0
+1237,O64,Obstructed labour due to malposition and malpresentation of fetus,987,0.000306361,Group 5 (Morbidity <0.001%),0
+1238,Q45,Other congenital malformations of digestive system,987,0.000306361,Group 5 (Morbidity <0.001%),0
+1239,C45,Mesothelioma,968,0.000300464,Group 5 (Morbidity <0.001%),0
+1240,O04,Medical abortion,949,0.000294566,Group 5 (Morbidity <0.001%),0
+1241,O98,"Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",948,0.000294256,Group 5 (Morbidity <0.001%),0
+1242,Q15,Other congenital malformations of eye,948,0.000294256,Group 5 (Morbidity <0.001%),0
+1243,J92,Pleural plaque,945,0.000293325,Group 5 (Morbidity <0.001%),0
+1244,R34,Anuria and oliguria,943,0.000292704,Group 5 (Morbidity <0.001%),0
+1245,T87,Complications peculiar to reattachment and amputation,943,0.000292704,Group 5 (Morbidity <0.001%),0
+1246,Z57,Occupational exposure to risk-factors,927,0.000287738,Group 5 (Morbidity <0.001%),0
+1247,C93,Monocytic leukaemia,924,0.000286806,Group 5 (Morbidity <0.001%),0
+1248,M90,Osteopathies in diseases classified elsewhere,918,0.000284944,Group 5 (Morbidity <0.001%),0
+1249,J60,Coalworker pneumoconiosis,911,0.000282771,Group 5 (Morbidity <0.001%),0
+1250,T59,"Toxic effect of other gases, fumes and vapours",910,0.000282461,Group 5 (Morbidity <0.001%),0
+1251,B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,905,0.000280909,Group 5 (Morbidity <0.001%),0
+1252,N25,Disorders resulting from impaired renal tubular function,901,0.000279667,Group 5 (Morbidity <0.001%),0
+1253,T62,Toxic effect of other noxious substances eaten as food,901,0.000279667,Group 5 (Morbidity <0.001%),0
+1254,J67,Hypersensitivity pneumonitis due to organic dust,899,0.000279047,Group 5 (Morbidity <0.001%),0
+1255,Z99,"Dependence on enabling machines and devices, not elsewhere classified",893,0.000277184,Group 5 (Morbidity <0.001%),0
+1256,P27,Chronic respiratory disease originating in the perinatal period,890,0.000276253,Group 5 (Morbidity <0.001%),0
+1257,N29,Other disorders of kidney and ureter in diseases classified elsewhere,886,0.000275011,Group 5 (Morbidity <0.001%),0
+1258,O62,Abnormalities of forces of labour,884,0.000274391,Group 5 (Morbidity <0.001%),0
+1259,O01,Hydatidiform mole,869,0.000269735,Group 5 (Morbidity <0.001%),0
+1260,T28,Burn and corrosion of other internal organs,869,0.000269735,Group 5 (Morbidity <0.001%),0
+1261,Z82,Family history of certain disabilities and chronic diseases leading to disablement,869,0.000269735,Group 5 (Morbidity <0.001%),0
+1262,Q39,Congenital malformations of oesophagus,863,0.000267872,Group 5 (Morbidity <0.001%),0
+1263,P74,Other transitory neonatal electrolyte and metabolic disturbances,861,0.000267251,Group 5 (Morbidity <0.001%),0
+1264,R64,Cachexia,856,0.000265699,Group 5 (Morbidity <0.001%),0
+1265,Q13,Congenital malformations of anterior segment of eye,854,0.000265079,Group 5 (Morbidity <0.001%),0
+1266,Q31,Congenital malformations of larynx,853,0.000264768,Group 5 (Morbidity <0.001%),0
+1267,B47,Mycetoma,848,0.000263216,Group 5 (Morbidity <0.001%),0
+1268,E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,838,0.000260112,Group 5 (Morbidity <0.001%),0
+1269,F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",836,0.000259492,Group 5 (Morbidity <0.001%),0
+1270,D77,Other disorders of blood and blood-forming organs in diseases classified elsewhere,829,0.000257319,Group 5 (Morbidity <0.001%),0
+1271,B89,Unspecified parasitic disease,807,0.00025049,Group 5 (Morbidity <0.001%),0
+1272,N22,Calculus of urinary tract in diseases classified elsewhere,799,0.000248007,Group 5 (Morbidity <0.001%),0
+1273,L87,Transepidermal elimination disorders,797,0.000247386,Group 5 (Morbidity <0.001%),0
+1274,E90,Nutritional and metabolic disorders in diseases classified elsewhere,794,0.000246455,Group 5 (Morbidity <0.001%),0
+1275,Q02,Microcephaly,779,0.000241799,Group 5 (Morbidity <0.001%),0
+1276,Z91,"Personal history of risk-factors, not elsewhere classified",779,0.000241799,Group 5 (Morbidity <0.001%),0
+1277,Q11,"Anophthalmos, microphthalmos and macrophthalmos",776,0.000240868,Group 5 (Morbidity <0.001%),0
+1278,T54,Toxic effect of corrosive substances,775,0.000240557,Group 5 (Morbidity <0.001%),0
+1279,C70,Malignant neoplasm of meninges,772,0.000239626,Group 5 (Morbidity <0.001%),0
+1280,J95,"Postprocedural respiratory disorders, not elsewhere classified",768,0.000238385,Group 5 (Morbidity <0.001%),0
+1281,S16,Injury of muscle and tendon at neck level,758,0.000235281,Group 5 (Morbidity <0.001%),0
+1282,Q72,Reduction defects of lower limb,757,0.00023497,Group 5 (Morbidity <0.001%),0
+1283,C68,Malignant neoplasm of other and unspecified urinary organs,754,0.000234039,Group 5 (Morbidity <0.001%),0
+1284,S35,"Injury of blood vessels at abdomen, lower back and pelvis level",738,0.000229073,Group 5 (Morbidity <0.001%),0
+1285,A42,Actinomycosis,720,0.000223486,Group 5 (Morbidity <0.001%),0
+1286,H80,Otosclerosis,720,0.000223486,Group 5 (Morbidity <0.001%),0
+1287,N33,Bladder disorders in diseases classified elsewhere,715,0.000221934,Group 5 (Morbidity <0.001%),0
+1288,K45,Other abdominal hernia,714,0.000221623,Group 5 (Morbidity <0.001%),0
+1289,R78,"Findings of drugs and other substances, not normally found in blood",714,0.000221623,Group 5 (Morbidity <0.001%),0
+1290,T90,Sequelae of injuries of head,713,0.000221313,Group 5 (Morbidity <0.001%),0
+1291,O45,Premature separation of placenta [abruptio placentae],710,0.000220382,Group 5 (Morbidity <0.001%),0
+1292,M63,Disorders of muscle in diseases classified elsewhere,695,0.000215726,Group 5 (Morbidity <0.001%),0
+1293,Z87,Personal history of other diseases and conditions,682,0.00021169,Group 5 (Morbidity <0.001%),0
+1294,S19,Other and unspecified injuries of neck,681,0.00021138,Group 5 (Morbidity <0.001%),0
+1295,A07,Other protozoal intestinal diseases,679,0.000210759,Group 5 (Morbidity <0.001%),0
+1296,C04,Malignant neoplasm of floor of mouth,673,0.000208897,Group 5 (Morbidity <0.001%),0
+1297,G97,"Postprocedural disorders of nervous system, not elsewhere classified",670,0.000207966,Group 5 (Morbidity <0.001%),0
+1298,Q50,"Congenital malformations of ovaries, fallopian tubes and broad ligaments",661,0.000205172,Group 5 (Morbidity <0.001%),0
+1299,C52,Malignant neoplasm of vagina,657,0.000203931,Group 5 (Morbidity <0.001%),0
+1300,S98,Traumatic amputation of ankle and foot,654,0.000202999,Group 5 (Morbidity <0.001%),0
+1301,R71,Abnormality of red blood cells,645,0.000200206,Group 5 (Morbidity <0.001%),0
+1302,T68,Hypothermia,642,0.000199275,Group 5 (Morbidity <0.001%),0
+1303,P08,Disorders related to long gestation and high birth weight,641,0.000198964,Group 5 (Morbidity <0.001%),0
+1304,P52,Intracranial nontraumatic haemorrhage of fetus and newborn,636,0.000197412,Group 5 (Morbidity <0.001%),0
+1305,F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",622,0.000193067,Group 5 (Morbidity <0.001%),0
+1306,M73,Soft tissue disorders in diseases classified elsewhere,622,0.000193067,Group 5 (Morbidity <0.001%),0
+1307,T27,Burn and corrosion of respiratory tract,622,0.000193067,Group 5 (Morbidity <0.001%),0
+1308,Z88,"Personal history of allergy to drugs, medicaments and biological substances",617,0.000191515,Group 5 (Morbidity <0.001%),0
+1309,P21,Birth asphyxia,613,0.000190273,Group 5 (Morbidity <0.001%),0
+1310,E65,Localized adiposity,612,0.000189963,Group 5 (Morbidity <0.001%),0
+1311,C94,Other leukaemias of specified cell type,611,0.000189652,Group 5 (Morbidity <0.001%),0
+1312,T71,Asphyxiation,611,0.000189652,Group 5 (Morbidity <0.001%),0
+1313,I22,Subsequent myocardial infarction,605,0.00018779,Group 5 (Morbidity <0.001%),0
+1314,B60,"Other protozoal diseases, not elsewhere classified",602,0.000186859,Group 5 (Morbidity <0.001%),0
+1315,E70,Disorders of aromatic amino-acid metabolism,594,0.000184376,Group 5 (Morbidity <0.001%),0
+1316,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,587,0.000182203,Group 5 (Morbidity <0.001%),0
+1317,G73,Disorders of myoneural junction and muscle in diseases classified elsewhere,583,0.000180961,Group 5 (Morbidity <0.001%),0
+1318,S85,Injury of blood vessels at lower leg level,581,0.00018034,Group 5 (Morbidity <0.001%),0
+1319,Q80,Congenital ichthyosis,578,0.000179409,Group 5 (Morbidity <0.001%),0
+1320,P29,Cardiovascular disorders originating in the perinatal period,574,0.000178168,Group 5 (Morbidity <0.001%),0
+1321,T95,"Sequelae of burns, corrosions and frostbite",574,0.000178168,Group 5 (Morbidity <0.001%),0
+1322,B77,Ascariasis,571,0.000177236,Group 5 (Morbidity <0.001%),0
+1323,P90,Convulsions of newborn,571,0.000177236,Group 5 (Morbidity <0.001%),0
+1324,C12,Malignant neoplasm of piriform sinus,562,0.000174443,Group 5 (Morbidity <0.001%),0
+1325,S55,Injury of blood vessels at forearm level,562,0.000174443,Group 5 (Morbidity <0.001%),0
+1326,T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,562,0.000174443,Group 5 (Morbidity <0.001%),0
+1327,E15,Nondiabetic hypoglycaemic coma,554,0.00017196,Group 5 (Morbidity <0.001%),0
+1328,R98,Unattended death,553,0.000171649,Group 5 (Morbidity <0.001%),0
+1329,B54,Unspecified malaria,545,0.000169166,Group 5 (Morbidity <0.001%),0
+1330,T61,Toxic effect of noxious substances eaten as seafood,544,0.000168856,Group 5 (Morbidity <0.001%),0
+1331,G00,"Bacterial meningitis, not elsewhere classified",543,0.000168545,Group 5 (Morbidity <0.001%),0
+1332,A35,Other tetanus,540,0.000167614,Group 5 (Morbidity <0.001%),0
+1333,S95,Injury of blood vessels at ankle and foot level,536,0.000166373,Group 5 (Morbidity <0.001%),0
+1334,F65,Disorders of sexual preference,535,0.000166062,Group 5 (Morbidity <0.001%),0
+1335,M68,Disorders of synovium and tendon in diseases classified elsewhere,530,0.00016451,Group 5 (Morbidity <0.001%),0
+1336,O31,Complications specific to multiple gestation,527,0.000163579,Group 5 (Morbidity <0.001%),0
+1337,A86,Unspecified viral encephalitis,522,0.000162027,Group 5 (Morbidity <0.001%),0
+1338,C46,Kaposi sarcoma,520,0.000161406,Group 5 (Morbidity <0.001%),0
+1339,D82,Immunodeficiency associated with other major defects,520,0.000161406,Group 5 (Morbidity <0.001%),0
+1340,N01,Rapidly progressive nephritic syndrome,520,0.000161406,Group 5 (Morbidity <0.001%),0
+1341,F68,Other disorders of adult personality and behaviour,519,0.000161096,Group 5 (Morbidity <0.001%),0
+1342,S78,Traumatic amputation of hip and thigh,514,0.000159544,Group 5 (Morbidity <0.001%),0
+1343,M03,Postinfective and reactive arthropathies in diseases classified elsewhere,512,0.000158923,Group 5 (Morbidity <0.001%),0
+1344,D56,Thalassaemia,506,0.000157061,Group 5 (Morbidity <0.001%),0
+1345,B76,Hookworm diseases,505,0.00015675,Group 5 (Morbidity <0.001%),0
+1346,D19,Benign neoplasm of mesothelial tissue,504,0.00015644,Group 5 (Morbidity <0.001%),0
+1347,L88,Pyoderma gangrenosum,502,0.000155819,Group 5 (Morbidity <0.001%),0
+1348,O73,"Retained placenta and membranes, without haemorrhage",500,0.000155198,Group 5 (Morbidity <0.001%),0
+1349,Q03,Congenital hydrocephalus,500,0.000155198,Group 5 (Morbidity <0.001%),0
+1350,C00,Malignant neoplasm of lip,498,0.000154578,Group 5 (Morbidity <0.001%),0
+1351,O11,Pre-eclampsia superimposed on chronic hypertension,495,0.000153646,Group 5 (Morbidity <0.001%),0
+1352,N27,Small kidney of unknown cause,486,0.000150853,Group 5 (Morbidity <0.001%),0
+1353,S77,Crushing injury of hip and thigh,486,0.000150853,Group 5 (Morbidity <0.001%),0
+1354,F73,Profound mental retardation,485,0.000150542,Group 5 (Morbidity <0.001%),0
+1355,Q92,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified",481,0.000149301,Group 5 (Morbidity <0.001%),0
+1356,Q84,Other congenital malformations of integument,478,0.00014837,Group 5 (Morbidity <0.001%),0
+1357,A40,Streptococcal sepsis,476,0.000147749,Group 5 (Morbidity <0.001%),0
+1358,O75,"Other complications of labour and delivery, not elsewhere classified",461,0.000143093,Group 5 (Morbidity <0.001%),0
+1359,Q30,Congenital malformations of nose,459,0.000142472,Group 5 (Morbidity <0.001%),0
+1360,O70,Perineal laceration during delivery,458,0.000142162,Group 5 (Morbidity <0.001%),0
+1361,D67,Hereditary factor IX deficiency,455,0.00014123,Group 5 (Morbidity <0.001%),0
+1362,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,450,0.000139678,Group 5 (Morbidity <0.001%),0
+1363,O71,Other obstetric trauma,450,0.000139678,Group 5 (Morbidity <0.001%),0
+1364,G08,Intracranial and intraspinal phlebitis and thrombophlebitis,449,0.000139368,Group 5 (Morbidity <0.001%),0
+1365,B51,Plasmodium vivax malaria,447,0.000138747,Group 5 (Morbidity <0.001%),0
+1366,L62,Nail disorders in diseases classified elsewhere,444,0.000137816,Group 5 (Morbidity <0.001%),0
+1367,T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",438,0.000135954,Group 5 (Morbidity <0.001%),0
+1368,E60,Dietary zinc deficiency,437,0.000135643,Group 5 (Morbidity <0.001%),0
+1369,Q81,Epidermolysis bullosa,435,0.000135023,Group 5 (Morbidity <0.001%),0
+1370,D60,Acquired pure red cell aplasia [erythroblastopenia],434,0.000134712,Group 5 (Morbidity <0.001%),0
+1371,Q34,Other congenital malformations of respiratory system,433,0.000134402,Group 5 (Morbidity <0.001%),0
+1372,T07,Unspecified multiple injuries,433,0.000134402,Group 5 (Morbidity <0.001%),0
+1373,G10,Huntington disease,432,0.000134091,Group 5 (Morbidity <0.001%),0
+1374,A93,"Other arthropod-borne viral fevers, not elsewhere classified",430,0.000133471,Group 5 (Morbidity <0.001%),0
+1375,J99,Respiratory disorders in diseases classified elsewhere,428,0.00013285,Group 5 (Morbidity <0.001%),0
+1376,C60,Malignant neoplasm of penis,427,0.000132539,Group 5 (Morbidity <0.001%),0
+1377,T34,Frostbite with tissue necrosis,424,0.000131608,Group 5 (Morbidity <0.001%),0
+1378,P54,Other neonatal haemorrhages,418,0.000129746,Group 5 (Morbidity <0.001%),0
+1379,Z89,Acquired absence of limb,418,0.000129746,Group 5 (Morbidity <0.001%),0
+1380,H45,Disorders of vitreous body and globe in diseases classified elsewhere,406,0.000126021,Group 5 (Morbidity <0.001%),0
+1381,R48,"Dyslexia and other symbolic dysfunctions, not elsewhere classified",406,0.000126021,Group 5 (Morbidity <0.001%),0
+1382,S08,Traumatic amputation of part of head,402,0.000124779,Group 5 (Morbidity <0.001%),0
+1383,C63,Malignant neoplasm of other and unspecified male genital organs,398,0.000123538,Group 5 (Morbidity <0.001%),0
+1384,L00,Staphylococcal scalded skin syndrome,397,0.000123227,Group 5 (Morbidity <0.001%),0
+1385,L58,Radiodermatitis,394,0.000122296,Group 5 (Morbidity <0.001%),0
+1386,G94,Other disorders of brain in diseases classified elsewhere,385,0.000119503,Group 5 (Morbidity <0.001%),0
+1387,A19,Miliary tuberculosis,382,0.000118571,Group 5 (Morbidity <0.001%),0
+1388,I23,Certain current complications following acute myocardial infarction,382,0.000118571,Group 5 (Morbidity <0.001%),0
+1389,L45,Papulosquamous disorders in diseases classified elsewhere,381,0.000118261,Group 5 (Morbidity <0.001%),0
+1390,B05,Measles,377,0.00011702,Group 5 (Morbidity <0.001%),0
+1391,F16,Mental and behavioural disorders due to use of hallucinogens,377,0.00011702,Group 5 (Morbidity <0.001%),0
+1392,A17,Tuberculosis of nervous system,368,0.000114226,Group 5 (Morbidity <0.001%),0
+1393,E67,Other hyperalimentation,368,0.000114226,Group 5 (Morbidity <0.001%),0
+1394,Z65,Problems related to other psychosocial circumstances,365,0.000113295,Group 5 (Morbidity <0.001%),0
+1395,E43,Unspecified severe protein-energy malnutrition,362,0.000112364,Group 5 (Morbidity <0.001%),0
+1396,S75,Injury of blood vessels at hip and thigh level,362,0.000112364,Group 5 (Morbidity <0.001%),0
+1397,S25,Injury of blood vessels of thorax,356,0.000110501,Group 5 (Morbidity <0.001%),0
+1398,T06,"Other injuries involving multiple body regions, not elsewhere classified",354,0.00010988,Group 5 (Morbidity <0.001%),0
+1399,I09,Other rheumatic heart diseases,351,0.000108949,Group 5 (Morbidity <0.001%),0
+1400,Q41,"Congenital absence, atresia and stenosis of small intestine",350,0.000108639,Group 5 (Morbidity <0.001%),0
+1401,Z44,Fitting and adjustment of external prosthetic device,345,0.000107087,Group 5 (Morbidity <0.001%),0
+1402,J62,Pneumoconiosis due to dust containing silica,338,0.000104914,Group 5 (Morbidity <0.001%),0
+1403,P81,Other disturbances of temperature regulation of newborn,334,0.000103672,Group 5 (Morbidity <0.001%),0
+1404,Z74,Problems related to care-provider dependency,334,0.000103672,Group 5 (Morbidity <0.001%),0
+1405,N16,Renal tubulo-interstitial disorders in diseases classified elsewhere,331,0.000102741,Group 5 (Morbidity <0.001%),0
+1406,F82,Specific developmental disorder of motor function,330,0.000102431,Group 5 (Morbidity <0.001%),0
+1407,S58,Traumatic amputation of forearm,329,0.00010212,Group 5 (Morbidity <0.001%),0
+1408,B80,Enterobiasis,321,9.96E-05,Group 5 (Morbidity <0.001%),0
+1409,T55,Toxic effect of soaps and detergents,319,9.90E-05,Group 5 (Morbidity <0.001%),0
+1410,U08,Personal history of COVID-19,318,9.87E-05,Group 5 (Morbidity <0.001%),0
+1411,A81,Atypical virus infections of central nervous system,317,9.84E-05,Group 5 (Morbidity <0.001%),0
+1412,B91,Sequelae of poliomyelitis,316,9.81E-05,Group 5 (Morbidity <0.001%),0
+1413,A26,Erysipeloid,315,9.78E-05,Group 5 (Morbidity <0.001%),0
+1414,I39,Endocarditis and heart valve disorders in diseases classified elsewhere,315,9.78E-05,Group 5 (Morbidity <0.001%),0
+1415,P35,Congenital viral diseases,315,9.78E-05,Group 5 (Morbidity <0.001%),0
+1416,O43,Placental disorders,310,9.62E-05,Group 5 (Morbidity <0.001%),0
+1417,T46,Poisoning by agents primarily affecting the cardiovascular system,310,9.62E-05,Group 5 (Morbidity <0.001%),0
+1418,Z56,Problems related to employment and unemployment,310,9.62E-05,Group 5 (Morbidity <0.001%),0
+1419,C33,Malignant neoplasm of trachea,309,9.59E-05,Group 5 (Morbidity <0.001%),0
+1420,B58,Toxoplasmosis,305,9.47E-05,Group 5 (Morbidity <0.001%),0
+1421,D65,Disseminated intravascular coagulation [defibrination syndrome],304,9.44E-05,Group 5 (Morbidity <0.001%),0
+1422,B45,Cryptococcosis,301,9.34E-05,Group 5 (Morbidity <0.001%),0
+1423,B82,Unspecified intestinal parasitism,300,9.31E-05,Group 5 (Morbidity <0.001%),0
+1424,P25,Interstitial emphysema and related conditions originating in the perinatal period,300,9.31E-05,Group 5 (Morbidity <0.001%),0
+1425,C58,Malignant neoplasm of placenta,286,8.88E-05,Group 5 (Morbidity <0.001%),0
+1426,Q71,Reduction defects of upper limb,286,8.88E-05,Group 5 (Morbidity <0.001%),0
+1427,H94,Other disorders of ear in diseases classified elsewhere,283,8.78E-05,Group 5 (Morbidity <0.001%),0
+1428,M36,Systemic disorders of connective tissue in diseases classified elsewhere,283,8.78E-05,Group 5 (Morbidity <0.001%),0
+1429,P61,Other perinatal haematological disorders,283,8.78E-05,Group 5 (Morbidity <0.001%),0
+1430,P02,"Fetus and newborn affected by complications of placenta, cord and membranes",280,8.69E-05,Group 5 (Morbidity <0.001%),0
+1431,P94,Disorders of muscle tone of newborn,279,8.66E-05,Group 5 (Morbidity <0.001%),0
+1432,F11,Mental and behavioural disorders due to use of opioids,278,8.63E-05,Group 5 (Morbidity <0.001%),0
+1433,T04,Crushing injuries involving multiple body regions,276,8.57E-05,Group 5 (Morbidity <0.001%),0
+1434,D81,Combined immunodeficiencies,274,8.50E-05,Group 5 (Morbidity <0.001%),0
+1435,I43,Cardiomyopathy in diseases classified elsewhere,272,8.44E-05,Group 5 (Morbidity <0.001%),0
+1436,B81,"Other intestinal helminthiases, not elsewhere classified",271,8.41E-05,Group 5 (Morbidity <0.001%),0
+1437,F59,Unspecified behavioural syndromes associated with physiological disturbances and physical factors,271,8.41E-05,Group 5 (Morbidity <0.001%),0
+1438,M88,Paget disease of bone [osteitis deformans],271,8.41E-05,Group 5 (Morbidity <0.001%),0
+1439,T45,"Poisoning by primarily systemic and haematological agents, not elsewhere classified",270,8.38E-05,Group 5 (Morbidity <0.001%),0
+1440,A28,"Other zoonotic bacterial diseases, not elsewhere classified",267,8.29E-05,Group 5 (Morbidity <0.001%),0
+1441,F12,Mental and behavioural disorders due to use of cannabinoids,265,8.23E-05,Group 5 (Morbidity <0.001%),0
+1442,L67,Hair colour and hair shaft abnormalities,265,8.23E-05,Group 5 (Morbidity <0.001%),0
+1443,N07,"Hereditary nephropathy, not elsewhere classified",265,8.23E-05,Group 5 (Morbidity <0.001%),0
+1444,S15,Injury of blood vessels at neck level,264,8.19E-05,Group 5 (Morbidity <0.001%),0
+1445,Q56,Indeterminate sex and pseudohermaphroditism,262,8.13E-05,Group 5 (Morbidity <0.001%),0
+1446,F66,Psychological and behavioural disorders associated with sexual development and orientation,250,7.76E-05,Group 5 (Morbidity <0.001%),0
+1447,S38,"Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis",249,7.73E-05,Group 5 (Morbidity <0.001%),0
+1448,A66,Yaws,246,7.64E-05,Group 5 (Morbidity <0.001%),0
+1449,E76,Disorders of glycosaminoglycan metabolism,245,7.60E-05,Group 5 (Morbidity <0.001%),0
+1450,P20,Intrauterine hypoxia,243,7.54E-05,Group 5 (Morbidity <0.001%),0
+1451,T52,Toxic effect of organic solvents,237,7.36E-05,Group 5 (Morbidity <0.001%),0
+1452,E01,Iodine-deficiency-related thyroid disorders and allied conditions,232,7.20E-05,Group 5 (Morbidity <0.001%),0
+1453,B69,Cysticercosis,231,7.17E-05,Group 5 (Morbidity <0.001%),0
+1454,Z64,Problems related to certain psychosocial circumstances,228,7.08E-05,Group 5 (Morbidity <0.001%),0
+1455,G13,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,226,7.01E-05,Group 5 (Morbidity <0.001%),0
+1456,K23,Disorders of oesophagus in diseases classified elsewhere,224,6.95E-05,Group 5 (Morbidity <0.001%),0
+1457,O87,Venous complications and haemorrhoids in the puerperium,219,6.80E-05,Group 5 (Morbidity <0.001%),0
+1458,O48,Prolonged pregnancy,209,6.49E-05,Group 5 (Morbidity <0.001%),0
+1459,S45,Injury of blood vessels at shoulder and upper arm level,209,6.49E-05,Group 5 (Morbidity <0.001%),0
+1460,P51,Umbilical haemorrhage of newborn,208,6.46E-05,Group 5 (Morbidity <0.001%),0
+1461,A98,"Other viral haemorrhagic fevers, not elsewhere classified",206,6.39E-05,Group 5 (Morbidity <0.001%),0
+1462,N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,202,6.27E-05,Group 5 (Morbidity <0.001%),0
+1463,Q32,Congenital malformations of trachea and bronchus,199,6.18E-05,Group 5 (Morbidity <0.001%),0
+1464,G92,Toxic encephalopathy,197,6.11E-05,Group 5 (Morbidity <0.001%),0
+1465,I32,Pericarditis in diseases classified elsewhere,197,6.11E-05,Group 5 (Morbidity <0.001%),0
+1466,A03,Shigellosis,196,6.08E-05,Group 5 (Morbidity <0.001%),0
+1467,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",195,6.05E-05,Group 5 (Morbidity <0.001%),0
+1468,L14,Bullous disorders in diseases classified elsewhere,194,6.02E-05,Group 5 (Morbidity <0.001%),0
+1469,A97,Dengue,193,5.99E-05,Group 5 (Morbidity <0.001%),0
+1470,B94,Sequelae of other and unspecified infectious and parasitic diseases,188,5.84E-05,Group 5 (Morbidity <0.001%),0
+1471,A79,Other rickettsioses,186,5.77E-05,Group 5 (Morbidity <0.001%),0
+1472,G26,Extrapyramidal and movement disorders in diseases classified elsewhere,185,5.74E-05,Group 5 (Morbidity <0.001%),0
+1473,A77,Spotted fever [tick-borne rickettsioses],184,5.71E-05,Group 5 (Morbidity <0.001%),0
+1474,G02,Meningitis in other infectious and parasitic diseases classified elsewhere,184,5.71E-05,Group 5 (Morbidity <0.001%),0
+1475,T10,"Fracture of upper limb, level unspecified",183,5.68E-05,Group 5 (Morbidity <0.001%),0
+1476,U10,Multisystem inflammatory syndrome associated with COVID-19,182,5.65E-05,Group 5 (Morbidity <0.001%),0
+1477,O69,Labour and delivery complicated by umbilical cord complications,180,5.59E-05,Group 5 (Morbidity <0.001%),0
+1478,T98,Sequelae of other and unspecified effects of external causes,180,5.59E-05,Group 5 (Morbidity <0.001%),0
+1479,F83,Mixed specific developmental disorders,177,5.49E-05,Group 5 (Morbidity <0.001%),0
+1480,D55,Anaemia due to enzyme disorders,173,5.37E-05,Group 5 (Morbidity <0.001%),0
+1481,B46,Zygomycosis,172,5.34E-05,Group 5 (Morbidity <0.001%),0
+1482,Z60,Problems related to social environment,171,5.31E-05,Group 5 (Morbidity <0.001%),0
+1483,A58,Granuloma inguinale,162,5.03E-05,Group 5 (Morbidity <0.001%),0
+1484,S48,Traumatic amputation of shoulder and upper arm,161,5.00E-05,Group 5 (Morbidity <0.001%),0
+1485,P71,Transitory neonatal disorders of calcium and magnesium metabolism,160,4.97E-05,Group 5 (Morbidity <0.001%),0
+1486,T57,Toxic effect of other inorganic substances,160,4.97E-05,Group 5 (Morbidity <0.001%),0
+1487,L68,Hypertrichosis,159,4.94E-05,Group 5 (Morbidity <0.001%),0
+1488,Z84,Family history of other conditions,159,4.94E-05,Group 5 (Morbidity <0.001%),0
+1489,O85,Puerperal sepsis,156,4.84E-05,Group 5 (Morbidity <0.001%),0
+1490,P58,Neonatal jaundice due to other excessive haemolysis,155,4.81E-05,Group 5 (Morbidity <0.001%),0
+1491,E59,Dietary selenium deficiency,147,4.56E-05,Group 5 (Morbidity <0.001%),0
+1492,S47,Crushing injury of shoulder and upper arm,146,4.53E-05,Group 5 (Morbidity <0.001%),0
+1493,Z59,Problems related to housing and economic circumstances,146,4.53E-05,Group 5 (Morbidity <0.001%),0
+1494,P76,Other intestinal obstruction of newborn,145,4.50E-05,Group 5 (Morbidity <0.001%),0
+1495,T02,Fractures involving multiple body regions,142,4.41E-05,Group 5 (Morbidity <0.001%),0
+1496,I01,Rheumatic fever with heart involvement,141,4.38E-05,Group 5 (Morbidity <0.001%),0
+1497,E84,Cystic fibrosis,139,4.31E-05,Group 5 (Morbidity <0.001%),0
+1498,T76,Unspecified effects of external causes,139,4.31E-05,Group 5 (Morbidity <0.001%),0
+1499,B06,Rubella [German measles],138,4.28E-05,Group 5 (Morbidity <0.001%),0
+1500,P77,Necrotizing enterocolitis of fetus and newborn,138,4.28E-05,Group 5 (Morbidity <0.001%),0
+1501,T37,Poisoning by other systemic anti-infectives and antiparasitics,138,4.28E-05,Group 5 (Morbidity <0.001%),0
+1502,A01,Typhoid and paratyphoid fevers,134,4.16E-05,Group 5 (Morbidity <0.001%),0
+1503,T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs",134,4.16E-05,Group 5 (Morbidity <0.001%),0
+1504,C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,133,4.13E-05,Group 5 (Morbidity <0.001%),0
+1505,P14,Birth injury to peripheral nervous system,132,4.10E-05,Group 5 (Morbidity <0.001%),0
+1506,D71,Functional disorders of polymorphonuclear neutrophils,131,4.07E-05,Group 5 (Morbidity <0.001%),0
+1507,A57,Chancroid,129,4.00E-05,Group 5 (Morbidity <0.001%),0
+1508,P55,Haemolytic disease of fetus and newborn,129,4.00E-05,Group 5 (Morbidity <0.001%),0
+1509,H75,Other disorders of middle ear and mastoid in diseases classified elsewhere,127,3.94E-05,Group 5 (Morbidity <0.001%),0
+1510,K67,Disorders of peritoneum in infectious diseases classified elsewhere,125,3.88E-05,Group 5 (Morbidity <0.001%),0
+1511,Q97,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified",125,3.88E-05,Group 5 (Morbidity <0.001%),0
+1512,T40,Poisoning by narcotics and psychodysleptics [hallucinogens],125,3.88E-05,Group 5 (Morbidity <0.001%),0
+1513,T12,"Fracture of lower limb, level unspecified",121,3.76E-05,Group 5 (Morbidity <0.001%),0
+1514,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,118,3.66E-05,Group 5 (Morbidity <0.001%),0
+1515,F04,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",115,3.57E-05,Group 5 (Morbidity <0.001%),0
+1516,T66,Unspecified effects of radiation,113,3.51E-05,Group 5 (Morbidity <0.001%),0
+1517,A78,Q fever,110,3.41E-05,Group 5 (Morbidity <0.001%),0
+1518,Q01,Encephalocele,109,3.38E-05,Group 5 (Morbidity <0.001%),0
+1519,S26,Injury of heart,108,3.35E-05,Group 5 (Morbidity <0.001%),0
+1520,P37,Other congenital infectious and parasitic diseases,106,3.29E-05,Group 5 (Morbidity <0.001%),0
+1521,I52,Other heart disorders in diseases classified elsewhere,105,3.26E-05,Group 5 (Morbidity <0.001%),0
+1522,F55,Abuse of non-dependence-producing substances,104,3.23E-05,Group 5 (Morbidity <0.001%),0
+1523,T44,Poisoning by drugs primarily affecting the autonomic nervous system,104,3.23E-05,Group 5 (Morbidity <0.001%),0
+1524,F69,Unspecified disorder of adult personality and behaviour,103,3.20E-05,Group 5 (Morbidity <0.001%),0
+1525,Z28,Immunization not carried out,103,3.20E-05,Group 5 (Morbidity <0.001%),0
+1526,Q91,Edwards syndrome and Patau syndrome,99,3.07E-05,Group 5 (Morbidity <0.001%),0
+1527,F18,Mental and behavioural disorders due to use of volatile solvents,97,3.01E-05,Group 5 (Morbidity <0.001%),0
+1528,R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,97,3.01E-05,Group 5 (Morbidity <0.001%),0
+1529,B50,Plasmodium falciparum malaria,93,2.89E-05,Group 5 (Morbidity <0.001%),0
+1530,J63,Pneumoconiosis due to other inorganic dusts,93,2.89E-05,Group 5 (Morbidity <0.001%),0
+1531,A30,Leprosy [Hansen disease],92,2.86E-05,Group 5 (Morbidity <0.001%),0
+1532,A50,Congenital syphilis,92,2.86E-05,Group 5 (Morbidity <0.001%),0
+1533,A00,Cholera,91,2.82E-05,Group 5 (Morbidity <0.001%),0
+1534,A85,"Other viral encephalitis, not elsewhere classified",91,2.82E-05,Group 5 (Morbidity <0.001%),0
+1535,Z58,Problems related to physical environment,89,2.76E-05,Group 5 (Morbidity <0.001%),0
+1536,Z81,Family history of mental and behavioural disorders,86,2.67E-05,Group 5 (Morbidity <0.001%),0
+1537,O15,Eclampsia,84,2.61E-05,Group 5 (Morbidity <0.001%),0
+1538,P95,Fetal death of unspecified cause,84,2.61E-05,Group 5 (Morbidity <0.001%),0
+1539,A55,Chlamydial lymphogranuloma (venereum),83,2.58E-05,Group 5 (Morbidity <0.001%),0
+1540,B56,African trypanosomiasis,82,2.55E-05,Group 5 (Morbidity <0.001%),0
+1541,I41,Myocarditis in diseases classified elsewhere,81,2.51E-05,Group 5 (Morbidity <0.001%),0
+1542,P11,Other birth injuries to central nervous system,81,2.51E-05,Group 5 (Morbidity <0.001%),0
+1543,E00,Congenital iodine-deficiency syndrome,80,2.48E-05,Group 5 (Morbidity <0.001%),0
+1544,P10,Intracranial laceration and haemorrhage due to birth injury,80,2.48E-05,Group 5 (Morbidity <0.001%),0
+1545,M09,Juvenile arthritis in diseases classified elsewhere,77,2.39E-05,Group 5 (Morbidity <0.001%),0
+1546,T47,Poisoning by agents primarily affecting the gastrointestinal system,77,2.39E-05,Group 5 (Morbidity <0.001%),0
+1547,P04,Fetus and newborn affected by noxious influences transmitted via placenta or breast milk,75,2.33E-05,Group 5 (Morbidity <0.001%),0
+1548,E77,Disorders of glycoprotein metabolism,74,2.30E-05,Group 5 (Morbidity <0.001%),0
+1549,B70,Diphyllobothriasis and sparganosis,73,2.27E-05,Group 5 (Morbidity <0.001%),0
+1550,T05,Traumatic amputations involving multiple body regions,73,2.27E-05,Group 5 (Morbidity <0.001%),0
+1551,D83,Common variable immunodeficiency,71,2.20E-05,Group 5 (Morbidity <0.001%),0
+1552,S28,Crushing injury of thorax and traumatic amputation of part of thorax,70,2.17E-05,Group 5 (Morbidity <0.001%),0
+1553,Z61,Problems related to negative life events in childhood,70,2.17E-05,Group 5 (Morbidity <0.001%),0
+1554,A99,Unspecified viral haemorrhagic fever,66,2.05E-05,Group 5 (Morbidity <0.001%),0
+1555,J65,Pneumoconiosis associated with tuberculosis,66,2.05E-05,Group 5 (Morbidity <0.001%),0
+1556,P15,Other birth injuries,66,2.05E-05,Group 5 (Morbidity <0.001%),0
+1557,A68,Relapsing fevers,65,2.02E-05,Group 5 (Morbidity <0.001%),0
+1558,B68,Taeniasis,65,2.02E-05,Group 5 (Morbidity <0.001%),0
+1559,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,62,1.92E-05,Group 5 (Morbidity <0.001%),0
+1560,F88,Other disorders of psychological development,56,1.74E-05,Group 5 (Morbidity <0.001%),0
+1561,P57,Kernicterus,56,1.74E-05,Group 5 (Morbidity <0.001%),0
+1562,A27,Leptospirosis,55,1.71E-05,Group 5 (Morbidity <0.001%),0
+1563,Z55,Problems related to education and literacy,54,1.68E-05,Group 5 (Morbidity <0.001%),0
+1564,C97,Malignant neoplasms of independent (primary) multiple sites,52,1.61E-05,Group 5 (Morbidity <0.001%),0
+1565,E45,Retarded development following protein-energy malnutrition,52,1.61E-05,Group 5 (Morbidity <0.001%),0
+1566,P80,Hypothermia of newborn,52,1.61E-05,Group 5 (Morbidity <0.001%),0
+1567,T53,Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons,52,1.61E-05,Group 5 (Morbidity <0.001%),0
+1568,T94,Sequelae of injuries involving multiple and unspecified body regions,52,1.61E-05,Group 5 (Morbidity <0.001%),0
+1569,S17,Crushing injury of neck,51,1.58E-05,Group 5 (Morbidity <0.001%),0
+1570,Q73,Reduction defects of unspecified limb,48,1.49E-05,Group 5 (Morbidity <0.001%),0
+1571,R96,"Other sudden death, cause unknown",47,1.46E-05,Group 5 (Morbidity <0.001%),0
+1572,A67,Pinta [carate],46,1.43E-05,Group 5 (Morbidity <0.001%),0
+1573,E42,Marasmic kwashiorkor,46,1.43E-05,Group 5 (Morbidity <0.001%),0
+1574,B53,Other parasitologically confirmed malaria,45,1.40E-05,Group 5 (Morbidity <0.001%),0
+1575,F61,Mixed and other personality disorders,45,1.40E-05,Group 5 (Morbidity <0.001%),0
+1576,F62,"Enduring personality changes, not attributable to brain damage and disease",45,1.40E-05,Group 5 (Morbidity <0.001%),0
+1577,O89,Complications of anaesthesia during the puerperium,45,1.40E-05,Group 5 (Morbidity <0.001%),0
+1578,G01,Meningitis in bacterial diseases classified elsewhere,44,1.37E-05,Group 5 (Morbidity <0.001%),0
+1579,T96,"Sequelae of poisoning by drugs, medicaments and biological substances",44,1.37E-05,Group 5 (Morbidity <0.001%),0
+1580,B71,Other cestode infections,43,1.33E-05,Group 5 (Morbidity <0.001%),0
+1581,T41,Poisoning by anaesthetics and therapeutic gases,43,1.33E-05,Group 5 (Morbidity <0.001%),0
+1582,E31,Polyglandular dysfunction,40,1.24E-05,Group 5 (Morbidity <0.001%),0
+1583,A32,Listeriosis,39,1.21E-05,Group 5 (Morbidity <0.001%),0
+1584,F24,Induced delusional disorder,38,1.18E-05,Group 5 (Morbidity <0.001%),0
+1585,T36,Poisoning by systemic antibiotics,38,1.18E-05,Group 5 (Morbidity <0.001%),0
+1586,B65,Schistosomiasis [bilharziasis],37,1.15E-05,Group 5 (Morbidity <0.001%),0
+1587,B79,Trichuriasis,37,1.15E-05,Group 5 (Morbidity <0.001%),0
+1588,A80,Acute poliomyelitis,36,1.12E-05,Group 5 (Morbidity <0.001%),0
+1589,A92,Other mosquito-borne viral fevers,36,1.12E-05,Group 5 (Morbidity <0.001%),0
+1590,A43,Nocardiosis,35,1.09E-05,Group 5 (Morbidity <0.001%),0
+1591,A25,Rat-bite fevers,34,1.06E-05,Group 5 (Morbidity <0.001%),0
+1592,A39,Meningococcal infection,34,1.06E-05,Group 5 (Morbidity <0.001%),0
+1593,B04,Monkeypox,33,1.02E-05,Group 5 (Morbidity <0.001%),0
+1594,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,33,1.02E-05,Group 5 (Morbidity <0.001%),0
+1595,B42,Sporotrichosis,33,1.02E-05,Group 5 (Morbidity <0.001%),0
+1596,O74,Complications of anaesthesia during labour and delivery,31,9.62E-06,Group 5 (Morbidity <0.001%),0
+1597,G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,30,9.31E-06,Group 5 (Morbidity <0.001%),0
+1598,R83,Abnormal findings in cerebrospinal fluid,30,9.31E-06,Group 5 (Morbidity <0.001%),0
+1599,D74,Methaemoglobinaemia,29,9.00E-06,Group 5 (Morbidity <0.001%),0
+1600,O94,"Sequelae of complication of pregnancy, childbirth and the puerperium",28,8.69E-06,Group 5 (Morbidity <0.001%),0
+1601,O88,Obstetric embolism,27,8.38E-06,Group 5 (Morbidity <0.001%),0
+1602,A44,Bartonellosis,26,8.07E-06,Group 5 (Morbidity <0.001%),0
+1603,A82,Rabies,25,7.76E-06,Group 5 (Morbidity <0.001%),0
+1604,G09,Sequelae of inflammatory diseases of central nervous system,25,7.76E-06,Group 5 (Morbidity <0.001%),0
+1605,F14,Mental and behavioural disorders due to use of cocaine,24,7.45E-06,Group 5 (Morbidity <0.001%),0
+1606,R75,Laboratory evidence of human immunodeficiency virus [HIV],24,7.45E-06,Group 5 (Morbidity <0.001%),0
+1607,A65,Nonvenereal syphilis,23,7.14E-06,Group 5 (Morbidity <0.001%),0
+1608,B38,Coccidioidomycosis,21,6.52E-06,Group 5 (Morbidity <0.001%),0
+1609,B40,Blastomycosis,21,6.52E-06,Group 5 (Morbidity <0.001%),0
+1610,B67,Echinococcosis,20,6.21E-06,Group 5 (Morbidity <0.001%),0
+1611,A83,Mosquito-borne viral encephalitis,19,5.90E-06,Group 5 (Morbidity <0.001%),0
+1612,O67,"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",19,5.90E-06,Group 5 (Morbidity <0.001%),0
+1613,Q86,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",19,5.90E-06,Group 5 (Morbidity <0.001%),0
+1614,T32,Corrosions classified according to extent of body surface involved,19,5.90E-06,Group 5 (Morbidity <0.001%),0
+1615,I02,Rheumatic chorea,18,5.59E-06,Group 5 (Morbidity <0.001%),0
+1616,A24,Glanders and melioidosis,17,5.28E-06,Group 5 (Morbidity <0.001%),0
+1617,A94,Unspecified arthropod-borne viral fever,16,4.97E-06,Group 5 (Morbidity <0.001%),0
+1618,B87,Myiasis,16,4.97E-06,Group 5 (Morbidity <0.001%),0
+1619,J66,Airway disease due to specific organic dust,16,4.97E-06,Group 5 (Morbidity <0.001%),0
+1620,O25,Malnutrition in pregnancy,16,4.97E-06,Group 5 (Morbidity <0.001%),0
+1621,A71,Trachoma,15,4.66E-06,Group 5 (Morbidity <0.001%),0
+1622,B39,Histoplasmosis,15,4.66E-06,Group 5 (Morbidity <0.001%),0
+1623,E40,Kwashiorkor,14,4.35E-06,Group 5 (Morbidity <0.001%),0
+1624,E68,Sequelae of hyperalimentation,14,4.35E-06,Group 5 (Morbidity <0.001%),0
+1625,B64,Unspecified protozoal disease,13,4.04E-06,Group 5 (Morbidity <0.001%),0
+1626,D57,Sickle-cell disorders,13,4.04E-06,Group 5 (Morbidity <0.001%),0
+1627,O07,Failed attempted abortion,13,4.04E-06,Group 5 (Morbidity <0.001%),0
+1628,U18,Emergency use of U18,13,4.04E-06,Group 5 (Morbidity <0.001%),0
+1629,A22,Anthrax,10,3.10E-06,Group 5 (Morbidity <0.001%),0
+1630,A89,Unspecified viral infection of central nervous system,10,3.10E-06,Group 5 (Morbidity <0.001%),0
+1631,E52,Niacin deficiency [pellagra],10,3.10E-06,Group 5 (Morbidity <0.001%),0
+1632,Q00,Anencephaly and similar malformations,10,3.10E-06,Group 5 (Morbidity <0.001%),0
+1633,Q95,"Balanced rearrangements and structural markers, not elsewhere classified",10,3.10E-06,Group 5 (Morbidity <0.001%),0
+1634,A20,Plague,9,2.79E-06,Group 5 (Morbidity <0.001%),0
+1635,B73,Onchocerciasis,9,2.79E-06,Group 5 (Morbidity <0.001%),0
+1636,B92,Sequelae of leprosy,9,2.79E-06,Group 5 (Morbidity <0.001%),0
+1637,P75,Meconium ileus in cystic fibrosis,9,2.79E-06,Group 5 (Morbidity <0.001%),0
+1638,A84,Tick-borne viral encephalitis,8,2.48E-06,Group 5 (Morbidity <0.001%),0
+1639,B75,Trichinellosis,8,2.48E-06,Group 5 (Morbidity <0.001%),0
+1640,A23,Brucellosis,7,2.17E-06,Group 5 (Morbidity <0.001%),0
+1641,O29,Complications of anaesthesia during pregnancy,7,2.17E-06,Group 5 (Morbidity <0.001%),0
+1642,P26,Pulmonary haemorrhage originating in the perinatal period,7,2.17E-06,Group 5 (Morbidity <0.001%),0
+1643,T97,Sequelae of toxic effects of substances chiefly nonmedicinal as to source,7,2.17E-06,Group 5 (Morbidity <0.001%),0
+1644,A36,Diphtheria,6,1.86E-06,Group 5 (Morbidity <0.001%),0
+1645,A70,Chlamydia psittaci infection,6,1.86E-06,Group 5 (Morbidity <0.001%),0
+1646,B52,Plasmodium malariae malaria,6,1.86E-06,Group 5 (Morbidity <0.001%),0
+1647,B72,Dracunculiasis,6,1.86E-06,Group 5 (Morbidity <0.001%),0
+1648,P50,Fetal blood loss,6,1.86E-06,Group 5 (Morbidity <0.001%),0
+1649,A21,Tularaemia,5,1.55E-06,Group 5 (Morbidity <0.001%),0
+1650,P56,Hydrops fetalis due to haemolytic disease,5,1.55E-06,Group 5 (Morbidity <0.001%),0
+1651,B74,Filariasis,4,1.24E-06,Group 5 (Morbidity <0.001%),0
+1652,U04,Severe acute respiratory syndrome [SARS],4,1.24E-06,Group 5 (Morbidity <0.001%),0
+1653,B57,Chagas disease,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1654,B78,Strongyloidiasis,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1655,O97,Death from sequelae of obstetric cause,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1656,P93,Reactions and intoxications due to drugs administered to fetus and newborn,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1657,R95,Sudden infant death syndrome,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1658,S18,Traumatic amputation at neck level,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1659,T64,Toxic effect of aflatoxin and other mycotoxin food contaminants,3,9.31E-07,Group 5 (Morbidity <0.001%),0
+1660,B03,Smallpox,2,6.21E-07,Group 5 (Morbidity <0.001%),0
+1661,B55,Leishmaniasis,2,6.21E-07,Group 5 (Morbidity <0.001%),0
+1662,A34,Obstetrical tetanus,1,3.10E-07,Group 5 (Morbidity <0.001%),0
+1663,A95,Yellow fever,1,3.10E-07,Group 5 (Morbidity <0.001%),0
+1664,B41,Paracoccidioidomycosis,1,3.10E-07,Group 5 (Morbidity <0.001%),0
+1665,O95,Obstetric death of unspecified cause,1,3.10E-07,Group 5 (Morbidity <0.001%),0
+1666,P53,Haemorrhagic disease of fetus and newborn,1,3.10E-07,Group 5 (Morbidity <0.001%),0
+1667,P60,Disseminated intravascular coagulation of fetus and newborn,1,3.10E-07,Group 5 (Morbidity <0.001%),0
